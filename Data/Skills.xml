@@ -2,10 +2,14 @@
 <Skills>
   <Skill>
     <Key>ASTRO</Key>
-    <Name>Astrogation</Name>
+    <Name>Астрогация</Name>
     <Description>
-      [H4]Astrogation (Intellect)[h4]
-      Please see page 104 of the Edge of the Empire Core Rulebook, page 116 of the Age of Rebellion Core Rulebook, or page 114 of the Force and Destiny Core Rulebook, for details.
+      [H4]Астрогация (Интеллект)[h4]
+      Этот навык отображает знание персонажа о движении тел в галактике и повзволяет правильно прокладывать маршруты и совершать гиперпространственные прыжки. Может использоваться в проверках:
+      - Программирование НавиКомпьюитера для гиперпространнственного прыжка.
+      - Знание галактической географии.
+      - Определение неизвестной системы при помощи НавиКомпьютера.
+      - Знание гиперспространнственных маршрутов и торговых сетей.
     </Description>
     <Sources>
       <Source Page="104">Edge of the Empire Core Rulebook</Source>
@@ -17,10 +21,13 @@
   </Skill>
   <Skill>
     <Key>ATHL</Key>
-    <Name>Athletics</Name>
+    <Name>Атлетика</Name>
     <Description>
-      [H4]Athletics (Brawn)[h4]
-      Please see page 105 of the Edge of the Empire Core Rulebook, page 117 of the Age of Rebellion Core Rulebook, or page 115 of the Force and Destiny Core Rulebook, for details.
+      [H4]Атлетика (Мускулы)[h4]
+      Этот навык измеряет физическую подготовку и телосложение персонажа. Используется для демонстрации физической силы и ловкости персонажа. Может использоваться в проверках:
+      - Любое вертекальное перемещение: лазанье, прыжки, падение и т.д.
+      - Плаванье в разных условиях
+      - Длительные усилия, такие как перенос тяжестей или долгий спринт
     </Description>
     <Sources>
       <Source Page="105">Edge of the Empire Core Rulebook</Source>
@@ -32,10 +39,10 @@
   </Skill>
   <Skill>
     <Key>BRAWL</Key>
-    <Name>Brawl</Name>
+    <Name>Борьба</Name>
     <Description>
-      [H4]Brawl (Brawn)[h4]
-      Please see page 120 of the Edge of the Empire Core Rulebook, page 131 of the Age of Rebellion Core Rulebook, or page 129 of the Force and Destiny Core Rulebook, for details.
+      [H4]Борьба (Мускулы)[h4]
+      Боевой навык отражающий способность драться в ближнем бою боксируя или при помощи боевых искусств. Также отвечает за использование "естественного" оружия, такого как клыки и когти
     </Description>
     <Sources>
       <Source Page="120">Edge of the Empire Core Rulebook</Source>
@@ -47,10 +54,13 @@
   </Skill>
   <Skill>
     <Key>CHARM</Key>
-    <Name>Charm</Name>
+    <Name>Обояние</Name>
     <Description>
-      [H4]Charm (Presence)[h4]
-      Please see page 105 of the Edge of the Empire Core Rulebook, page 117 of the Age of Rebellion Core Rulebook, or page 116 of the Force and Destiny Core Rulebook, for details.
+      [H4]Обояние (Сила Личности)[h4]
+      Этот социальный навык показывает способность персонажа делать правильные комплименты и нужные вещи, чтобы склонить других на свою сторону. Может использоваться в проверках:
+      - Убедить кого-то при помощи подхалимства или флирта, сравнив с Хладнокровием собеседника.
+      - Аппелировать к лучшей стороне собеседника
+      - Большинство случаев соблазнения других (кроме случаев, когда это недобровольно)
     </Description>
     <Sources>
       <Source Page="105">Edge of the Empire Core Rulebook</Source>
@@ -62,10 +72,13 @@
   </Skill>
   <Skill>
     <Key>COERC</Key>
-    <Name>Coercion</Name>
+    <Name>Принуждение</Name>
     <Description>
-      [H4]Coercion (Willpower)[h4]
-      Please see page 106 of the Edge of the Empire Core Rulebook, page 118 of the Age of Rebellion Core Rulebook, or page 116 of the Force and Destiny Core Rulebook, for details.
+      [H4]Принуждение (Сила Воли)[h4]
+      Этот социальный навык персонажа отражает способность запугиванием или насилием склонять других к сотрудничеству. Этот навык может быть использован проти Дисциплины цели в случаях:
+      - Каждый раз когда угрожаете цели или выполняете её.
+      - Допрашивать цель в заключении.
+      - При пытках персонажа.
     </Description>
     <Sources>
       <Source Page="106">Edge of the Empire Core Rulebook</Source>
@@ -77,10 +90,15 @@
   </Skill>
   <Skill>
     <Key>COMP</Key>
-    <Name>Computers</Name>
+    <Name>Компьютеры</Name>
     <Description>
-      [H4]Computers (Intellect)[h4]
-      Please see page 107 of the Edge of the Empire Core Rulebook, page 119 of the Age of Rebellion Core Rulebook, or page 118 of the Force and Destiny Core Rulebook, for details.
+      [H4]Компьютеры (Интеллект)[h4]
+      Этот навык про способность работы со всеми аспектами комбьбтерных систем, таких как просмотр ГолоНета или ремонт/поддержка программируемых систем. Может использоваться при проверках:
+      - Обход систем безопасности при помощи компьютера.
+      - Поиск публичной или зашифрованной информации в ГолоНете.
+      - Расследование и восприпятствие действиям Хакера.
+      - Изменение программ поведения дроидоа.
+      - Восстановление данныъ с поврежденных систем.
     </Description>
     <Sources>
       <Source Page="107">Edge of the Empire Core Rulebook</Source>
@@ -92,10 +110,12 @@
   </Skill>
   <Skill>
     <Key>COOL</Key>
-    <Name>Cool</Name>
+    <Name>Хладнокровие</Name>
     <Description>
-      [H4]Cool (Presence)[h4]
-      Please see page 108 of the Edge of the Empire Core Rulebook, page 120 of the Age of Rebellion Core Rulebook, or page 118 of the Force and Destiny Core Rulebook, for details.
+      [H4]Хладнокровие (Сила Личности)[h4]
+      Этот навык отражает способность оставаиться спокойным перед лицом опасности. Хладнокровие встречается в проверках:
+      - Сопротивление навыкам Обмана и Переговоров.
+      - Для определения инициативы, если персонаж готов к предстоящему бою.
     </Description>
     <Sources>
       <Source Page="108">Edge of the Empire Core Rulebook</Source>
@@ -107,10 +127,14 @@
   </Skill>
   <Skill>
     <Key>COORD</Key>
-    <Name>Coordination</Name>
+    <Name>Координация</Name>
     <Description>
-      [H4]Coordination (Agility)[h4]
-      Please see page 109 of the Edge of the Empire Core Rulebook, page 121 of the Age of Rebellion Core Rulebook, or page 119 of the Force and Destiny Core Rulebook, for details.
+      [H4]Координация (Ловкость)[h4]
+      Навык персонажа в дополнение к Атлетике отображает подвижность и быстрота, скорость реакции персонажа, в том числе гибкость. Используется при проверках:
+      - Уменьшение урона от падения.
+      - Балансирование на нестабильной или узкой поверхности.
+      - Выпутывание из наручников, кандалов, веревок и т.д.
+      - Когда персонаж пробирается сквозь узкие пространства.
     </Description>
     <Sources>
       <Source Page="109">Edge of the Empire Core Rulebook</Source>
@@ -122,10 +146,13 @@
   </Skill>
   <Skill>
     <Key>CORE</Key>
-    <Name>Core Worlds</Name>
+    <Name>Миры Ядра</Name>
     <Description>
-      [H4]Core Worlds (Intellect)[h4]
-      Please see page 123 of the Edge of the Empire Core Rulebook, page 134 of the Age of Rebellion Core Rulebook, or page 132 of the Force and Destiny Core Rulebook, for details.
+      [H4]Знание Миров Ядра (Интеллект)[h4]
+      Этот навык отображает совокупность знаний о мирах галактического Ядра, таких как Коррускант или Кореллия. Используется при проверках:
+      - Определение планеты происхождения индивида по его внешности и манерам.
+      - При взаимодействии с выходцами из центрального Ядра, чтобы избежать недопонимания или оскорблений.
+      - Определение импорта, экспорта и нелегальных товаров на мирах Ядра.
     </Description>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
@@ -137,10 +164,14 @@
   </Skill>
   <Skill>
     <Key>DECEP</Key>
-    <Name>Deception</Name>
+    <Name>Обман</Name>
     <Description>
-      [H4]Deception (Cunning)[h4]
-      Please see page 109 of the Edge of the Empire Core Rulebook, page 121 of the Age of Rebellion Core Rulebook, or page 120 of the Force and Destiny Core Rulebook, for details.
+      [H4]Обман (Хитрость)[h4]
+      Социальный навык позволяющий обвести других вокруг пальца и заставить поверить в ложную информацию. Используется против Дисциплины цели в ситуациях: 
+      - Обман покупателя по поводу цены и качества товара.
+      - Отвевлечение оппонента.
+      - Оставить ложный след для преследователей.
+      - Блеф и обман в спорных ситуациях.
     </Description>
     <Sources>
       <Source Page="109">Edge of the Empire Core Rulebook</Source>
@@ -152,10 +183,13 @@
   </Skill>
   <Skill>
     <Key>DISC</Key>
-    <Name>Discipline</Name>
+    <Name>Дисциплина</Name>
     <Description>
-      [H4]Discipline (Willpower)[h4]
-      Please see page 110 of the Edge of the Empire Core Rulebook, page 122 of the Age of Rebellion Core Rulebook, or page 120 of the Force and Destiny Core Rulebook, for details.
+      [H4]Дисциплина (Сила Воли)[h4]
+      Навык отражающий способность персонажа сохранить трезвость ума при встрече с неожиданными или неприятными обстоятельствами. Используется чтобы противостоять эффекта Лидерства, Угрозы или Обмана, а так же в других ситуациях:
+      - Спокойно действовать под подавляющим огнем.
+      - При столкновении с чем-то ужасным или отвратительным.
+      - Сопротивление соблазнам и порокам.
     </Description>
     <Sources>
       <Source Page="110">Edge of the Empire Core Rulebook</Source>
@@ -167,10 +201,12 @@
   </Skill>
   <Skill>
     <Key>EDU</Key>
-    <Name>Education</Name>
+    <Name>Обучение</Name>
     <Description>
-      [H4]Education (Intellect)[h4]
-      Please see page 123 of the Edge of the Empire Core Rulebook, page 135 of the Age of Rebellion Core Rulebook, or page 132 of the Force and Destiny Core Rulebook, for details.
+      [H4]Обучение (Интеллеткт)[h4]
+      Отображение общей эрудиции персонажа полученного в школе или университете. Используется в проверках: 
+      - Взаимодействие с государственными структурами.
+      - Базовые научные знания необходимые для анализа.
     </Description>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
@@ -182,10 +218,10 @@
   </Skill>
   <Skill>
     <Key>GUNN</Key>
-    <Name>Gunnery</Name>
+    <Name>Артиллерия</Name>
     <Description>
-      [H4]Gunnery (Agility)[h4]
-      Please see page 120 of the Edge of the Empire Core Rulebook, page 131 of the Age of Rebellion Core Rulebook, or page 130 of the Force and Destiny Core Rulebook, for details.
+      [H4]Артиллерия (Ловкость)[h4]
+      Боевой навык отображающий опыт обращения с оружием устанавливаем на технику или сверхтяжелым личным вооружением.
     </Description>
     <Sources>
       <Source Page="120">Edge of the Empire Core Rulebook</Source>
@@ -197,10 +233,13 @@
   </Skill>
   <Skill>
     <Key>LEAD</Key>
-    <Name>Leadership</Name>
+    <Name>Лидерство</Name>
     <Description>
-      [H4]Leadership (Presence)[h4]
-      Please see page 111 of the Edge of the Empire Core Rulebook, page 123 of the Age of Rebellion Core Rulebook, or page 121 of the Force and Destiny Core Rulebook, for details.
+      [H4]Лидерство (Сила Личности)[h4]
+      Способность персонажа руководить и возглавлять группы существ, быть твердым и решительным. Проявляется при проверках:
+      - Вдохновить испуганных союзников.
+      - Управление толпой в политике.
+      - Восстановить лояльность колеблющихся подчиненных.
     </Description>
     <Sources>
       <Source Page="111">Edge of the Empire Core Rulebook</Source>
@@ -212,11 +251,12 @@
   </Skill>
   <Skill>
     <Key>LTSABER</Key>
-    <Name>Lightsaber</Name>
+    <Name>Световой меч</Name>
     <Description>
-      [H4]Lightsaber (Brawn*)[h4]
-      Please see page 130 of the Force and Destiny Core Rulebook for details.[BR]
-      [I]* Indicates that talents may change the base characteristic.[i]
+      [H4]Световой меч (Мускулы*)[h4]
+      Световые мечи (и другие их разновидности) весьма нетипичное оружее в галактике. В то время как большинство орудий ближнего боя имеют клинок или заостренную поверхность припрекленную к ухвату или рукояти, неактивный световой меч выглядит как простая рукоятка. Тем не менее, когда он активен - из рукояти проецируется гудящий "клинок" из яркой энергии. Такое оружее ссложно в обращении даже для очень опытных мечников и требует очень специфических навыков. 
+      Не смотря на то, что навык Световой меч связяан с характеристикой Мускулы, многие персонажи могут получить доступ к талантам, которые позволяют использовать другую характеристику, так используют разные формы фехтования. Навык Светового меча оказывает влияние не только на сражение самим световым мечом, но также таким оружием как световые плети, шото, тренировочные мечи и т.д.
+      [I]* Таланты могут менять основную характеристику для навыков.[i]
     </Description>
     <Source Page="130">Force and Destiny Core Rulebook</Source>
     <CharKey>BR</CharKey>
@@ -224,10 +264,13 @@
   </Skill>
   <Skill>
     <Key>LORE</Key>
-    <Name>Lore</Name>
+    <Name>История</Name>
     <Description>
-      [H4]Lore (Intellect)[h4]
-      Please see page 123 of the Edge of the Empire Core Rulebook, page 135 of the Age of Rebellion Core Rulebook, or page 132 of the Force and Destiny Core Rulebook, for details.
+      [H4]История (Интеллект)[h4]
+      Этот навык отображает знание персонажем о древней галактике и её истории. Может использоваться при проверках:
+      - Расшифровка древней надписи.
+      - Знание подвигов древнего героя или личности.
+      - Изучение путей навыков Силы и джедаев.
     </Description>
     <Sources>
       <Source Page="123">Edge of the Empire Core Rulebook</Source>
@@ -239,10 +282,13 @@
   </Skill>
   <Skill>
     <Key>MECH</Key>
-    <Name>Mechanics</Name>
+    <Name>Механника</Name>
     <Description>
-      [H4]Mechanics (Intellect)[h4]
-      Please see page 111 of the Edge of the Empire Core Rulebook, page 124 of the Age of Rebellion Core Rulebook, or page 122 of the Force and Destiny Core Rulebook, for details.
+      [H4]Механника (Интеллект)[h4]
+      Этот навык отображдает способности и умения работы со всеми вещами от оружия до робтов и кораблей. Используется в проверках:
+      - Починка сломанного устройства
+      - Определение стоимости вещей необходимые для ремонта или производства
+      - Создание устройства, дроидла или корабля
     </Description>
     <Sources>
       <Source Page="111">Edge of the Empire Core Rulebook</Source>
@@ -254,10 +300,14 @@
   </Skill>
   <Skill>
     <Key>MED</Key>
-    <Name>Medicine</Name>
+    <Name>Медицина</Name>
     <Description>
-      [H4]Medicine (Intellect)[h4]
-      Please see page 112 of the Edge of the Empire Core Rulebook, page 125 of the Age of Rebellion Core Rulebook, or page 122 of the Force and Destiny Core Rulebook, for details.
+      [H4]Медицина (Интеллект)[h4]
+      Навык показывает склонность к проведению медицинских процедур. Используется в проверках:
+      - Базовая первая помощь, включая использование МедПаков.
+      - Лечение от яда или отравление кого-либо.
+      - Лечение болезней или идентификация патогенов.
+      - Проведение хирургических операций или имплантирование кибернетики.
     </Description>
     <Sources>
       <Source Page="112">Edge of the Empire Core Rulebook</Source>
@@ -269,10 +319,12 @@
   </Skill>
   <Skill>
     <Key>MELEE</Key>
-    <Name>Melee</Name>
+    <Name>Рукопашный бой</Name>
     <Description>
-      [H4]Melee (Brawn)[h4]
-      Please see page 121 of the Edge of the Empire Core Rulebook, page 133 of the Age of Rebellion Core Rulebook, or page 131 of the Force and Destiny Core Rulebook, for details.
+      [H4]Рукопашный бой (Мускулы)[h4]
+      Все дальнобойное оружие требует какого-либо вида патронов и зачастую весьма громкое. Так же оружие требует набор инструментов, так как зачастую имеет хлипкие компонентны или требунь постоянного обслуживания. В сравнении с этим, подавляющее число оружия для ближнего боя дешевле, условно бесшумные и не требуют намного меньше обсуживания. А их разрушительная способность ограничена только силой их владельца.
+      Большинство оружия ближнего боя зависят от силы их владельца при нанесении урона, но некоторые типы имеют свой собственный источник энергии. Тем не мнее, их основной прицип сохраняется для всех. Мастерство с одним видом оружия ближнего боя вполне ведет и к мастерству большинства из них.
+      Любая военная подготовка включает базовый курс сражения в рукопашной, как минимум. В дополнение, персонажи, проведшие большую часть времени на примитивных мирах, могут научитьсчя защищать себя при помощи оружия ближнего боя. Аристократы, в некоторых системах, могут также обучать владению оружием ближнего боя как часть их культурных традиций.
     </Description>
     <Sources>
       <Source Page="121">Edge of the Empire Core Rulebook</Source>
@@ -284,10 +336,14 @@
   </Skill>
   <Skill>
     <Key>NEG</Key>
-    <Name>Negotiation</Name>
+    <Name>Переговоры</Name>
     <Description>
-      [H4]Negotiation (Presence)[h4]
-      Please see page 113 of the Edge of the Empire Core Rulebook, page 125 of the Age of Rebellion Core Rulebook, or page 123 of the Force and Destiny Core Rulebook, for details.
+      [H4]Переговоры (Сила Личности)[h4]
+      Социальный навык необходимый в торговле, чтобы оставаться хладнокровным во время торговли и заполучить лучшие условия по итогу. Встречается в проверках:
+      - Покупка товаров по меньшей цене.
+      - Продажа товаров.
+      - Заключение сделок и контрактов.
+      - Поиск покупателя на товар.
     </Description>
     <Sources>
       <Source Page="113">Edge of the Empire Core Rulebook</Source>
@@ -299,10 +355,13 @@
   </Skill>
   <Skill>
     <Key>OUT</Key>
-    <Name>Outer Rim</Name>
+    <Name>Внешнее Кольцо</Name>
     <Description>
-      [H4]Outer Rim (Intellect)[h4]
-      Please see page 124 of the Edge of the Empire Core Rulebook, page 135 of the Age of Rebellion Core Rulebook, or page 133 of the Force and Destiny Core Rulebook, for details.
+      [H4]Знание Внешнего Кольца (Интеллект)[h4]
+      Навык показывающий осведомленность персонажа о мирах Внешнего Кольца, в том числе и пространства Хаттов. Используется в проверках:
+      - Поиск планет со специфическими ресурсами или услугами во Внешнем Кольце.
+      - Поиск мест для получения критических ресурсов избегая надзор Имперскии.
+      - При взаимодействии с выходцами из Внешнего Кольца, чтобы избежать недопонимания или оскорблений.
     </Description>
     <Sources>
       <Source Page="124">Edge of the Empire Core Rulebook</Source>
@@ -314,10 +373,14 @@
   </Skill>
   <Skill>
     <Key>PERC</Key>
-    <Name>Perception</Name>
+    <Name>Внимательность</Name>
     <Description>
-      [H4]Perception (Cunning)[h4]
-      Please see page 114 of the Edge of the Empire Core Rulebook, page 126 of the Age of Rebellion Core Rulebook, or page 124 of the Force and Destiny Core Rulebook, for details.
+      [H4]Внимательность (Хитрость)[h4]
+      Навык отображает способность замечать небольшие подсказки или выбивающиеся из ряда ввон вещи, которые могут намекнуть на произошедшие события. Используется в проверках:
+      - Заметить как кто-то пытается что-то украсть.
+      - Заметить как кто-то пытается провернуть что-то при помощи Ловкости Рук.
+      - Заметить некие улики или обстоятельства.
+      - Распознать информацию при наблюдении.
     </Description>
     <Sources>
       <Source Page="114">Edge of the Empire Core Rulebook</Source>
@@ -329,10 +392,13 @@
   </Skill>
   <Skill>
     <Key>PILOTPL</Key>
-    <Name>Piloting - Planetary</Name>
+    <Name>Пилотирование - Планетарное</Name>
     <Description>
-      [H4]Piloting - Planetary (Agility)[h4]
-      Please see page 115 of the Edge of the Empire Core Rulebook, page 126 of the Age of Rebellion Core Rulebook, or page 124 of the Force and Destiny Core Rulebook, for details.
+      [H4]Пилотирование - Планетарное (Ловкость)[h4]
+      Навык отвечает за возможность везти технику по земле или пилотировать аппарат в атмосфере, независимо от его состояния. Используется в таких проверках как:
+      - Использование абсолютно незнакомой техники и разобраться в управлении.
+      - Гонка или преследование по (или под/над) поверхности Мира.
+      - Навигация в сложных условиях, таких как густой лес.
     </Description>
     <Sources>
       <Source Page="115">Edge of the Empire Core Rulebook</Source>
@@ -344,10 +410,13 @@
   </Skill>
   <Skill>
     <Key>PILOTSP</Key>
-    <Name>Piloting - Space</Name>
+    <Name>Пилотирование - Космос</Name>
     <Description>
-      [H4]Piloting - Space (Agility)[h4]
-      Please see page 116 of the Edge of the Empire Core Rulebook, page 127 of the Age of Rebellion Core Rulebook, or page 125 of the Force and Destiny Core Rulebook, for details.
+      [H4]Пилотирование - Космос (Ловкость)[h4]
+      Навык показывапет способность персонажа управлять космическими кораблями или другой орбитальной техникой. Используется в проверках вида:
+      - Гонка и преследование на космических кораблях.
+      - Навигация сквозь опасные участки космоса, такие как астероидные поля.
+      - Получение преимущества и уклонение во время боя в космосе.
     </Description>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
@@ -359,10 +428,12 @@
   </Skill>
   <Skill>
     <Key>RANGHVY</Key>
-    <Name>Ranged - Heavy</Name>
+    <Name>Тяжелое оружие дальнего боя</Name>
     <Description>
-      [H4]Ranged - Heavy (Agility)[h4]
-      Please see page 121 of the Edge of the Empire Core Rulebook, page 133 of the Age of Rebellion Core Rulebook, or page 131 of the Force and Destiny Core Rulebook, for details.
+      [H4]Тяжелое оружие дальнего боя (Ловкость)[h4]
+      При стрельбе по цели на расстоянии оружие, удерживаемое двумя руками, обеспечивает более стабильную платформу для стрельбы, чем оружие, удерживаемое одной рукой. Кроме того, такие образцы часто имеют более длинные стволы, обеспечивая стабильную кучность стрельбы на гораздо большем расстоянии. Благодаря большему пространству, необходимому для такого вооружения, конструкторы часто могут разместить значительно больший запас боеприпасов и сделать оружие гораздо более мощным, чем более компактные образцы. Такое сочетание позволяет создавать оружие, значительно более смертоносное и точное.
+      В галактике используется бесчисленное множество разновидностей винтовок. Некоторые представляют собой простые пулемёты, в то время как обычные бластерные винтовки варьируются по размеру от карабинов до снайперских винтовок с удлинённым стволом. Существует также ряд уникальных видов оружия, таких как арбалет Вуки. Для использования любого из этих видов оружия требуется навык «Тяжелое оружие дальнего боя».
+      Помимо боевого применения, тяжелое оружие дальнего боя часто используется для охоты. В результате, такие виды оружия встречаются на пограничных мирах гораздо чаще, чем легкое оружие. Персонажи, ориентированные на навыки выживания в дикой природе, могут предпочесть дополнительную дальность стрельбы, которую обеспечивает винтовка при столкновении с хищниками.
     </Description>
     <Sources>
       <Source Page="121">Edge of the Empire Core Rulebook</Source>
@@ -374,10 +445,10 @@
   </Skill>
   <Skill>
     <Key>RANGLT</Key>
-    <Name>Ranged - Light</Name>
+    <Name>Легкое оружие дальнего боя</Name>
     <Description>
-      [H4]Ranged - Light (Agility)[h4]
-      Please see page 122 of the Edge of the Empire Core Rulebook, page 133 of the Age of Rebellion Core Rulebook, or page 131 of the Force and Destiny Core Rulebook, for details.
+      [H4]Легкое оружие дльнего боя (Ловкость)[h4]
+      Этот навык отражает умение персонажа использовать одноручное оружие, такое как пистолеты, копья, сети и гранаты. Персонажи могут держать в каждой руке легкое оружие боя или сочетать легок оружие в одной руке с одноручным оружием ближнего боя в другой.
     </Description>
     <Sources>
       <Source Page="122">Edge of the Empire Core Rulebook</Source>
@@ -389,10 +460,14 @@
   </Skill>
   <Skill>
     <Key>RESIL</Key>
-    <Name>Resilience</Name>
+    <Name>Стойкость</Name>
     <Description>
-      [H4]Resilience (Brawn)[h4]
-      Please see page 116 of the Edge of the Empire Core Rulebook, page 127 of the Age of Rebellion Core Rulebook, or page 125 of the Force and Destiny Core Rulebook, for details.
+      [H4]Стойкость (Мускулы)[h4]
+      Этот навык определяет способность организма персонажа справляться с перенапряжением, недосыпанием и опасными условиями окружающей среды, включая яды. Он проверяется в таких ситуациях, как:
+      - Длительное отсутствие сна.
+      - Прием токсина внутрь.
+      - Длительное пребывание во враждебной среде.
+      - Обезвоживание и недоедание.
     </Description>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
@@ -404,10 +479,13 @@
   </Skill>
   <Skill>
     <Key>SKUL</Key>
-    <Name>Skulduggery</Name>
+    <Name>Ловкость Рук</Name>
     <Description>
-      [H4]Skulduggery (Cunning)[h4]
-      Please see page 116 of the Edge of the Empire Core Rulebook, page 128 of the Age of Rebellion Core Rulebook, or page 126 of the Force and Destiny Core Rulebook, for details.
+      [H4]Ловкость Рук (Хитрость)[h4]
+      Этот навык отражает ловкость рук персонажа и его общее мастерство в нечестных криминальных приемах, таких как физическое взлом замка или карманная кража. Он проверяется в таких ситуациях, как:
+      - Взлом замка или кармана. Для взлома электронных замков также может потребоваться навык Компьютеры.
+      - Побег из камеры.
+      - Выявление слабых мест в системе безопасности.
     </Description>
     <Sources>
       <Source Page="116">Edge of the Empire Core Rulebook</Source>
@@ -419,10 +497,13 @@
   </Skill>
   <Skill>
     <Key>STEAL</Key>
-    <Name>Stealth</Name>
+    <Name>Скрытность</Name>
     <Description>
-      [H4]Stealth (Agility)[h4]
-      Please see page 117 of the Edge of the Empire Core Rulebook, page 128 of the Age of Rebellion Core Rulebook, or page 126 of the Force and Destiny Core Rulebook, for details.
+      [H4]Скрытность (Ловкость)[h4]
+      Этот навык отражает способность персонажа сливаться с окружающей средой и оставаться незаметным. Он может использоваться в проверках:
+      - Скрытия от чувств противника, против его навыка Бдительности.
+      - Слежения за отдельными лицами.
+      - Скрытия предметов или людей.
     </Description>
     <Sources>
       <Source Page="117">Edge of the Empire Core Rulebook</Source>
@@ -434,10 +515,13 @@
   </Skill>
   <Skill>
     <Key>SW</Key>
-    <Name>Streetwise</Name>
+    <Name>Знание улиц</Name>
     <Description>
-      [H4]Streetwise (Cunning)[h4]
-      Please see page 118 of the Edge of the Empire Core Rulebook, page 130 of the Age of Rebellion Core Rulebook, or page 127 of the Force and Destiny Core Rulebook, for details.
+      [H4]Знание улиц (Хитрость)[h4]
+      Этот навык — опыт персонажа, полученный в ходе жизни и работы в криминальном мире; понимание криминального жаргона. Он используется в проверках, связанных с:
+      - Поиском товаров для покупки или продажи на чёрном рынке.
+      - Расследованием на основе слухов на улицах.
+      - Знанием того, как общаться с преступниками.
     </Description>
     <Sources>
       <Source Page="118">Edge of the Empire Core Rulebook</Source>
@@ -449,10 +533,14 @@
   </Skill>
   <Skill>
     <Key>SURV</Key>
-    <Name>Survival</Name>
+    <Name>Выживание</Name>
     <Description>
-      [H4]Survival (Cunning)[h4]
-      Please see page 119 of the Edge of the Empire Core Rulebook, page 130 of the Age of Rebellion Core Rulebook, or page 128 of the Force and Destiny Core Rulebook, for details.
+      [H4]Выживание (Хитрость)[h4]
+      Этот навык отражает способность персонажа выживать в дикой природе и во враждебной среде. Он используется при проверках, связанных с:
+      - Определением безопасной пищи, воды и укрытия.
+      - Распознаванием надвигающихся опасных погодных условий.
+      - Выслеживанием человека в дикой природе.
+      - Обращением с домашними животными.    
     </Description>
     <Sources>
       <Source Page="119">Edge of the Empire Core Rulebook</Source>
@@ -464,10 +552,12 @@
   </Skill>
   <Skill>
     <Key>UND</Key>
-    <Name>Underworld</Name>
+    <Name>Преступный Мир</Name>
     <Description>
-      [H4]Underworld (Intellect)[h4]
-      Please see page 124 of the Edge of the Empire Core Rulebook, page 136 of the Age of Rebellion Core Rulebook, or page 133 of the Force and Destiny Core Rulebook, for details.
+      [H4]Знание Преступного Мира (Интеллект)[h4]
+      Этот навык определяет понимание персонажем работы преступного мира и преступников. Он может использоваться в таких проверках, как:
+      - Знание того, какая преступная деятельность присутствует на планете и кто ею управляет.
+      - Определение наиболее распространенных методов, которые противник может использовать для совершения определенного преступления.    \
     </Description>
     <Sources>
       <Source Page="124">Edge of the Empire Core Rulebook</Source>
@@ -479,10 +569,13 @@
   </Skill>
   <Skill>
     <Key>VIGIL</Key>
-    <Name>Vigilance</Name>
+    <Name>Бдительность</Name>
     <Description>
-      [H4]Vigilance (Willpower)[h4]
-      Please see page 119 of the Edge of the Empire Core Rulebook, page 130 of the Age of Rebellion Core Rulebook, or page 129 of the Force and Destiny Core Rulebook, for details.
+      [H4]Бдительность (Сила Воли)[h4]
+      Этот навык отражает способность персонажа замечать события, происходящие вокруг, и использовать периферийное зрение. Он может применяться:
+      - Для расчета инициативы, если персонаж не готов к боевому столкновению.
+      - Для оценки готовности к любой деятельности.
+      - Для обнаружения чего-либо, даже если персонаж специально это не ищет.
     </Description>
     <Sources>
       <Source Page="119">Edge of the Empire Core Rulebook</Source>
@@ -494,10 +587,13 @@
   </Skill>
   <Skill>
     <Key>XEN</Key>
-    <Name>Xenology</Name>
+    <Name>Ксенология</Name>
     <Description>
-      [H4]Xenology (Intellect)[h4]
-      Please see page 125 of the Edge of the Empire Core Rulebook, page 137 of the Age of Rebellion Core Rulebook, or page 133 of the Force and Destiny Core Rulebook, for details.
+      [H4]Знание Ксенологии (Интеллект)[h4]
+      Этот навык определяет знания персонажа о различиях между различными видами, фауной и флорой галактики. Он может использоваться при проверках, например:
+      - Определение способов взаимодействия с представителем другой расы.
+      - Оказание помощи или причинение вреда представителю другой расы.
+      - Знание того, что предложить в качестве пищи представителю другой расы.
     </Description>
     <Sources>
       <Source Page="125">Edge of the Empire Core Rulebook</Source>
@@ -509,10 +605,12 @@
   </Skill>
   <Skill>
     <Key>WARF</Key>
-    <Name>Warfare</Name>
+    <Name>Боевые Действия</Name>
     <Description>
-      [H4]Warfare (Intellect)[h4]
-      Please see page 136 of the Age of Rebellion Core Rulebook for details.
+      [H4]Знание Боевых Действий (Intellect)[h4]
+      Этот навык определяет знание персонажем военного искусства, например, тактического перемещения армий и стратегического позиционирования или направления. Он может использоваться при бросках кубиков, касающихся:
+      - Определения наилучшей тактики для конкретного поля боя.
+      - Запоминания деталей значимого сражения или войны.
     </Description>
     <Source Page="136">Age of Rebellion Core Rulebook</Source>
     <CharKey>INT</CharKey>

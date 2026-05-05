@@ -2,11 +2,11 @@
 <Characteristics>
   <Characteristic>
     <Key>BR</Key>
-    <Name>Brawn</Name>
-    <Abbrev>Br</Abbrev>
+    <Name>Мускулы</Name>
+    <Abbrev>МУС</Abbrev>
     <Description>
-      [H4]Brawn[h4]
-      Please see page 16 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 24 of the Force and Destiny Core Rulebook for details.
+      [H4]Мускулы[h4]
+      Мускулы персонажа отображают совокупность грубой силы, мощи и общей крепкости персонажа, а так же умение эту силы применять. Персонажи с высоким показателем Мускул физически подтянуты, редко болеют и отличаются общей мускулатурой. Мускулы используются в многих физических навыках, например Атлетика или Борьба. Мускулы также используются при определении начального порога ран у персонажа.  
     </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
@@ -16,11 +16,11 @@
   </Characteristic>
   <Characteristic>
     <Key>AG</Key>
-    <Name>Agility</Name>
-    <Abbrev>Ag</Abbrev>
+    <Name>Ловкость</Name>
+    <Abbrev>ЛВК</Abbrev>
     <Description>
-      [H4]Agility[h4]
-      Please see page 15 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 24 of the Force and Destiny Core Rulebook for details.
+      [H4]Ловкость[h4]
+      Характеристика Ловкости измеряет общую гибкость, координацию и контроль над своим телом. Персонажи с высокой Ловкостью имеют хорошее чувство равновесия, гивкости и ловкие руки. Ловкость используется в разных физических навыках таких как Акробатика и является ключевой характеристикой для желающих сражаться в дальнем бою.
     </Description>
     <Sources>
       <Source Page="15">Edge of the Empire Core Rulebook</Source>
@@ -30,11 +30,11 @@
   </Characteristic>
   <Characteristic>
     <Key>INT</Key>
-    <Name>Intellect</Name>
-    <Abbrev>Int</Abbrev>
+    <Name>Интеллект</Name>
+    <Abbrev>ИНТ</Abbrev>
     <Description>
-      [H4]Intellect[h4]
-      Please see page 16 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 25 of the Force and Destiny Core Rulebook for details.
+      [H4]Интеллект[h4]
+      Интеллект показывает грамотность, образованность, остроту ума и спасобность рационально мыслить. Персонажи с высоким интеллектом способны экстраполировать и интерполировать данные, вспоминать детали и опираться на предыдущий опыт, а также мыслить в долгосрочной перспективе и предвидеть последствия текущих действий. Интеллект используется в различных ментальных навыках таких как Компьюитеры и навыки из категории Знания.
     </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
@@ -44,12 +44,11 @@
   </Characteristic>
   <Characteristic>
     <Key>CUN</Key>
-    <Name>Cunning</Name>
-    <Abbrev>Cun</Abbrev>
+    <Name>Хитрость</Name>
+    <Abbrev>ХТР</Abbrev>
     <Description>
-      [H4]Cunning[h4]
-      Please see page 16 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 24 of the Force and Destiny Core Rulebook for details.
-    </Description>
+      [H4]Хитрость[h4]
+      Хитрость отражает, насколько изворотливым, коварным, умным и изобретательным может быть характер. Персонажи с высоким уровнем хитрости проницательны, быстро улавливают социальные и внешние сигналы и легче разрабатывают краткосрочные планы и тактики. Хитрость используется для ряда ментальных навыков, таких как обман, восприятие и выживание.    </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
       <Source Page="23">Age of Rebellion Core Rulebook</Source>
@@ -58,12 +57,11 @@
   </Characteristic>
   <Characteristic>
     <Key>WIL</Key>
-    <Name>Willpower</Name>
-    <Abbrev>Wil</Abbrev>
+    <Name>Сила Воли</Name>
+    <Abbrev>СВ</Abbrev>
     <Description>
-      [H4]Willpower[h4]
-      Please see page 16 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 25 of the Force and Destiny Core Rulebook for details.
-    </Description>
+      [H4]Сила Воли[h4]
+      Характеристика «Сила воли» отражает дисциплину, самообладание, душевную стойкость и веру персонажа. Персонажи с высоким показателем Силы воли способны выдерживать стресс и усталость, сохранять спокойствие в хаотичных ситуациях и оказывать влияние на людей со слабой волей. Сила воли используется для ряда навыков, таких как Принуждение и Бдительность. Сила воли также используется для определения начального порога напряжения персонажа.    </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
       <Source Page="23">Age of Rebellion Core Rulebook</Source>
@@ -72,11 +70,11 @@
   </Characteristic>
   <Characteristic>
     <Key>PR</Key>
-    <Name>Presence</Name>
-    <Abbrev>Pr</Abbrev>
+    <Name>Сила Личности</Name>
+    <Abbrev>СЛ</Abbrev>
     <Description>
-      [H4]Presence[h4]
-      Please see page 16 of the Edge of the Empire Core Rulebook, page 23 of the Age of Rebellion Core Rulebook, or page 25 of the Force and Destiny Core Rulebook for details.
+      [H4]Сила Личности[h4]
+      Характеристика Силы Личности персонажа измеряет его смелость, харизму и уверенность. Персонажи с высоким показателем Силы Личности — прирожденные лидеры, привлекают внимание, когда входят в комнату, легко завязывают разговор практически с кем угодно и быстро адаптируются к социальным ситуациям. Сила Личности — ключевая характеристика для таких межличностных навыков, как обаяние и лидерство.
     </Description>
     <Sources>
       <Source Page="16">Edge of the Empire Core Rulebook</Source>
