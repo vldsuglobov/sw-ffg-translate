@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Career>
   <Key>ENGINEER</Key>
-  <Name>Engineer</Name>
+  <Name>Инженер</Name>
   <Description>
-    [H4]Engineer[h4]
+    [H4]Инженер[h4]
     Please see page 82 of the Age of Rebellion Core Rulebook for details.
   </Description>
   <Source Page="82">Age of Rebellion Core Rulebook</Source>
