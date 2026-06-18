@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Species>
+  <Key>HARCH</Key>
+  <Name>HARCH</Name>
+  <Description>
+    [H4]Harch[h4]
+    Please see page 94 of the Lords of Nal Hutta Sourcebook for details.
+  </Description>
+  <Source Page="94">Lords of Nal Hutta</Source>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>3</Cunning>
+    <Willpower>3</Willpower>
+    <Presence>1</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>11</WoundThreshold>
+    <StrainThreshold>11</StrainThreshold>
+    <Experience>75</Experience>
+  </StartingAttrs>
+  <SkillModifiers>
+  </SkillModifiers>
+  <OptionChoices>
+    <OptionChoice>
+      <Key>HARCHOC1</Key>
+      <Name>Skills</Name>
+      <Options>
+        <Option>
+          <Key>HARCHOC1OP1</Key>
+          <Name>Perception</Name>
+          <Description>Pantorans may begin the game with one rank in Perception.</Description>
+          <SkillModifiers>
+            <SkillModifier>
+              <Key>PERC</Key>
+              <RankStart>1</RankStart>
+            </SkillModifier>
+          </SkillModifiers>
+        </Option>
+      </Options>
+    </OptionChoice>
+    <OptionChoice>
+      <Key>HARCHOC2</Key>
+      <Name>Additional Limbs</Name>
+      <Options>
+        <Option>
+          <Key>HARCHOC2OP1</Key>
+          <Name>Additional Limbs</Name>
+          <Description>
+            Harches have multiple sets of arms. As a result, they gain an additional free maneuver per turn, though still may not perform more than two maneuvers per turn.
+          </Description>
+        </Option>
+      </Options>
+    </OptionChoice>
+    <OptionChoice>
+      <Key>HARCHOC3</Key>
+      <Name>Venomous Fangs</Name>
+      <Options>
+        <Option>
+          <Key>HARCHOC3OP1</Key>
+          <Name>Venomous Fangs</Name>
+          <Description>
+            When a Harch makes a Brawl check to deal damage to an opponent, the attack gains the Stun 3 item quality.
+          </Description>
+        </Option>
+      </Options>
+    </OptionChoice>
+  </OptionChoices>
+</Species>
