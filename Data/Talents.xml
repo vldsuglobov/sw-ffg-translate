@@ -2,8 +2,8 @@
 <Talents>
   <Talent>
     <Key>ADV</Key>
-    <Name>Adversary</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 142 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Противник</Name>
+    <Description>Увеличивайте сложность любой проверки боя, направленной на этого персонажа, один раз за каждый ранг Противника.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="142">Age of Rebellion Core Rulebook</Source>
@@ -13,8 +13,8 @@
   </Talent>
   <Talent>
     <Key>ANAT</Key>
-    <Name>Anatomy Lessons</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 142 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Уроки Анатомии</Name>
+    <Description>После успешной атаки личным (не космическим/транспортным) оружием персонаж может потратить одно очко Судьбы, чтобы добавить урон, равный его интеллекту, к одному попаданию атаки.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="142">Age of Rebellion Core Rulebook</Source>
@@ -24,8 +24,8 @@
   </Talent>
   <Talent>
     <Key>ALLTERDRIV</Key>
-    <Name>All-Terrain Driver</Name>
-    <Description>Please see page 142 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.</Description>
+    <Name>Водитель Вездехода</Name>
+    <Description>При управлении транспортным средством с помощью навыка «Пилотирование (планета)» персонаж не получает штрафов за движение по труднопроходимой местности.</Description>
     <Sources>
       <Source Page="142">Age of Rebellion Core Rulebook</Source>
       <Source Page="34">No Disintegrations</Source>
@@ -35,8 +35,8 @@
   </Talent>
   <Talent>
     <Key>ARM</Key>
-    <Name>Armor Master</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, page 142 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Мастер-бронник</Name>
+    <Description>При ношении доспехов персонаж увеличивает свой общий показатель поглощения урона на единицу.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="142">Age of Rebellion Core Rulebook</Source>
@@ -53,8 +53,8 @@
   </Talent>
   <Talent>
     <Key>ARMIMP</Key>
-    <Name>Armor Master (Improved)</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Мастер-бронник (Улучшенный)</Name>
+    <Description>При ношении доспехов с показателем защиты два или выше, персонаж увеличивает свою защиту на единицу.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -73,8 +73,8 @@
   </Talent>
   <Talent>
     <Key>BACT</Key>
-    <Name>Bacta Specialist</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Бакта Специалист</Name>
+    <Description>Пациенты, находящиеся под наблюдением персонажа, заживают на одну дополнительную рану за каждый ранг «Бакта специалист» при каждом заживлении раны во время восстановления в бакта-камере, под наблюдением врача или в условиях длительного ухода.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -84,8 +84,8 @@
   </Talent>
   <Talent>
     <Key>BADM</Key>
-    <Name>Bad Motivator</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Сломанный Мотиватор</Name>
+    <Description>Один раз за игровую сессию персонаж может совершить действие «Сломанный Мотиватор», чтобы пройти ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку Механики. В случае успеха одно устройство (с одобрения мастера игры) самопроизвольно выходит из строя из-за участия персонажа или потому, что оно и так чуть не вышло из строя, а персонаж это заметил (это решение принимает персонаж).</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -95,8 +95,9 @@
   </Talent>
   <Talent>
     <Key>BAL</Key>
-    <Name>Balance</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Баланс</Name>
+    <Description>Талант Силы. Когда персонаж восстанавливает усталость (strain) в конце каждого боя, он может бросать кубики Силы, не превышающие его рейтинг Силы. Он восстанавливает дополнительную усталость (strain), равное полученным очкам Силы (очкам Света).
+    </Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -107,9 +108,9 @@
   </Talent>
   <Talent>
     <Key>BAR</Key>
-    <Name>Barrage</Name>
+    <Name>Залп</Name>
     <Ranked>true</Ranked>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.</Description>
+    <Description>Добавьте один урон за каждый уровень «Залп» к одному попаданию успешных атак навыком «Дальний боя (тяжелое)» или «Артиллерия» с использованием некорабельного/транспортного оружия на дальней или сверхдальней дистанции.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="34">Forged in Battle</Source>
@@ -118,8 +119,8 @@
   </Talent>
   <Talent>
     <Key>BASICTRAIN</Key>
-    <Name>Basic Combat Training</Name>
-    <Description>Please see page 143 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Базовая Боевая Подготовка</Name>
+    <Description>Навыки «Грубая Сила» и «Дальний бой (легкое оружие)» становятся карьерными навыками</Description>
     <Source Page="143">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -134,16 +135,16 @@
   </Talent>
   <Talent>
     <Key>BLA</Key>
-    <Name>Black Market Contacts</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook for details.</Description>
+    <Name>Контакты на Черном Рынке</Name>
+    <Description>При покупке нелегальных, экзотических или товаров с чёрного рынка персонаж может понизить редкость предмета на один уровень за каждый ранг в «Контакты на Черном Рынке». За каждый пониженный уровень редкости предмета его стоимость увеличивается на 50% от базовой стоимости.</Description>
     <Source Page="132">Edge of the Empire Core Rulebook</Source>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>BLO</Key>
-    <Name>Blooded</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 32 of the Unlimited Power Sourcebook, for details.</Description>
+    <Name>Полнокровный</Name>
+    <Description>За каждый ранг «Полнокровный» персонаж добавляет один кубик усиления к своим проверкам сопротивления или восстановления после воздействия ядов, ядовитых веществ и других токсинов. Уменьшает длительность любых связанных с токсинами, ядами или токсинами эффектов или урона на один раунд за каждый ранг «Полнокровный», но не менее чем до одного.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -154,8 +155,8 @@
   </Talent>
   <Talent>
     <Key>BLOIMP</Key>
-    <Name>Blooded (Improved)</Name>
-    <Description>Please see page 32 of the Unlimited Power Sourcebook for details.</Description>
+    <Name>Полнокровный (Улучшенный)</Name>
+    <Description>Персонаж может совершить действие «Полнокровный», выполнив ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) «Сложную» проверку навыка «Стойкость». В случае успеха он немедленно восстанавливается после действия всех ядов и побочных эффектов или последствий действия всех наркотиков. Сложность проверки снижается на один за каждый ранг «Полнокровный», до минимального уровня (-)«Простая».</Description>
     <Sources>
       <Source Page="32">Unlimited Power</Source>
     </Sources>
@@ -164,9 +165,9 @@
   </Talent>
   <Talent>
     <Key>BOD</Key>
-    <Name>Body Guard</Name>
+    <Name>Телохранитель</Name>
     <Ranked>true</Ranked>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Description>Один раз за раунд в ход персонажа он может выполнить прием «Телохранитель», чтобы защитить одного союзника, с которым он находится вплотную (engaged). После этого персонаж получает усталость (strain), не превышающий его ранг в «Телохранителе». До начала следующего хода персонажа сложность всех проверок боя, направленных на защищаемого союзника, повышается на один за каждую полученную таким образом усталость (strain).</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -176,8 +177,8 @@
   </Talent>
   <Talent>
     <Key>BOUGHT</Key>
-    <Name>Bought Info</Name>
-    <Description>Please see page 143 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.</Description>
+    <Name>Купленная информация</Name>
+    <Description>При необходимости проверки навыка группы «Навыки знаний» персонаж может вместо этого совершить действие «Купленная информация». Он тратит количество кредитов, равное 50-кратному значению сложности проверки, и засчитывается как успешная проверка с одним неотмененным [SUCCSESS]. По усмотрению мастера игры, персонаж может быть лишен возможности использовать эту способность, если искомая информация особенно труднодоступна или если персонаж находится в ситуации, когда он не может приобрести информацию (например, оказался на планете без доступа к ГолоНету).</Description>
     <Sources>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
       <Source Page="34">No Disintegrations</Source>
@@ -187,8 +188,8 @@
   </Talent>
   <Talent>
     <Key>BRA</Key>
-    <Name>Brace</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Укрепиться</Name>
+    <Description>В качестве маневра персонаж может использовать «Укрепиться». Это позволяет персонажу убрать один [SETBACK] за каждый уровень «Укрепиться» из следующей проверки навыка. Убираются только [SETBACK] полученные от изменяющихся условий, неблагоприятной погоды, неустойчивых поверхностей, невесомости, сильной гравитации или других физических препятствий, которые могут затруднить проверку навыка.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Age of Rebellion Core Rulebook</Source>
@@ -199,8 +200,8 @@
   </Talent>
   <Talent>
     <Key>BRAIMP</Key>
-    <Name>Brace (Improved)</Name>
-    <Description>Please see page 38 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Укрепиться (Улучшенный)</Name>
+    <Description>При выполнении маневра «Укрепиться» персонаж может выбрать одно из условий окружающей среды. Преимущества маневра «Укрепиться» применяются к этому условию до конца боя. (Это преимущество не суммируется с последующими применениями приёма «Укрепиться», хотя персонаж может выбрать дополнительные условия при последующих применениях.)</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -209,8 +210,8 @@
   </Talent>
   <Talent>
     <Key>BRASUP</Key>
-    <Name>Brace (Supreme)</Name>
-    <Description>Please see page 38 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Укрепиться (Великолепный)</Name>
+    <Description>Когда персонаж применяет маневр «Укрепиться», преимущество получают все союзники на короткой дистанции.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -219,8 +220,8 @@
   </Talent>
   <Talent>
     <Key>BRI</Key>
-    <Name>Brilliant Evasion</Name>
-    <Description>Please see page 132 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Блестящее Уклонение</Name>
+    <Description>Персонаж может совершить действие «Блестящее Уклонение» при управлении транспортным средством или звездолетом. Персонаж выбирает одного противника и совершает встречную проверку «Пилотирование (планета или космос)». В случае успеха, транспортное средство или звездолет противника не может совершать никаких атак по транспортному средству персонажа в течение количества раундов, равного Ловкости персонажа. «Блестящее Уклонение» может быть выполнено только один раз за бой.</Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -230,8 +231,8 @@
   </Talent>
   <Talent>
     <Key>BYP</Key>
-    <Name>Bypass Security</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Обход Безопасности</Name>
+    <Description>Персонаж убирает один [SETBACK] за каждый ранг навыка «Обход Безопасности» с проверок навыков «Мошенничество» и «Компьютеры», выполняемых для отключения устройства безопасности или открытия запертой двери.</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -241,8 +242,8 @@
   </Talent>
   <Talent>
     <Key>CAREPLAN</Key>
-    <Name>Careful Planning</Name>
-    <Description>Please see page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Осторожное Планирование</Name>
+    <Description>Один раз за игровую сессию персонаж может по своему выбору ввести «факт» или дополнительный контекст непосредственно в повествование, как если бы он потратил Очко Судьбы.</Description>
     <Sources>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
       <Source Page="38">Rise of the Separatists</Source>
@@ -252,8 +253,8 @@
   </Talent>
   <Talent>
     <Key>CLEVERSOLN</Key>
-    <Name>Clever Solution</Name>
-    <Description>Please see page 144 of the Age of Rebellion Core Rulebook, page 32 of the Fly Casual Sourcebook, or page 30 of the Endless Vigil Sourcebook, for details.</Description>
+    <Name>Остроумное Решение</Name>
+    <Description>Один раз за игровую сессию персонаж может выбрать одну проверку навыка, используя Смекалка, а не характеристику, связанную с этим навыком. При этом он должен объяснить, как в данном конкретном случае его Смекалка помогает ему преодолеть это испытание.</Description>
     <Sources>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
       <Source Page="32">Fly Casual</Source>
@@ -264,8 +265,8 @@
   </Talent>
   <Talent>
     <Key>COD</Key>
-    <Name>Codebreaker</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Дешифровщик</Name>
+    <Description>При попытках взлома кодов или расшифровки сообщений, персонаж убирает один кубик [SETBACK] за каждый ранг «Дешифровщик». Кроме того, сложность проверок навыка «Компьютеры» или характеристики «Интеллект», выполняемых для взлома кодов или расшифровки сообщений, уменьшается на один (этот показатель не складывается с повышением ранга «Дешифровщик»).</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -276,9 +277,9 @@
   </Talent>
   <Talent>
     <Key>COM</Key>
-    <Name>Command</Name>
+    <Name>Командывание</Name>
     <Ranked>true</Ranked>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Description>При выполнении проверок «Лидерства» (или других проверок для вдохновения, руководства или сплочения аудитории) персонаж получает дополнительный кубик [BOOST] за каждый ранг «Командование». Вдохновленные цели также добавляют дополнительный кубик [BOOST] за каждый ранг к любым последующим проверкам «Выдержки», которые они совершают в течение следующих двадцати четырех часов (время не увеличивается с повышением ранга «Командование» и бонус не складывается при повторном применении).</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -294,8 +295,8 @@
   </Talent>
   <Talent>
     <Key>COMMPRES</Key>
-    <Name>Commanding Presence</Name>
-    <Description>Please see page 144 of the Age of Rebellion Core Rulebook, page 140 of the Force and Destiny Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Властное Присутствие</Name>
+    <Description>Персонаж убирает один кубик [SETBACK] за каждый ранг «Властное Присутствие» при проверках навыков «Лидерство» и «Хладнокровие».</Description>
     <Sources>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
       <Source Page="140">Force and Destiny Core Rulebook</Source>
@@ -316,8 +317,8 @@
   </Talent>
   <Talent>
     <Key>CONF</Key>
-    <Name>Confidence</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Уверенность</Name>
+    <Description>Персонаж может уменьшить сложность любой проверки навыка «Вдержки», чтобы избежать воздействия страха, на единицу за каждый ранг «Уверенность». Если он уменьшит сложность до нуля, ему не нужно будет совершать проверку «Выдержки».</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -328,8 +329,8 @@
   </Talent>
   <Talent>
     <Key>CONT</Key>
-    <Name>Contraption</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Штуковина</Name>
+    <Description>Один раз за игровую сессию персонаж может совершить действие «Шутковина». При успешной [DIFFICULTY][DIFFICULTY][DIFFICULTY] Сложной проверке «Механика» персонаж может изготовить устройство для решения текущей проблемы, используя имеющиеся инструменты и детали. Это устройство должно быть одобрено мастером игры и функционирует только на время текущего столкновения. При этом инструменты уничтожаются после использования. [TRIUMPH] может быть потрачен для сохранения инструментов и их использования в дальнейшем.</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="144">Age of Rebellion Core Rulebook</Source>
@@ -340,8 +341,8 @@
   </Talent>
   <Talent>
     <Key>CONV</Key>
-    <Name>Convincing Demeanor</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Убедительное Поведение</Name>
+    <Description>Персонаж убирает один кубик [SETBACK] за каждый ранг «Убедительное Поведение» при проверках «Обмана» и «Мошенничества».</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -361,8 +362,8 @@
   </Talent>
   <Talent>
     <Key>COORDASS</Key>
-    <Name>Coordinated Assault</Name>
-    <Description>Please see page 145 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Скоординированный Штурм</Name>
+    <Description>Персонаж может совершить маневр «Скоординированный Штурм». В этом случае количество союзников, вплотную (engaged) с персонажем, равное его рангу в «Лидерстве», получает [ADVANTAGE] на Боевых навыках до начала следующего хода этого персонажа. Дальность этого маневра увеличивается на один за каждый дополнительный ранг «Скоординированный Штурм».</Description>
     <Sources>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
       <Source Page="38">Rise of the Separatists</Source>
@@ -372,16 +373,16 @@
   </Talent>
   <Talent>
     <Key>CREATKILL</Key>
-    <Name>Creative Killer</Name>
-    <Description>Please see page 145 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Креативный Убйица</Name>
+    <Description>Персонаж снижает критический рейтинг всего используемого им импровизированного оружия на 2 (до минимума в 1).</Description>
     <Source Page="145">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>CRIPV</Key>
-    <Name>Crippling Blow</Name>
-    <Description>Please see page 133 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Сокрушительный Удар</Name>
+    <Description>Персонаж может добровольно увеличить сложность проверки «Боевого навыка» на единицу, чтобы нанести сокрушительный удар. В случае, если атака успешна и нанесла ранение цели, цель будет получать одно очко усталости (strain) каждый раз, когда цель будет двигаться до конца боя.</Description>
     <Sources>
       <Source Page="133">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -392,8 +393,8 @@
   </Talent>
   <Talent>
     <Key>DEAD</Key>
-    <Name>Dead to Rights</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Загнан В Угол</Name>
+    <Description>Персонаж может потратить одно очко Судьбы, чтобы добавить дополнительный урон, равный половине его показателя «Ловкость» (округленного в большую сторону), к одному попаданию успешной атаки, совершенной корабельным или транспортным оружием.</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -403,8 +404,8 @@
   </Talent>
   <Talent>
     <Key>DEADIMP</Key>
-    <Name>Dead to Rights (Improved)</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Загнан в Угол (Улучшенный)</Name>
+    <Description>Персонаж может потратить одно очко Судьбы, чтобы добавить дополнительный урон, равный его показателю «Ловкость», к одному попаданию успешной атаки, совершенной корабельным или транспортным оружием. Это заменяет обычную способность «Загнан В Угол».</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -414,8 +415,8 @@
   </Talent>
   <Talent>
     <Key>DEADACC</Key>
-    <Name>Deadly Accuracy</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 39 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Смертоносная Точность</Name>
+    <Description>Каждый раз, когда персонаж получает ранг «Смертоносная Точность», он должен выбрать один боевой навык. Персонаж может добавить свои ранги в этом боевом навыке в качестве дополнительного урона к одному попаданию успешных атак, совершенных с использованием этого навыка, используя персональное оружие (personal-scale weapon). Он не может выбрать один и тот же боевой навык дважды.</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -432,8 +433,8 @@
   </Talent>
   <Talent>
     <Key>DEPSHOT</Key>
-    <Name>Debilitating Shot</Name>
-    <Description>Please see page 145 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.</Description>
+    <Name>Останавливающий Выстрел</Name>
+    <Description>При успешной атаке из оружия звездолета или транспортного средства, может потратить два бонусных результата, чтобы уменьшить максимальную скорость цели на 1 (до минимума 1) до конца следующего раунда. Если звездолет или транспортное средство двигались с максимальной скоростью, их текущая скорость уменьшается до нового максимума.</Description>
     <Sources>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
       <Source Page="34">No Disintegrations</Source>
@@ -443,8 +444,8 @@
   </Talent>
   <Talent>
     <Key>DEDI</Key>
-    <Name>Dedication</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Самоотдача</Name>
+    <Description>Каждый ранг навсегда увеличивает на один одну из выбранных игроком характеристик. При этом значение характеристики не может превышать шесть.</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -460,8 +461,8 @@
   </Talent>
   <Talent>
     <Key>DEFDRI</Key>
-    <Name>Defensive Driving</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Защитное Вождение</Name>
+    <Description>У любого транспортного средства, которым управляет персонаж, показатель защиты во всех зонах увеличивается на единицу за каждый уровень навыка «Защитное вождение».</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -475,8 +476,8 @@
   </Talent>
   <Talent>
     <Key>DEFSLI</Key>
-    <Name>Defensive Slicing</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Контр-взлом</Name>
+    <Description>При попытке защитить компьютерную систему от вторжения (или когда противник пытается взломать компьютер, принадлежащий персонажу или запрограммированный им), персонаж добавляет кубик [SETBACK] за каждый уровень «Контр-взлом» (Defensive Slicing) к проверкам противника.</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -487,8 +488,8 @@
   </Talent>
   <Talent>
     <Key>DEFSLIIMP</Key>
-    <Name>Defensive Slicing (Improved)</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Контр-взлом (Улучшенный)</Name>
+    <Description>При попытке защитить компьютерную систему от вторжения персонаж повышает сложность проверки противника на один за каждый ранг «Контр-взлом» (Defensive Slicing). Это заменяет обычные преимущества навыка «Контр-взлом» (Defensive Slicing).</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Age of Rebellion Core Rulebook</Source>
@@ -498,8 +499,8 @@
   </Talent>
   <Talent>
     <Key>DEFSTA</Key>
-    <Name>Defensive Stance</Name>
-    <Description>Please see page 134 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Защитная Стойка</Name>
+    <Description>Один раз за раунд в ход персонажа он может выполнить маневр «Защитная стойка», чтобы защититься от входящих рукопашных атак. Персонаж получает усталось (strain), не превышающую ранг в «Защитной стойке». До начала следующего хода персонажа, сложность всех проверок рукопашного боя, направленных на персонажа, повышается на один за каждую полученную усталость (strain).</Description>
     <Sources>
       <Source Page="134">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -510,8 +511,8 @@
   </Talent>
   <Talent>
     <Key>DISOR</Key>
-    <Name>Disorient</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 39 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Дезориентация</Name>
+    <Description>После попадания боевым навыком персонаж может потратить [ADVANTAGE][ADVANTAGE], чтобы дезориентировать (disorient) противника. Дезориентированные цели добавляют [SETBACK] ко всем проверкам навыков. Цель дезориентирована на количество раундов, равное количеству уровней персонажа в навыке «Дезориентация».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -522,8 +523,8 @@
   </Talent>
   <Talent>
     <Key>DODGE</Key>
-    <Name>Dodge</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Уклонение</Name>
+    <Description>Если персонаж является целью атаки (дальнего или ближнего боя) персонаж может немедленно выполнить быстрое (incidental) Уклонение, чтобы получить очки усталости (strain), а затем повысить сложность проверки боевого навыка на это же количество. Количество полученных очков усталости (strain) не может превышать ранг в навыке «Уклонение».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -534,8 +535,8 @@
   </Talent>
   <Talent>
     <Key>DURA</Key>
-    <Name>Durable</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Крепкий</Name>
+    <Description>Персонаж может уменьшить получаемый им критический урон на 10 за каждый ранг «Крепкий», до минимума в один раз.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -546,16 +547,16 @@
   </Talent>
   <Talent>
     <Key>DYNFIRE</Key>
-    <Name>Dynamic Fire</Name>
-    <Description>Please see page 146 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Быстрый Огонь</Name>
+    <Description>При совершении атаки дальнего боя в ближнем бою (engaged) персонаж может получить 2 единицы усталости (strain), чтобы уменьшить модификатор атаки дальнего боя на 1. Таким образом, при стрельбе из тяжелого оружия сложность увеличивается всего на 1, а при стрельбе из легкого оружия сложность не увеличивается вообще.</Description>
     <Source Page="146">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>ENDUR</Key>
-    <Name>Enduring</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 100 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Выносливость</Name>
+    <Description>За каждый ранг «Выносливости» персонаж получает +1 к показателю поглощения урона (soak value).</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -569,8 +570,8 @@
   </Talent>
   <Talent>
     <Key>EXHPORT</Key>
-    <Name>Exhaust Port</Name>
-    <Description>Please see page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Вентиляционная шахта</Name>
+    <Description>Перед атакой по звездолету или технике персонаж может потратить 1 Жетон Судьбы (Destiny Point), чтобы игнорировать эффекты правила «Массивный» (Massive) для этой атаки.</Description>
     <Sources>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
       <Source Page="142">Force and Destiny Core Rulebook</Source>
@@ -580,8 +581,8 @@
   </Talent>
   <Talent>
     <Key>EXTRACK</Key>
-    <Name>Expert Tracker</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Опытный Следопыт</Name>
+    <Description>Персонаж убирает [SETBACK] за каждый уровень навыка «Опытный следопыт», при проверках поиска или отслеживания следов. Проверки навыка «Выживание» для отслеживания целей занимают на 50% меньше времени, чем обычно (этот показатель не уменьшается с увеличением уровня навыка «Опытный следопыт»).</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -592,8 +593,8 @@
   </Talent>
   <Talent>
     <Key>FAMSUNS</Key>
-    <Name>Familiar Suns</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Знакомые Солнца</Name>
+    <Description>Один раз за игровую сессию персонаж может выполнить маневр «Знакомые Солнца», чтобы совершить проверку «Знания (Внешнее кольцо)» или «Знания (Центральные Миры)» на сложном уровне. В случае успеха персонаж знаком с условиями планеты. Он знает, вероятно ли, что планета обитаема, и если да, то где можно найти место обитания. Он также знает о необычных явлениях окружающей среды, враждебных хищниках или источниках потенциальной прибыли.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -603,8 +604,8 @@
   </Talent>
   <Talent>
     <Key>FERSTR</Key>
-    <Name>Feral Strength</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Дикая Сила</Name>
+    <Description>За каждый уровень «Дикой Силы» персонаж добавляет 1 единицу урона к одному успешному удару в атаках «Грубая Сила» и «Ближний бой».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -621,8 +622,8 @@
   </Talent>
   <Talent>
     <Key>FLDCOMM</Key>
-    <Name>Field Commander</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 101 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Полевой Командир</Name>
+    <Description>Персонаж может совершить действие «Полевой командир». Успешно пройдя проверку [DIFFICULTY][DIFFICULTY] Средней сложности навыка «Лидерство» , количество союзников, равное присутствию, может немедленно получить одну усталость (strain) для выполнения одного маневра. Это не учитывается в количестве маневров, которые они могут выполнить за свой ход. Если возникают вопросы относительно порядка действий союзников, окончательное решение принимает персонаж, использующий действие «Полевой командир».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -633,8 +634,8 @@
   </Talent>
   <Talent>
     <Key>FLDCOMMIMP</Key>
-    <Name>Field Commander (Improved)</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Полевой Командир (Улучшенный)</Name>
+    <Description>При выполнении действия «Полевой командир» персонаж может воздействовать на союзников в количестве, равном удвоенному значению его «Харизмы». Кроме того, он может потратить результат [TRIUMPH], полученный при проверках «Лидерства», чтобы позволить одному союзнику получить одну усталость (strain) для выполнения действия, а не маневра.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="146">Age of Rebellion Core Rulebook</Source>
@@ -645,8 +646,8 @@
   </Talent>
   <Talent>
     <Key>FINETUN</Key>
-    <Name>Fine Tuning</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Тонкая Настройка</Name>
+    <Description>Каждый раз, когда персонаж устраняет очко системной нагрузки (system strain) на звездолете или технике, он устраняет одно дополнительное очко системной нагрузки (system strain) за каждый уровень «Тонкой настройки».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
@@ -657,16 +658,16 @@
   </Talent>
   <Talent>
     <Key>FIRECON</Key>
-    <Name>Fire Control</Name>
-    <Description>Please see page 147 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Управление Огнем</Name>
+    <Description>Находясь на звездолете или в технике, персонаж может выполнить маневр «Управление огнем». В результате маневра, все проверки боя от звездолета или техники считают силуэт цели на один выше до начала следующего хода персонажа. Этот эффект не суммируется от многократного использования маневра «Управление огнем».</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>FORAG</Key>
-    <Name>Forager</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Фуражир</Name>
+    <Description>Персонаж убирает [SETBACK][SETBACK] при проверке навыков поиска пищи, воды или убежища. Проверки навыка «Выживание» для поиска пропитания занимают вдвое меньше времени.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="143">Force and Destiny Core Rulebook</Source>
@@ -677,16 +678,16 @@
   </Talent>
   <Talent>
     <Key>FORCEWILL</Key>
-    <Name>Force of Will</Name>
-    <Description>Please see page 147 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Сила Воли</Name>
+    <Description>Один раз за игровую сессию персонаж может выбрать одну проверку навыка, используя Волю, а не характеристику, связанную с этим навыком. При этом он должен объяснить, как в данном конкретном случае его Воля помогает ему преодолеть это испытание.</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>FORCERAT</Key>
-    <Name>Force Rating</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Рейтинг Силы</Name>
+    <Description>Талант Силы. Каждый ранг навсегда увеличивает рейтинг Силы персонажа на единицу.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
@@ -701,16 +702,16 @@
   </Talent>
   <Talent>
     <Key>FORMONME</Key>
-    <Name>Form On Me</Name>
-    <Description>Please see page 147 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Равнение на меня</Name>
+    <Description>Когда персонаж выполняет действие «Получить преимущество», количество союзной техниеи, равное его рангу в «Лидерстве» и находящихся в близкой дистанции (close range), также получает преимущества этого действия на цель. Союзники сохраняют преимущества до тех пор, пока не покинут близкую дистанции (close range) с персонажем или пока персонаж не потеряет преимущества действия «Получить преимущество».</Description>
     <Source Page="147">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>FRENZ</Key>
-    <Name>Frenzied Attack</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, or page 147 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Неистовая Атака</Name>
+    <Description>При выполнении проверки «Ближний бой» или «Грубая сила» персонаж может получить очки усталости (strain) и улучшить проверку на один за каждую единицу усталости (strain). Это число не может превышать уровень «Неистовой атаки».</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
@@ -720,8 +721,8 @@
   </Talent>
   <Talent>
     <Key>FULLSTOP</Key>
-    <Name>Full Stop</Name>
-    <Description>Please see page 147 of the Age of Rebellion Core Rulebook, or page 30 of the Enter the Unknown Sourcebook, for details.</Description>
+    <Name>Полная остановка</Name>
+    <Description>При управлении кораблем или техникой персонаж может использовать маневр «Полная остановка», чтобы немедленно снизить скорость корабля или техники до нуля. При этом корабль или техника испытывает одно очко системной нагрузки (system strain) за каждое очко скорости, которая была до остановки.</Description>
     <Sources>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
       <Source Page="30">Enter the Unknown</Source>
@@ -731,8 +732,8 @@
   </Talent>
   <Talent>
     <Key>FULLTH</Key>
-    <Name>Full Throttle</Name>
-    <Description>Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Полный вперед</Name>
+    <Description>Персонаж может разогнать корабль или технику сверх его пределов скорости. Он может выполнить действие «Полный вперед», пытаясь пройти проверку со сложностью [DIFFICULTY][DIFFICULTY][DIFFICULTY] Высокая навыка «Пилотирование». В случае успеха максимальная скорость корабля увеличивается на единицу на количество раундов, равное значению «Смекалки». Корабль не может выполнять действия или маневры, которые он не мог бы выполнить обычным способом (например, действия, для которых требуется минимальная скорость).</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
@@ -743,8 +744,8 @@
   </Talent>
   <Talent>
     <Key>FULLTHIMP</Key>
-    <Name>Full Throttle (Improved)</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 30 of the Endless Vigil Sourcebook, for details.</Description>
+    <Name>Полный вперед (Улучшенный)</Name>
+    <Description>Персонаж может добровольно получить одну усталость (strain), чтобы попытаться выполнить «Полный вперед» в качестве маневра. Кроме того, сложность маневра «Полный вперед» снижается до [DIFFICULTY][DIFFICULTY] Среднего уровня.</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -755,8 +756,8 @@
   </Talent>
   <Talent>
     <Key>FULLTHSUP</Key>
-    <Name>Full Throttle (Supreme)</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 31 of the Endless Vigil Sourcebook, for details.</Description>
+    <Name>Полный вперед (Великолепный)</Name>
+    <Description>Когда персонаж успешно выполняет прием «Полный газ», максимальная скорость корабля увеличивается на два на количество раундов, равное его показателю «Хитрость», вместо единицы.</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -767,8 +768,8 @@
   </Talent>
   <Talent>
     <Key>GALMAP</Key>
-    <Name>Galaxy Mapper</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 144 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Картограф Галактики</Name>
+    <Description>Персонаж убирает [SETBACK] за каждый уровень «Картограф Галактики» при проверке навыка «Астрогация». Кроме того, проверки навыка «Астрогация» тратят на 50% меньше времени (этот показатель не увеличивается с повышением уровня навыка «Картограф Галактики»).</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -785,8 +786,8 @@
   </Talent>
   <Talent>
     <Key>GEARHD</Key>
-    <Name>Gearhead</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Технарь</Name>
+    <Description>Персонаж убирает [SETBACK] за каждый уровень «Технарь» при проверке навыка «Механика». Кроме того, сокращает стоимостьв кредитах джобавления модификации (mod) в улучшении (attachment) на 50% (этот показатель не увеличивается с повышением уровня навыка «Картограф Галактики»).</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -803,16 +804,16 @@
   </Talent>
   <Talent>
     <Key>GREASE</Key>
-    <Name>Greased Palms</Name>
-    <Description>Please see page 148 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Щедрая рука</Name>
+    <Description>Перед проверкой социальных взаимодействий персонаж может выполнить маневр «Щедрая рука» и потратить до 50 кредитов за каждый уровень этого приёма. За каждые потраченные 50 кредитов персонаж улучшает последующую социальную проверку на один. Способ использования денег может быть определён игроком и мастером игры, но может включать взятки, покупку подарков или даже приобретение информации, дающей персонажу преимущество в последующем взаимодействии.</Description>
     <Source Page="148">Age of Rebellion Core Rulebook</Source>
     <Ranked>true</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
     <Key>GRIT</Key>
-    <Name>Grit</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 144 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Упорство</Name>
+    <Description>Каждый ранг «Упорства» увеличивает порог усталости (strain threshold) персонажа на 1</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -826,8 +827,8 @@
   </Talent>
   <Talent>
     <Key>HARDHD</Key>
-    <Name>Hard Headed</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 30 of the Knights of Fate Sourcebook, for details.</Description>
+    <Name>Толстолобый</Name>
+    <Description>В любой ход, когда персонаж находится в состоянии ошеломления (staggered) или дезориентации (disorient), он может выполнить действие «Толстолобый» (хотя обычно персонажам в состоянии ошеломления запрещено выполнять действия). Персонаж совершает проверку «Выдержка» сложности [DIFFICULTY][DIFFICULTY][DIFFICULTY][DIFFICULTY] «Устрашающая». В случае успеха, он больше не находится в состоянии ошеломления (staggered) или дезориентации (disorient). Сложность этой проверки снижается на единицу за каждый дополнительный ранг «Толстолобый», до минимальной сложности [DIFFICULTY] «Легкая».</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -838,8 +839,8 @@
   </Talent>
   <Talent>
     <Key>HARDHDIMP</Key>
-    <Name>Hard Headed (Improved)</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 30 of the Knights of Fate Sourcebook, for details.</Description>
+    <Name>Толстолобый (Улучшенный)</Name>
+    <Description>Персонаж может использовать действие «Толстолобый», чтобы восстановиться после потери дееспособности (incapacitated) из-за превышения порога усталости (strain threshold). На следующем ходу после потери дееспособности персонаж может совершить проверку «Выдержка» сложности [DIFFICULTY][DIFFICULTY][DIFFICULTY][DIFFICULTY][DIFFICULTY] «Невороятная». Если проверка успешна, его напряжение снижается до единицы ниже порога усталости. Сложность этой проверки уменьшается на единицу за каждый уровень «Толстолобый» после первого, до минимального уровня [DIFFICULTY] «Легкая».</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -850,8 +851,8 @@
   </Talent>
   <Talent>
     <Key>HEIGHT</Key>
-    <Name>Heightened Awareness</Name>
-    <Description>Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Повышенная Осторожность</Name>
+    <Description>Союзники, находящиеся в короткой дистанции (short range) от персонажа, добавляют [BOOST] к своим проверкам «Внимание» и «Бдительность». Союзники, стоящие вплотную (engaged), вместо этого добавляют [BOOST][BOOST].</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -862,8 +863,8 @@
   </Talent>
   <Talent>
     <Key>HERO</Key>
-    <Name>Heroic Fortitude</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Героическая решимость</Name>
+    <Description>Персонаж может потратить одно очко Судьбы (Destiny Point), чтобы игнорировать последствия критических ранений (Critical Injury) при проверках Силы или Ловкости до конца боя. Это не снимает само ранение.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -874,8 +875,8 @@
   </Talent>
   <Talent>
     <Key>HIDD</Key>
-    <Name>Hidden Storage</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Скрытый Отсек</Name>
+    <Description>Любое крупногабаритное оборудование, техника или дроид, принадлежащие персонажу, имеют один или несколько скрытых отсеков для контрабанды снаряжения соответствующего размера. Размер отсека не может превышать емкость (encumbrancer) равную рангу таланта «Скрытое хранилище». Размер отсеков пропорционален размеру соответствующей техники или дроида. Большинство человекоподобных дроидов могут вмещать только предметы, эквивалентные по размеру одноручному оружию, в то время как с силэутом 4 может скрывать человекоподобных существ в своих отсеках. Любые проверки на обнаружение этих отсеков имеют сложность [DIFFICULTY][DIFFICULTY][DIFFICULTY][DIFFICULTY][DIFFICULTY] «Невороятная».</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -885,8 +886,8 @@
   </Talent>
   <Talent>
     <Key>HOLDTOG</Key>
-    <Name>Hold Together</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Сохранить Целостность</Name>
+    <Description>Персонаж может потратить очко Судьбы (Destiny Point), чтобы сделать быстрое действие «Сохранить Целостность» сразу после того, как техника или корабль, отремонтированный им в этом бою, получит повреждения, приводящие к повреждению корпуса (Hull Trauma). Персонаж объясняет, почему кажущиеся серьезными повреждения на самом деле были поверхностными, и повреждения от атаки превращаются в системную нагрузку (system strain).</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -896,8 +897,8 @@
   </Talent>
   <Talent>
     <Key>HUNT</Key>
-    <Name>Hunter</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Охотник</Name>
+    <Description>Персонаж добавляет [BOOST] за каждый ранг Охотника ко всем проверкам навыков при взаимодействии с дикими зверями и животными, включая боевые проверки. Персонаж добавляет +10 за каждый ранг Охотника ко всем своим броскам на критические ранения (Critical Injury) против животных.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="145">Force and Destiny Core Rulebook</Source>
@@ -907,16 +908,16 @@
   </Talent>
   <Talent>
     <Key>INCITE</Key>
-    <Name>Incite Rebellion</Name>
-    <Description>Please see page 149 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Разжечь Мятеж</Name>
+    <Description>Один раз за игровую сессию персонаж может совершить действие «Разжечь Мятеж», чтобы выполнить проверку «Запугивание» сложности [DIFFICULTY][DIFFICULTY][DIFFICULTY] «Сложная». В случае успеха, несколько существ, в количестве не более ранга навыка «Запугивание», становятся недовольными и пытаются предпринять действия против организации или администрации, имеющей над ними власть, до конца столкновения. Это может быть связано с действиями или словами персонажа, или просто с тем, что существа уже были недовольны их положением.</Description>
     <Source Page="149">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>INDIS</Key>
-    <Name>Indistinguishable</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Заурядность</Name>
+    <Description>Внешность персонажа настолько распространена, что людям трудно определить его отличительные черты. Персонажи противника повышают сложность любых проверок, проводимых для его идентификации, один раз за каждый уровень «Заурядность».</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -927,8 +928,8 @@
   </Talent>
   <Talent>
     <Key>INSIGHT</Key>
-    <Name>Insight</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Познание</Name>
+    <Description>«Внимание» и «Выдержка» становятся карьерными навыками.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -945,8 +946,8 @@
   </Talent>
   <Talent>
     <Key>INSPRHET</Key>
-    <Name>Inspiring Rhetoric</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 32 of the Unlimited Power Sourcebook, for details.</Description>
+    <Name>Вдохновляющая Речь</Name>
+    <Description>Персонаж может совершить действие «Вдохновляющая Речь», выполнив проверку «Лидерство» сложности [DIFFICULTY][DIFFICULTY] «Средняя». За каждый [success] один союзник на близкой дистанции (close range) восстанавливает 1 очко усталости (strain). За каждое [ADVANTAGE] один союзник, уже выбранный для действия «Вдохновляющая Речь», восстанавливает 1 дополнительное очко усталости (strain).</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -957,8 +958,8 @@
   </Talent>
   <Talent>
     <Key>INSPRHETIMP</Key>
-    <Name>Inspiring Rhetoric (Improved)</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 32 of the Unlimited Power Sourcebook, for details.</Description>
+    <Name>Вдохновляющая речь (Улучшенный)</Name>
+    <Description>Каждый союзник, на которого действует «Вдохновляющая Речь», получает [BOOST] на все проверки навыков на количество раундов, равное рангу персонажа в «Лидерстве»; этот эффект не суммируется сам с собой.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -969,8 +970,8 @@
   </Talent>
   <Talent>
     <Key>INSPRHETSUP</Key>
-    <Name>Inspiring Rhetoric (Supreme)</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Вдохновляющая Речь (Великолепный)</Name>
+    <Description>Персонаж может добровольно получить 1 очко усталости (strain), чтобы выполнить «Вдохновляющую Речь» в качестве маневра, а не действия.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="149">Age of Rebellion Core Rulebook</Source>
@@ -980,8 +981,8 @@
   </Talent>
   <Talent>
     <Key>INTENSFOC</Key>
-    <Name>Intense Focus</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 28 of the Disciples of Harmony Sourcebook, for details.</Description>
+    <Name>Предельная концентрация</Name>
+    <Description>Перед проверкой навыка персонаж может выполнить маневр «Предельная концентрация». Персонаж получает 1 устлость (strain) и улучшает проверку на 1</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -992,8 +993,8 @@
   </Talent>
   <Talent>
     <Key>INTENSPRE</Key>
-    <Name>Intense Presence</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Подавляющая харизма</Name>
+    <Description>Персонаж может потратить 1 Очко Судьбы (Destiny Point) чтобы восстановить устлость (strain) равную показателю Харизмы.</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1004,8 +1005,8 @@
   </Talent>
   <Talent>
     <Key>INTIM</Key>
-    <Name>Intimidating</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Устрашение</Name>
+    <Description>При попытке проверки «Запугивание» персонаж может получить N усталости (strain) и снизить сложность проверки на это число. Это число не может превышать ранг в «Устрашение». Когда персонаж становится целью проверки «Запугивание», он может получить N усталости (strain) и повысить сложность проверки на это число. Это число не может превышать ранг в «Устрашение».</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1016,8 +1017,8 @@
   </Talent>
   <Talent>
     <Key>INVENT</Key>
-    <Name>Inventor</Name>
-    <Description>Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Изобретатель</Name>
+    <Description>При создании новых предметов или модификации установленных улучшений персонаж может добавить [BOOST] или убрать [SETBACK] из проверки за каждый ранг «Изобретатель».</Description>
     <Sources>
       <Source Page="137">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1028,8 +1029,8 @@
   </Talent>
   <Talent>
     <Key>INVIG</Key>
-    <Name>Invigorate</Name>
-    <Description>Please see page 150 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Прилив сил</Name>
+    <Description>Один раз за бой, когда союзник, находящийся на короткой дистанции (short range), пытается выполнить проверку навыка, используя характеристики Сила или Ловкость, персонаж может бросить [FORCE]. Каждый [LIGHT] добавляет [SUCCESS] к проверке цели; однако каждый [DARK] добавляет [THREAT] к проверке цели.</Description>
     <Source Page="150">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
@@ -1037,16 +1038,16 @@
   </Talent>
   <Talent>
     <Key>ITSNOTTHATBAD</Key>
-    <Name>It's Not that Bad</Name>
-    <Description>Please see page 150 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Все не так плохо</Name>
+    <Description>Один раз за игровую сессию, когда союзник должен получить критическое ранение, персонаж может использовать быстрое действие (incidental) «Все не так плохо», чтобы пройти ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Медицина». В случае успеха союзник не получает критического ранения и не испытывает никаких его обычных последствий (хотя атака, вызвавшая критическое ранение, по-прежнему наносит урон как обычно).</Description>
     <Source Page="150">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>JUMP</Key>
-    <Name>Jump Up</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Вскочить</Name>
+    <Description>Один раз за раунд, в ход персонажа, он может встать из положения лёжа или сидя в качестве быстрого действия (incidental).</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1057,8 +1058,8 @@
   </Talent>
   <Talent>
     <Key>JURY</Key>
-    <Name>Jury Rigged</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>На Коленке</Name>
+    <Description>Персонаж выбирает одно личное оружие или предмет брони за каждый ранг «На коленке». Он может увеличить урон оружия на единицу; уменьшить стоимость преимущества при критическом ударе или любом другом эффекте на единицу, до минимума в один; или увеличить защиту брони от дальнего или ближнего боя на единицу. В качестве альтернативы, он может уменьшить вес предмета на две единицы,до минимум в один. Бонус действует только до тех пор, пока персонаж использует предмет. Если предмет когда-либо будет потерян или уничтожен, персонаж может применить «На коленке» к новому личному оружию, предмету брони.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1070,8 +1071,8 @@
   </Talent>
   <Talent>
     <Key>KILL</Key>
-    <Name>Kill With Kindness</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Сразить Добротой</Name>
+    <Description>За каждый уровень навыка «Сразить Добротой» персонаж убирает [SETBACK] со своих проверок «Обаяние» и «Лидерство».</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1092,8 +1093,8 @@
   </Talent>
   <Talent>
     <Key>KNOCK</Key>
-    <Name>Knockdown</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, or page 150 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Опрокинуть</Name>
+    <Description>После атакой ближнего боя персонаж может потратить [TRIUMPH], чтобы сбить цель с ног. Если цель крупнее действующего персонажа, требуется один дополнительный [TRIUMPH] за каждую разницу в силуэтах.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1103,8 +1104,8 @@
   </Talent>
   <Talent>
     <Key>KNOWSOM</Key>
-    <Name>Know Somebody</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Знать Кое-Кого</Name>
+    <Description>Один раз за игровую сессию, при попытке приобрести легально доступный предмет, персонаж может уменьшить его редкость на одну ступень за каждый ранг «Знать Кое-Кого».</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1115,8 +1116,8 @@
   </Talent>
   <Talent>
     <Key>KNOWSPEC</Key>
-    <Name>Knowledge Specialization</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Специализация в знаниях</Name>
+    <Description>Когда персонаж впервые получает этот талант, он может выбрать один навык Знания. При проверках с использованием этого навыка он может потратить [TRIUMPH], чтобы получить [SUCCESS], равные его рангу в «Специализация в знаниях».</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="150">Age of Rebellion Core Rulebook</Source>
@@ -1131,8 +1132,8 @@
   </Talent>
   <Talent>
     <Key>KNOWSCH</Key>
-    <Name>Known Schematic</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Известная Схема</Name>
+    <Description>Один раз за игровую сессию персонаж может потратить манёвр чтобы пройти ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Знания (Образование)». Успех означает, что персонаж знаком с конструкцией здания или крупного корабля. Теперь он знает расположение важных компонентов или отсеков внутри корабля или техники, а также своё собственное местоположение. Он также может планировать нестандартные маршруты в обход препятствий. Дополнительные [SUCCESS], [ADVANTAGE] или [TRIUMPH] могут раскрыть другую полезную информацию по усмотрению Мастера.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1143,8 +1144,8 @@
   </Talent>
   <Talent>
     <Key>LETSRIDE</Key>
-    <Name>Let's Ride</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Поехали!</Name>
+    <Description>Один раз за раунд, в ход персонажа, он может сесть/покинуть технику или животное, либо занять место в кабине или оружейной люльке на борту корабля, в качестве быстрого действия (incidental), а не маневра.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1155,8 +1156,8 @@
   </Talent>
   <Talent>
     <Key>LETHALBL</Key>
-    <Name>Lethal Blows</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, page 30 of the Savage Spirits Sourcebook, or page 31 of the Knights of Fate Sourcebook for details.</Description>
+    <Name>Смертельные Удары</Name>
+    <Description>Персонаж добавляет +10 за каждый уровень «Смертельных ударов» к любым броскам на критические ранения, нанесенным противникам.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1168,8 +1169,8 @@
   </Talent>
   <Talent>
     <Key>MASDOC</Key>
-    <Name>Master Doctor</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Мастер Доктор</Name>
+    <Description>Один раз за раунд персонаж может получить две усталости (strain), чтобы снизить сложность следующей проверки «Медицина» на единицу, до минимального уровня ([DIFFICULTY]) «Легко».</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1179,16 +1180,16 @@
   </Talent>
   <Talent>
     <Key>MASDRIV</Key>
-    <Name>Master Driver</Name>
-    <Description>Please see page 151 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Мастер Водитель</Name>
+    <Description>Один раз за раунд при управлении техникой с использованием навыка «Пилотирование (планета)» персонаж может получить две усталости (strain), чтобы вместо этого выполнить любое действие в качестве маневра.</Description>
     <Source Page="151">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>MASGREN</Key>
-    <Name>Master Grenadier</Name>
-    <Description>Please see page 151 of the Age of Rebellion Core Rulebook, or page 32 of the Dangerous Covenants Sourcebook, for details.</Description>
+    <Name>Мастер Гренадер</Name>
+    <Description>Персонаж уменьшает стоимость [ADVANTAGE] для активации свойства «Взрыв» на используемом им оружии на 1, до минимального значения 1. Это включает в себя стоимость активации свойства «Взрыв», если оружие промахнется.</Description>
     <Sources>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
       <Source Page="32">Dangerous Covenants</Source>
@@ -1198,16 +1199,16 @@
   </Talent>
   <Talent>
     <Key>MASLEAD</Key>
-    <Name>Master Leader</Name>
-    <Description>Please see page 151 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Мастер Лидер</Name>
+    <Description>Один раз за раунд персонаж может получить две усталости (strain), чтобы снизить сложность следующей проверки «Лидерство» на единицу, до минимального уровня ([DIFFICULTY]) «Легко».</Description>
     <Source Page="151">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>MASMERC</Key>
-    <Name>Master Merchant</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Мастер Торговец</Name>
+    <Description>Перед проверкой при покупке или продаже товаров (или принятии или погашении обязательств) персонаж может получить две усталости (strain). Если проверка пройдена успешно, персонаж продает товар на 25% дороже базовой стоимости или покупает его на 25% дешевле (погашает дополнительно 1 пункт обязательств или принимает на себя на один пункт обязательств меньше).</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1217,8 +1218,8 @@
   </Talent>
   <Talent>
     <Key>MASSHAD</Key>
-    <Name>Master of Shadows</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Мастер Теней</Name>
+    <Description>Один раз за раунд персонаж может получить две усталости (strain), чтобы снизить сложность следующей проверки «Скрытность» или «Жульничество» на единицу, до минимального уровня ([DIFFICULTY]) «Легко».</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1229,8 +1230,8 @@
   </Talent>
   <Talent>
     <Key>MASPIL</Key>
-    <Name>Master Pilot</Name>
-    <Description>Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Мастер Пилот</Name>
+    <Description>Один раз за раунд при управлении кораблем с использованием навыка «Пилотирование (космос)» персонаж может получить две усталости (strain), чтобы вместо этого выполнить любое действие в качестве маневра.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1241,8 +1242,8 @@
   </Talent>
   <Talent>
     <Key>MASSLIC</Key>
-    <Name>Master Slicer</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Мастер Взломщик</Name>
+    <Description>Один раз за раунд персонаж может получить две усталости (strain), чтобы снизить сложность следующей проверки «Компьютеры» или другой проверки, связанной со взломомв, на единицу, до минимального уровня ([DIFFICULTY]) «Легко».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1252,8 +1253,8 @@
   </Talent>
   <Talent>
     <Key>MASSTAR</Key>
-    <Name>Master Starhopper</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 31 of the Savage Spirits Sourcebook, for details.</Description>
+    <Name>Мастер Гиперпрыжков</Name>
+    <Description>Один раз за раунд персонаж может получить две усталости (strain), чтобы снизить сложность следующей проверки «Астрогация» на единицу, до минимального уровня ([DIFFICULTY]) «Легко».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1264,8 +1265,8 @@
   </Talent>
   <Talent>
     <Key>MENTFOR</Key>
-    <Name>Mental Fortress</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Ментальная Крепость</Name>
+    <Description>Персонаж может потратить одно Очко Судьбы (Destiny Point), чтобы игнорировать последствия критических ранений при любых проверках, связанных с Интеллектом или Смекалкой, до конца боя. Персонаж всё ещё страдает от самого ранения.</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Age of Rebellion Core Rulebook</Source>
@@ -1276,8 +1277,8 @@
   </Talent>
   <Talent>
     <Key>NATBRAW</Key>
-    <Name>Natural Brawler</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Боец</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Грубая сила» или «Ближний бой».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1287,8 +1288,8 @@
   </Talent>
   <Talent>
     <Key>NATCHARM</Key>
-    <Name>Natural Charmer</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Обольститель</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Обаяние» или «Обман».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1299,8 +1300,8 @@
   </Talent>
   <Talent>
     <Key>NATDOC</Key>
-    <Name>Natural Doctor</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Врач</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Медицины».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1311,16 +1312,16 @@
   </Talent>
   <Talent>
     <Key>NATDRIV</Key>
-    <Name>Natural Driver</Name>
-    <Description>Please see page 153 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Прирожденный Водитель</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Пилотирование (планета)» или «Артиллерия».</Description>
     <Source Page="153">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>NATENF</Key>
-    <Name>Natural Enforcer</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Силовик</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Запугивание» или «Уличная интуиция».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1330,8 +1331,8 @@
   </Talent>
   <Talent>
     <Key>NATHUN</Key>
-    <Name>Natural Hunter</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 105 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Охотник</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Внимание» или «Бдительность».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1342,8 +1343,8 @@
   </Talent>
   <Talent>
     <Key>NATLEAD</Key>
-    <Name>Natural Leader</Name>
-    <Description>Please see page 153 of the Age of Rebellion Core Rulebook, page 148 of the Force and Destiny Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Прирожденный Лидер</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Хладнокровие» или «Лидерство».</Description>
     <Sources>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
       <Source Page="148">Force and Destiny Core Rulebook</Source>
@@ -1354,8 +1355,8 @@
   </Talent>
   <Talent>
     <Key>NATMAR</Key>
-    <Name>Natural Marksman</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Снайпер</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Дальний бой (легкое оружие)» или «Дальний бой (тяжелое оружие)».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1365,8 +1366,8 @@
   </Talent>
   <Talent>
     <Key>NATNEG</Key>
-    <Name>Natural Negotiator</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Переговорщик</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Хладнокровие» или «Переговоры».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1377,8 +1378,8 @@
   </Talent>
   <Talent>
     <Key>NATOUT</Key>
-    <Name>Natural Outdoorsman</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Егерь</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Стойкость» или «Выживание».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1389,8 +1390,8 @@
   </Talent>
   <Talent>
     <Key>NATPIL</Key>
-    <Name>Natural Pilot</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Пилот</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Пилотирование (космос)» или «Артиллерия».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1400,8 +1401,8 @@
   </Talent>
   <Talent>
     <Key>NATPRO</Key>
-    <Name>Natural Programmer</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Программист</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Компьютеры» или «Астрогация».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1411,8 +1412,8 @@
   </Talent>
   <Talent>
     <Key>NATROG</Key>
-    <Name>Natural Rogue</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Разбойник</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Жульничество» или «Скрытность».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1422,8 +1423,8 @@
   </Talent>
   <Talent>
     <Key>NATSCH</Key>
-    <Name>Natural Scholar</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Прирожденный Ученый</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки Навыков Знаний</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1433,8 +1434,8 @@
   </Talent>
   <Talent>
     <Key>NATTIN</Key>
-    <Name>Natural Tinkerer</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Прирожденный Кустарь</Name>
+    <Description>Один раз за игровую сессию персонаж может перебросить любой из бросков проверки «Механика».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1445,8 +1446,8 @@
   </Talent>
   <Talent>
     <Key>NOBFOOL</Key>
-    <Name>Nobody's Fool</Name>
-    <Description>Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Не Проведешь</Name>
+    <Description>Сложность любых проверок «Обаяние», «Запугивание» и «Обман», проводимых против персонажа, повышается на один за каждый ранг «Не Проведешь».</Description>
     <Sources>
       <Source Page="139">Edge of the Empire Core Rulebook</Source>
       <Source Page="153">Age of Rebellion Core Rulebook</Source>
@@ -1457,8 +1458,8 @@
   </Talent>
   <Talent>
     <Key>OUTDOOR</Key>
-    <Name>Outdoorsman</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 149 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Егерь</Name>
+    <Description>Персонаж убирает [SETBACK] за каждый уровень таланта «Егерь» при проверках перемещения по местности или при изменении ландшафта или воздействия окружающей среды. Сокращает время передвижения по пресеченной местности на 50% (этот показатель не уменьшается с повышением уровня навыка «Егерь»).</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1469,8 +1470,8 @@
   </Talent>
   <Talent>
     <Key>OVEREM</Key>
-    <Name>Overwhelm Emotions</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook for details.</Description>
+    <Name>Преодоление Эмоций</Name>
+    <Description>Когда персонаж выполняет проверку «Обаяние», «Запугивание» или «Обман», он может добавить [FORCE], равные его показателю Силы (Force Rating). Каждый [LIGHT] добавляет [SUCCESS] к проверкам «Обаяния». Каждый [DARK] добавляет [SUCCESS] к проверкам «Запугивание» или «Обман». Однако каждые [LIGHT][LIGHT] добавляют [FAILURE] к проверкам «Принуждения» или «Обмана», а каждые [DARK][DARK] добавляют [FAILURE] к проверкам «Обаяния». Это не относится к целям, невосприимчивым к способностям Силы.</Description>
     <Source Page="141">Edge of the Empire Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -1492,8 +1493,8 @@
   </Talent>
   <Talent>
     <Key>OVERDEF</Key>
-    <Name>Overwhelm Defenses</Name>
-    <Description>Please see page 154 of the Age of Rebellion Core Rulebook, or page 35 of the No Disintegrations Sourcebook, for details.</Description>
+    <Name>Преодоление Защиты</Name>
+    <Description>При неудачной атаке с использованием оружия на корабле или технике персонаж может потратить [ADVANTAGE][ADVANTAGE] за каждый уровень «Преодоление Защиты». Рейтинг защиты в зоне поражения, являющейся целью атаки, снижается на 1 за каждые потраченные таким образом [ADVANTAGE][ADVANTAGE].</Description>
     <Sources>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
       <Source Page="35">No Disintegrations</Source>
@@ -1503,8 +1504,8 @@
   </Talent>
   <Talent>
     <Key>PHYSTRAIN</Key>
-    <Name>Physical Training</Name>
-    <Description>Please see page 154 of the Age of Rebellion Core Rulebook, page 30 of the Disciples of Harmony Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Физическая Подготовка</Name>
+    <Description>За каждый уровень «Физической подготовки» персонаж добавляет [BOOST] к проверкам «Атлетики» и «Выносливости».</Description>
     <Sources>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
       <Source Page="30">Disciples of Harmony</Source>
@@ -1525,8 +1526,8 @@
   </Talent>
   <Talent>
     <Key>PLAUSDEN</Key>
-    <Name>Plausible Deniability</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 149 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Правдоподобное Отрицание</Name>
+    <Description>За каждый уровень «Правдоподобное отрицание» персонаж убирает [SETBACK], для проверок «Запугивание» и «Обман».</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1547,8 +1548,8 @@
   </Talent>
   <Talent>
     <Key>POINTBL</Key>
-    <Name>Point Blank</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>В Упор</Name>
+    <Description>За каждый уровень «В Упор» персонаж добавляет один урон к одному попаданию успешных атак «Дальний бой (тяжелый)» или «Дальний бой (легкий)», совершенных на ближней дистанции (short range) или вплотную (engaged).</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1558,8 +1559,8 @@
   </Talent>
   <Talent>
     <Key>PWRBLST</Key>
-    <Name>Powerful Blast</Name>
-    <Description>Please see page 154 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Мощный Взрыв</Name>
+    <Description>Персонаж увеличивает значение свойства Взрыв при использовании взрывчатки, разрывным оружием и гранатами, на 1 за каждый уровень «Мощного Взрыва».</Description>
     <Source Page="154">Age of Rebellion Core Rulebook</Source>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -1584,8 +1585,8 @@
   </Talent>
   <Talent>
     <Key>PRECAIM</Key>
-    <Name>Precise Aim</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, or page 31 of the Savage Spirits Sourcebook, for details.</Description>
+    <Name>Точный Прицел</Name>
+    <Description>Один раз за раунд в ход персонажа он может выполнить маневр «Точный Прицел» перед попыткой проверки боя и получить определенное количество усталости (strain). Количество усталости (strain) не может превышать его уровень навыка «Точный Прицел». Затем он уменьшает защиту цели (дальнего и ближнего боя) на единицу за каждое полученную устлость для этой проверки.</Description>
     <Sources>
     <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="31">Savage Spirits</Source>
@@ -1595,8 +1596,8 @@
   </Talent>
   <Talent>
     <Key>PRESPNT</Key>
-    <Name>Pressure Point</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, or page 31 of the Cyphers and Masks Sourceboos, for details.</Description>
+    <Name>Болевая Точка</Name>
+    <Description>При выполнении проверки «Грубая Сила» против живого противника персонаж может отказаться от нанесения урона в виде ран (wound), вместо этого нанося эквивалентный урон в виде усталости (strain), плюс дополнительную усталость (strain), равное его уровню в «Медицине». Эти проверки нельзя выполнять с использованием какого-либо оружия, но этот урон от устлости не уменьшается поглощением цели.</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="31">Cyphers and Masks</Source>
@@ -1606,8 +1607,8 @@
   </Talent>
   <Talent>
     <Key>QUICKDR</Key>
-    <Name>Quick Draw</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 149 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Быстрая Рука</Name>
+    <Description>Один раз за раунд, в ход персонажа, [он] может достать или убрать в кобуру легкодоступное оружие или предмет в качестве быстрого действия (incidental), а не в качестве маневра. Этот талант также сокращает время, необходимое для извлечения или убирания оружия, для подготовки или убирания которого обычно требуется более одного маневра, на один маневр.</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1618,16 +1619,16 @@
   </Talent>
   <Talent>
     <Key>QUICKFIX</Key>
-    <Name>Quick Fix</Name>
-    <Description>Please see page 154 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Быстрое Исправление</Name>
+    <Description>Один раз за игровую сессию персонаж может совершить одну проверку навыка, используя Ловкость, а не характеристику, связанную с этим навыком. При этом он должен объяснить, как в данном конкретном случае его ловкость помогает ему преодолеть это испытание.</Description>
     <Source Page="154">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>QUICKST</Key>
-    <Name>Quick Strike</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Быстрый Удар</Name>
+    <Description>За каждый уровень «Быстрого удара» персонаж добавляет [BOOST] к своим боевым проверкам, совершаемым против любой цели, которая еще не действовала в столкновении.</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1638,8 +1639,8 @@
   </Talent>
   <Talent>
     <Key>RAPREA</Key>
-    <Name>Rapid Reaction</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Быстрая Реакция</Name>
+    <Description>Персонаж может получить дополнительную усталость, чтобы добавить равное количество [SUCCESS] к любой проверке «Бдительность» или «Хладнокровие» для определения порядка инициативы. Это число не может превышать его ранг в Быстрой Реакции.</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1650,8 +1651,8 @@
   </Talent>
   <Talent>
     <Key>RAPREC</Key>
-    <Name>Rapid Recovery</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Быстрое Восстановление</Name>
+    <Description>Когда персонаж восстанавливает усталость (strain) после завершения столкновения, он восстанавливает одну дополнительную усталость (strain) за каждый ранг «Быстрое восстановление».</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1662,8 +1663,8 @@
   </Talent>
   <Talent>
     <Key>REDUNSYS</Key>
-    <Name>Redundant Systems</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Дублирующие Системы</Name>
+    <Description>Один раз за игровую сессию персонаж может совершить действие «Избыточные системы», чтобы пройти ([DIFFICULTY]) Легкую проверку навыка «Механика». В случае успеха персонаж может извлечь компоненты из работающего устройства, чтобы починить сломанное, не повреждая работающее устройство. Это позволяет персонажу починить сломанное устройство без необходимых запасных частей, сырья или ремонтных комплектов (при этом начальная проверка не получает штрафов за отсутствие ремонтных комплектов). Однако это работает только в том случае, если работающее устройство как минимум того же размера и технологического уровня, что и ремонтируемое устройство (невозможно починить звездолёт с помощью бластерного пистолета).</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1673,8 +1674,8 @@
   </Talent>
   <Talent>
     <Key>RESEARCH</Key>
-    <Name>Researcher</Name>
-    <Description>Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Исследователь</Name>
+    <Description>За каждый ранг «Исследователя» персонаж убирает [SETBACK] при проверках Знаний. Время, затрачиваемое на исследования, сокращается на 50% (этот показатель не увеличивается с повышением ранга «Исследователя»).</Description>
     <Sources>
       <Source Page="141">Edge of the Empire Core Rulebook</Source>
       <Source Page="154">Age of Rebellion Core Rulebook</Source>
@@ -1691,8 +1692,8 @@
   </Talent>
   <Talent>
     <Key>RESOLVE</Key>
-    <Name>Resolve</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook for details.</Description>
+    <Name>Решимость</Name>
+    <Description>Когда персонаж получает усталость (strain), он получает на 1 усталость (strain) меньше за каждый уровень Решимости, до минимума в 1. Это не относится к добровольному получению усталости (strain).</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1704,8 +1705,8 @@
   </Talent>
   <Talent>
     <Key>RESPSCHOL</Key>
-    <Name>Respected Scholar</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Уважаемый Ученый</Name>
+    <Description>Этот персонаж снижает сложность проверок взаимодействия с учебными заведениями на один за каждый ранг «Уважаемого учёного».</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1715,8 +1716,8 @@
   </Talent>
   <Talent>
     <Key>SCATH</Key>
-    <Name>Scathing Tirade</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook for details.</Description>
+    <Name>Яростная Тирада</Name>
+    <Description>Персонаж может совершить действие «Яростная тирада», чтобы пройти ([DIFFICULTY][DIFFICULTY]) Среднюю проверку навыка «Запугивание». За каждый [SUCCESS] один враг в короткой дистанции (short range) получает 1 усталость (strain). Персонаж также может потратить [ADVANTAGE]; за каждый [ADVANTAGE] одна уже пораженная цель получает 1 дополнительную усталость (strain).</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1727,8 +1728,8 @@
   </Talent>
   <Talent>
     <Key>SCATHIMP</Key>
-    <Name>Scathing Tirade (Improved)</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Яростная Тирада (Улучшенный)</Name>
+    <Description>Каждый враг, затронутый «Яростной тирадой», получает [SETBACK] ко всем проверкам навыков на количество раундов, равное уровню персонажа в «Запугивание»; этот эффект не суммируется сам с собой.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1738,8 +1739,8 @@
   </Talent>
   <Talent>
     <Key>SCATHSUP</Key>
-    <Name>Scathing Tirade (Supreme)</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Яростная Тирада (Великолепный)</Name>
+    <Description>Персонаж может получить 1 усталость (strain), чтобы выполнить «Яростную тираду» в качестве маневра, а не действия.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1749,8 +1750,8 @@
   </Talent>
   <Talent>
     <Key>SECWIND</Key>
-    <Name>Second Wind</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Второе Дыхание</Name>
+    <Description>Один раз за бой персонаж может использовать навык «Второе дыхание», чтобы восстановить количество усталости (strain), равное его уровню навыка «Второе дыхание».</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1761,16 +1762,16 @@
   </Talent>
   <Talent>
     <Key>SELDETON</Key>
-    <Name>Selective Detonation</Name>
-    <Description>Please see page 155 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Выборочный Подрыв</Name>
+    <Description>При использовании оружия с качеством «Взрыв» или взрывных устройств персонаж может потратить [ADVANTAGE], чтобы исключить одну цель, которая должна была подвергнуться воздействию взрыва. Таким образом можно исключить несколько целей, но общее число не может превышать ранг персонажа в Выборочном Подрыве. Персонаж также может потратить [TRIUMPH], чтобы исключить несколько целей, при условии, что общее число исключенных целей не превышает его ранг в Выборочном Подрыве.</Description>
     <Source Page="155">Age of Rebellion Core Rulebook</Source>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>SENSDANG</Key>
-    <Name>Sense Danger</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Чувство Опасности</Name>
+    <Description>Один раз за игровую сессию персонаж может убрать [SETBACK][SETBACK] из любой проверки навыка.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1782,8 +1783,8 @@
   </Talent>
   <Talent>
     <Key>SENSDEMO</Key>
-    <Name>Sense Emotions</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Чувство Эмоций</Name>
+    <Description>Персонаж добавляет [BOOST] ко всем проверкам "Обаяния", "Принуждения" и "Обмана", за исключением случаев, когда цель обладает иммунитетом к Силе.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="151">Force and Destiny Core Rulebook</Source>
@@ -1809,8 +1810,8 @@
   </Talent>
   <Talent>
     <Key>SHORTCUT</Key>
-    <Name>Shortcut</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, page 31 of the Savage Spirits Sourcebook, or page 31 of the Endless Vigil Sourcebook, for details.</Description>
+    <Name>Быстрый путь</Name>
+    <Description>Во время погони персонаж добавляет [BOOST] за каждый ранг «Быстрый путь» к проверкам, совершаемым для поимки или побега от противника.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="155">Age of Rebellion Core Rulebook</Source>
@@ -1822,8 +1823,8 @@
   </Talent>
   <Talent>
     <Key>SIDESTEP</Key>
-    <Name>Side Step</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Шаг в сторону</Name>
+    <Description>Один раз за раунд в ход персонажа он может выполнить маневр «Шаг в сторону», чтобы попытаться избежать входящих атак дальнего боя. Затем он получает усталость (strain), не превышающую ранг «Шаг в сторону». До начала следующего хода персонажа сложность всех проверок дальнего боя, нацеленных на персонажа, повышается на полученное количество усталости (strain)</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
@@ -1834,16 +1835,16 @@
   </Talent>
   <Talent>
     <Key>SITAWARE</Key>
-    <Name>Situational Awareness</Name>
-    <Description>Please see page 156 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Тактическая осведомлённость</Name>
+    <Description>Находясь в технике или на корабле с работающей связью, союзники на короткой дистанции (short range) добавляют [BOOST] к проверкам «Внимания» и «Бдительность». Союзники на близкой дистанции (close range) вместо этого добавляют [BOOST][BOOST]. Эта способность действует в планетарном масштабе, а не в личном.</Description>
     <Source Page="156">Age of Rebellion Core Rulebook</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>SIXSENSE</Key>
-    <Name>Sixth Sense</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Шестое Чувство</Name>
+    <Description>Персонаж получает +1 к дальней защите.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
@@ -1857,8 +1858,8 @@
   </Talent>
   <Talent>
     <Key>SKILLJOCK</Key>
-    <Name>Skilled Jockey</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Умелый Ездок</Name>
+    <Description>Персонаж убирает [SETBACK] за каждый ранг «Умелый Ездок» из проверок «Пилотирование (планета)» и «Пилотирование (космос)».</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
@@ -1879,8 +1880,8 @@
   </Talent>
   <Talent>
     <Key>SKILLSLIC</Key>
-    <Name>Skilled Slicer</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, or page 156 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Умелый Взломщик</Name>
+    <Description>При выполнении проверки навыков «Компьютеры» персонаж может потратить [TRIUMPH], чтобы получить некоторый контроль над целевыми системами. Любые дальнейшие проверки навыков «Компьютеры» в этой системе могут быть выполнены в качестве маневров.</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
@@ -1908,8 +1909,8 @@
   </Talent>
   <Talent>
     <Key>SMOOTHTALK</Key>
-    <Name>Smooth Talker</Name>
-    <Description>Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Умелый оратор</Name>
+    <Description>Когда персонаж впервые получает этот талант, он выбирает один навык: «Обаяние», «Запугивание», «Переговоры» или «Обман». При проверках этого навыка он может потратить [TRIUMPH], чтобы получить дополнительные [SUCCESS], равные его уровню в «Умелый оратор».</Description>
     <Sources>
       <Source Page="142">Edge of the Empire Core Rulebook</Source>
       <Source Page="156">Age of Rebellion Core Rulebook</Source>
@@ -1964,8 +1965,8 @@
   </Talent>
   <Talent>
     <Key>SOUNDINV</Key>
-    <Name>Sound Investments</Name>
-    <Description>Please see page 156 of the Age of Rebellion Core Rulebook for details.</Description>
+    <Name>Надежные Вложения</Name>
+    <Description>В начале каждой игровой сессии персонаж получает кредиты, равные его рангу в «Надежных Вложениях», умноженному на 100. Способ заработка этих денег зависит от игрока и мастера игры и может заключаться в реальных инвестициях, деловых сделках или даже в небольшом легальном или нелегальном побочном бизнесе. Мастер игры также может решить, что текущие события приключения могут сделать эти средства недоступными.</Description>
     <Source Page="156">Age of Rebellion Core Rulebook</Source>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -2016,8 +2017,8 @@
   </Talent>
   <Talent>
     <Key>STNERV</Key>
-    <Name>Steely Nerves</Name>
-    <Description>Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Стальные Нервы</Name>
+    <Description>Персонаж может потратить одно очко Судьбы (Destiny Point), чтобы игнорировать последствия текущих критических ранений при любых проверках Харизмы или Воли до конца боя. Он всё ещё страдает от самого ранения.</Description>
     <Sources>
       <Source Page="143">Edge of the Empire Core Rulebook</Source>
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
@@ -2118,8 +2119,8 @@
   </Talent>
   <Talent>
     <Key>STUNBL</Key>
-    <Name>Stunning Blow</Name>
-    <Description>Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Оглушающий Удар</Name>
+    <Description>При выполнении проверок "Ближнего боя" персонаж может выбрать нанесение урона в качестве усталости (strain) вместо ран. При этом поглощение урона не игнорируется.</Description>
     <Sources>
       <Source Page="144">Edge of the Empire Core Rulebook</Source>
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
@@ -2129,8 +2130,8 @@
   </Talent>
   <Talent>
     <Key>STUNBLIMP</Key>
-    <Name>Stunning Blow (Improved)</Name>
-    <Description>Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Оглушающий Удар (Улучшенный)</Name>
+    <Description>При нанесении урона, вызывающего напряжение, с помощью проверок «Ближний бой» или «Грубая Сила», персонаж может потратить [TRIUMPH], чтобы ошеломить (staggered) цель на один раунд за каждый [TRIUMPH].</Description>
     <Sources>
       <Source Page="144">Edge of the Empire Core Rulebook</Source>
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
@@ -2140,8 +2141,8 @@
   </Talent>
   <Talent>
     <Key>SUPREF</Key>
-    <Name>Superior Reflexes</Name>
-    <Description>Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Превосходные Рефлексы</Name>
+    <Description>Персонаж получает +1 к защите в ближнем бою</Description>
     <Sources>
       <Source Page="144">Edge of the Empire Core Rulebook</Source>
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
@@ -2257,8 +2258,8 @@
   </Talent>
   <Talent>
     <Key>TOUGH</Key>
-    <Name>Toughened</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Закаленный</Name>
+    <Description>Этот персонаж увеличивает свой порог ранения на два за каждый ранг «Закалённый».</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
@@ -2382,8 +2383,8 @@
   </Talent>
   <Talent>
     <Key>WELLROUND</Key>
-    <Name>Well Rounded</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 159 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Широкий Кругозор</Name>
+    <Description>Персонаж выбирает два навыка. Они перманетно станвятся карьерными навыками</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="159">Age of Rebellion Core Rulebook</Source>
@@ -2415,8 +2416,8 @@
   </Talent>
   <Talent>
     <Key>WHEEL</Key>
-    <Name>Wheel and Deal</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, or page 159 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Воротила</Name>
+    <Description>Когда персонаж продает легальные товары уважаемому торговцу или предприятию, он получает дополнительные 10% кредитов за каждый ранг «Воротила» (на основе первоначальной продажной цены товара).</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="159">Age of Rebellion Core Rulebook</Source>
@@ -2435,9 +2436,9 @@
   <!-- Enter the Unknown-->
   <Talent>
     <Key>PIN</Key>
-    <Name>Pin</Name>
+    <Name>Пригвоздить</Name>
     <Description>
-      Please see page 30 of Enter the Unknown for details.
+      Персонаж может совершить действие «Пригвоздить». Успешно пройдя встречную проверку «Атлетика» против противника вблизи (engaged), персонаж обездвиживает этого противника до конца своего следующего хода. Кроме того, персонаж может потратить [TRIUMPH], чтобы увеличить продолжительность обездвиживания на один раунд.
     </Description>
     <Source Page="30">Enter the Unknown</Source>
     <Ranked>false</Ranked>
@@ -2445,9 +2446,9 @@
   </Talent>
   <Talent>
     <Key>MUSEUMWORTHY</Key>
-    <Name>Museum Worthy</Name>
+    <Name>Музейная Ценность</Name>
     <Description>
-      Please see page 30 of Enter the Unknown for details.
+      Один раз за игровую сессию персонаж может совершить действие, чтобы пройти ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Знания (Образование)», касающуюся одной реликвии, руин или фрагмента галактической истории (с одобрения мастера игры). В случае успеха персонаж получает информацию об объекте в объеме, зависящем от количества выпавших успешных результатов.
     </Description>
     <Source Page="30">Enter the Unknown</Source>
     <Ranked>false</Ranked>
@@ -2695,9 +2696,9 @@
   </Talent>
   <Talent>
     <Key>ATARU</Key>
-    <Name>Ataru Technique</Name>
+    <Name>Техника Атару</Name>
     <Description>
-      Please see page 139 of the Force and Destiny Core Rulebook for details.
+      При выполнении проверки навыка «Световой меч» персонаж может использовать Ловкость вместо Силы.
     </Description>
     <Source Page="139">Force and Destiny Core Rulebook</Source>
     <Ranked>false</Ranked>
@@ -2807,9 +2808,9 @@
   </Talent>
   <Talent>
     <Key>CONDITIONED</Key>
-    <Name>Conditioned</Name>
+    <Name>Подготовленный</Name>
     <Description>
-      Please see page 141 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.
+      При проверках «Атлетики» и «Координации» персонаж убирает [SETBACK] за каждый уровень «Подготовленный». Он уменьшает получаемый от падения урон и усталость на 1 за каждый уровень «Подготовленный».
     </Description>
     <Sources>
       <Source Page="141">Force and Destiny Core Rulebook</Source>
@@ -3009,9 +3010,9 @@
   </Talent>
   <Talent>
     <Key>HAWKSWOOP</Key>
-    <Name>Hawk Bat Swoop</Name>
+    <Name>Налет Мышеястреба</Name>
     <Description>
-      Please see page 144 of the Force and Destiny Core Rulebook for details.
+      Персонаж может совершить действие «Налет Мышеястреба», выполнив проверку ближнего боя «Световой меч» (Ловкость) против одной цели на короткой дистанции (short range) и добавив к пулу [FORCE], не превышающие рейтинг Силы. Персонаж может потратить [NEUTRAL] перед решением результата проверки, чтобы оказаться вблизи (engaged) с целью за быстрое действием (incidental), и может потратить [NEUTRAL], чтобы добавить [ADVANTAGE] к результатам проверки. Если персонаж не может переместиться, чтобы вступить в бой с целью, атака автоматически промахивается.
     </Description>
     <Source Page="144">Force and Destiny Core Rulebook</Source>
     <Ranked>true</Ranked>
@@ -3298,9 +3299,9 @@
   </Talent>
   <Talent>
     <Key>PARRY</Key>
-    <Name>Parry</Name>
+    <Name>Парирование</Name>
     <Description>
-      Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the No Disintegrations Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.
+      Когда персонаж получает удар в результате проверки боя «Грубая Сила», «Ближний бой» или «Световой меч», после подсчета урона (но до применения защиты, то есть сразу после шага 3 «Выполнить проверку боя»), персонаж может активировать быстрое действие (incidental) «Парирование». Он получает 3 единицы устало (strain) и уменьшает урон от удара на число, равное 2 плюс его ранг в навыке «Парирование». Этот талант можно использовать только один раз за удар и только тогда, когда персонаж использует световой меч или оружие ближнего боя.
     </Description>
     <Sources>
       <Source Page="149">Force and Destiny Core Rulebook</Source>
@@ -3313,9 +3314,9 @@
   </Talent>
   <Talent>
     <Key>PARRYIMP</Key>
-    <Name>Parry (Improved)</Name>
+    <Name>Парирование (Улучшенный)</Name>
     <Description>
-      Please see page 149 of the Force and Destiny Core Rulebook, or page 41 of the Rise of the Separatists Sourcebook, for details.
+      Когда персонаж получает удар от проверки боя «Грубая Сила», «Ближний бой» или «Световой меч» и использует «Парирование», чтобы уменьшить урон от этого удара, то после завершения атаки персонаж может потратить [DESPAIR] или [THREAT][THREAT][THREAT], чтобы автоматически нанести один удар оружием предназаченным для «Грубая Сила», «Ближний бой» или «Световой меч». Этот удар наносит базовый урон оружия плюс любой урон от применимых талантов или способностей. Этот талант нельзя использовать, если первоначальная атака выводит персонажа из строя.
     </Description>
     <Sources>
       <Source Page="149">Force and Destiny Core Rulebook</Source>
@@ -3327,9 +3328,9 @@
   </Talent>
   <Talent>
     <Key>PARRYSUP</Key>
-    <Name>Parry (Supreme)</Name>
+    <Name>Парирование (Великолепный)</Name>
     <Description>
-      Please see page 149 of the Force and Destiny Core Rulebook for details.
+      Если пользователь не совершил боевую проверку в свой предыдущий ход, он получает 1 усталость (strain), когда использует «Парирование», вместо 3.
     </Description>
     <Source Page="149">Force and Destiny Core Rulebook</Source>
     <Ranked>false</Ranked>
@@ -3386,9 +3387,9 @@
   </Talent>
   <Talent>
     <Key>REFLECT</Key>
-    <Name>Reflect</Name>
+    <Name>Отражение</Name>
     <Description>
-      Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.
+      Когда персонаж получает удар от проверки боя «Дальний бой (легкий)», «Дальний бой (тяжелый)» или «Артиллерия», и после подсчета урона (но до применения защиты, то есть сразу после шага 3 «Выполнить проверку боя»), он может выполнить быстрое (incidental) «Отражение». Он получает 3 единицы напряжения и уменьшает наносимый урон на число, равное 2 плюс его ранг в таланте «Отражение». Этот талант можно использовать только один раз за удар и только когда персонаж использует световой меч.
     </Description>
     <Sources>
       <Source Page="150">Force and Destiny Core Rulebook</Source>
@@ -3400,10 +3401,11 @@
   </Talent>
   <Talent>
     <Key>REFLECTIMP</Key>
-    <Name>Reflect (Improved)</Name>
+    <Name>Отражение (Улучшенный)</Name>
     <Description>
-      Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.
-    </Description>
+      Когда персонаж получает удар от проверки боя «Дальний бой (легкий)», «Дальний бой (тяжелый)» или «Артиллерия» и использует «Отражение», чтобы уменьшить урон от этого удара, то после завершения атаки персонаж может потратить [DESPAIR] или [THREAT][THREAT][THREAT], чтобы автоматически поразить одну цель в пределах средней дистанции (medium range), нанеся тот же урон, что и удар от первоначальной дистанционной атаки.
+
+Удар от первоначальной дистанционной атаки должен быть таким, который можно отразить и перенаправить (как правило, в эту категорию попадают только бластеры или другие энергетические атаки; все остальное подлежит контролю мастера игры). Этот талант нельзя использовать, если первоначальная атака выводит персонажа из строя.</Description>
     <Sources>
       <Source Page="150">Force and Destiny Core Rulebook</Source>
       <Source Page="42">Rise of the Separatists</Source>
@@ -3414,9 +3416,9 @@
   </Talent>
   <Talent>
     <Key>REFLECTSUP</Key>
-    <Name>Reflect (Supreme)</Name>
+    <Name>Отражение (Великолепный)</Name>
     <Description>
-      Please see page 150 of the Force and Destiny Core Rulebook for details.
+      Если пользователь не совершил боевую проверку в свой предыдущий ход, он получает 1 усталость (strain), когда использует «Отражение», вместо 3.
     </Description>
     <Source Page="150">Force and Destiny Core Rulebook</Source>
     <Ranked>false</Ranked>
@@ -3436,9 +3438,9 @@
   </Talent>
   <Talent>
     <Key>SABERSW</Key>
-    <Name>Saber Swarm</Name>
+    <Name>Рой Клинков</Name>
     <Description>
-      Please see page 151 of the Force and Destiny Core Rulebook for details.
+      Персонаж может выполнить маневр «Рой Клинков», получив 1 усталости (strain). Его следующая проверка боя «Световой меч» (Ловкость) в этом ходу получает свойство предмета «Связанный» (Linked), ранги которого равны рейтингу Силы.
     </Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Ranked>false</Ranked>
@@ -3447,9 +3449,9 @@
   </Talent>
   <Talent>
     <Key>SABERTHROW</Key>
-    <Name>Saber Throw</Name>
+    <Name>Бросок Меча</Name>
     <Description>
-      Please see page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.
+      Персонаж может совершить действие «Бросок Меча», выполняя проверку боя «Световой меч» в качестве атаки дальнего боя по одной цели на средней дистанции (medium distanse), добавляя к проверке [FORCE], не превышающие его рейтинг Силы. Персонаж должен потратить [NEUTRAL] и успешно пройти проверку, чтобы попасть в цель; он может потратить [NEUTRAL], чтобы его оружие вернулось в руку после завершения атаки.
     </Description>
     <Sources>
       <Source Page="151">Force and Destiny Core Rulebook</Source>
@@ -5971,8 +5973,8 @@
   </Talent>
   <Talent>
     <Key>BACKROOM</Key>
-    <Name>Backroom Deal</Name>
-    <Description>Please see page 37 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Закулисная сделка</Name>
+    <Description>Один раз за столкновение персонаж может совершить действие «Закулисная сделка», ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Переговоры». Если проверка проходит успешно, персонаж (или игрок) раскрывает, как его ранее неизвестные сделки оказывают существенное влияние на текущую сцену (scene) или столкновение (encounter). Характер раскрытия и его влияние на ситуацию в конечном итоге определяются на усмотрение мастера игры, но они должны дать значительное преимущество персонажам. Однако если проверка проваливается и имеет [DESPAIR], мастер игры может решить, что катастрофически проваленная сделка персонажа имеет негативные последствия.</Description>
     <Sources>
       <Source Page="37">Rise of the Separatists</Source>
     </Sources>
@@ -6033,8 +6035,8 @@
   </Talent>
   <Talent>
     <Key>CONCOPT</Key>
-    <Name>Consider our Options</Name>
-    <Description>Please see page 38 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Рассмотрим наши варианты</Name>
+    <Description>Персонаж может совершить действие «Рассмотрим наши варианты», чтобы пройти ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Переговоры». Если проверка пройдена успешно, до начала следующего хода персонажа любой враг, атакующий персонажа, получает 2 единицы усталости (strain), плюс 1 единицу усталости (strain) за каждые дополнительные [SUCCESS][SUCCESS], прежде чем атака будет завершена. (Если эта усталость (strain) приводит к тому, что противник становится недееспособным, мастер может решить, что этот противник просто выходит из боя.) Эффект прекращается немедленно, если персонаж наносит урон врагу.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -6043,8 +6045,8 @@
   </Talent>
   <Talent>
     <Key>CONCOPTIMP</Key>
-    <Name>Consider our Options (Improved)</Name>
-    <Description>Please see page 38 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Рассмотрим наши варианты (Улучшенный)</Name>
+    <Description>Когда персонаж совершает действие «Рассмотрим наши варианты», он может выбрать, чтобы его эффекты также применялись к атакам, направленным на союзников персонажа, находящихся на короткой дистанции (short range). Эффекты прекращаются для всех персонажей, если персонаж или затронутый им союзник наносят урон врагу.</Description>
     <Sources>
       <Source Page="38">Rise of the Separatists</Source>
     </Sources>
@@ -6164,8 +6166,8 @@
   </Talent>
   <Talent>
     <Key>LEVER</Key>
-    <Name>Leverage</Name>
-    <Description>Please see page 40 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Рычаг Влияния</Name>
+    <Description>Персонаж убирает [SETBACK] при проверках «Хладнокровие» и «Переговоры» зак каждый уровень таланта.</Description>
     <Sources>
       <Source Page="40">Rise of the Separatists</Source>
     </Sources>
@@ -6285,8 +6287,8 @@
 
   <Talent>
     <Key>RESPDEL</Key>
-    <Name>Respected Delegate</Name>
-    <Description>Please see page 42 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Уважаемый Делегат</Name>
+    <Description>Этот персонаж снижает сложность проверок социальных навыков, проводимых при взаимодействии с государственными учреждениями за пределами своей родной планеты, в количестве, равном его рангу в звании «Уважаемый Делегат».</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6393,8 +6395,8 @@
   </Talent>
   <Talent>
     <Key>TRANSERR</Key>
-    <Name>Translation Error</Name>
-    <Description>Please see page 43 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Ошибка Перевода</Name>
+    <Description>Один раз за бой персонаж может убрать [DESPAIR] из результатов проверки социальных навыков.</Description>
     <Sources>
       <Source Page="43">Rise of the Separatists</Source>
     </Sources>
