@@ -757,7 +757,7 @@
   <Talent>
     <Key>FULLTHSUP</Key>
     <Name>Полный вперед (Великолепный)</Name>
-    <Description>Когда персонаж успешно выполняет прием «Полный газ», максимальная скорость корабля увеличивается на два на количество раундов, равное его показателю «Хитрость», вместо единицы.</Description>
+    <Description>Когда персонаж успешно выполняет прием «Полный газ», максимальная скорость корабля увеличивается на два на количество раундов, равное его показателю «Смекалка», вместо единицы.</Description>
     <Sources>
       <Source Page="136">Edge of the Empire Core Rulebook</Source>
       <Source Page="148">Age of Rebellion Core Rulebook</Source>
@@ -1973,8 +1973,8 @@
   </Talent>
   <Talent>
     <Key>SPARECL</Key>
-    <Name>Spare Clip</Name>
-    <Description>Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.</Description>
+    <Name>Запкасной Магазин</Name>
+    <Description>Персонаж не остаётся без патронов (out of ammo) при результате [DESPAIR]. Предметы с качеством «Ограниченный боезапас» (Limitted Anmmo) заканчиваются как обычно.</Description>
     <Sources>
       <Source Page="143">Edge of the Empire Core Rulebook</Source>
       <Source Page="157">Age of Rebellion Core Rulebook</Source>
@@ -2232,8 +2232,8 @@
   </Talent>
   <Talent>
     <Key>TINK</Key>
-    <Name>Tinkerer</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 43 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Кустарь</Name>
+    <Description>Персонаж делает один предмет снаряжения более модифицируемым. Он выбирает один предмет снаряжения и увеличивает количество его очков прочности (hard point) на единицу. Он может сделать это только один раз для каждого предмета снаряжения, но может модифицировать количество предметов снаряжения, равное его уровню навыка «Кустарь». Если он теряет модифицированный предмет снаряжения, он может применить навык «Кустарь» к новому.</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
@@ -2273,8 +2273,8 @@
   </Talent>
   <Talent>
     <Key>TRICK</Key>
-    <Name>Tricky Target</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Верткая Цель</Name>
+    <Description>Любая техника, которой управляет персонаж, когда является целью атаки, имеет силуэт на единицу меньше обычного, но не менее 0.</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
@@ -4370,8 +4370,8 @@
   </Talent>
   <Talent>
     <Key>ARMSUP</Key>
-    <Name>Armor Master (Supreme)</Name>
-    <Description>Please see page 30 of the Keeping the Peace Sourcebook for details.</Description>
+    <Name>Мастер-бронник (Великолепный)</Name>
+    <Description>Один раз за раунд, когда персонаж получает критическое ранение, он может получить 3 усталости (strain), чтобы воспользоваться бонусом «Мастер-бронник». Если он это сделает, то уменьшит результат критического ранения на 10 за каждое очко своего поглощения урона, до минимума в 1.</Description>
     <Source Page="30">Keeping the Peace</Source>
     <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
