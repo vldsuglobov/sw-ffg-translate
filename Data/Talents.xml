@@ -96,7 +96,7 @@
   <Talent>
     <Key>BAL</Key>
     <Name>Баланс</Name>
-    <Description>Талант Силы. Когда персонаж восстанавливает усталость (strain) в конце каждого боя, он может бросать кубики Силы, не превышающие его рейтинг Силы. Он восстанавливает дополнительную усталость (strain), равное полученным очкам Силы (очкам Света).
+    <Description>Когда персонаж восстанавливает усталость (strain) в конце каждого боя, он может добавить [FORCE], не превышающие его рейтинг Силы (Force Rating). Он восстанавливает дополнительную усталость (strain), равное [LIGHT].
     </Description>
     <Sources>
       <Source Page="132">Edge of the Empire Core Rulebook</Source>
@@ -687,7 +687,7 @@
   <Talent>
     <Key>FORCERAT</Key>
     <Name>Рейтинг Силы</Name>
-    <Description>Талант Силы. Каждый ранг навсегда увеличивает рейтинг Силы персонажа на единицу.</Description>
+    <Description>Каждый ранг навсегда увеличивает рейтинг Силы (Force Rating) персонажа на единицу.</Description>
     <Sources>
       <Source Page="135">Edge of the Empire Core Rulebook</Source>
       <Source Page="147">Age of Rebellion Core Rulebook</Source>
@@ -2296,8 +2296,8 @@
   </Talent>
   <Talent>
     <Key>UNCANREAC</Key>
-    <Name>Uncanny Reactions</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Невероятная Реакция</Name>
+    <Description>За каждый уровень «Невероятной Реакции» персонаж добавляет [BOOST] к проверкам «Бдительности».</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
@@ -2315,8 +2315,8 @@
   </Talent>
   <Talent>
     <Key>UNCANSENS</Key>
-    <Name>Uncanny Senses</Name>
-    <Description>Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Name>Невероятные Чувства</Name>
+    <Description>За каждый уровень «Невероятных Чувств» персонаж добавляет [BOOST] к проверкам «Внимательности».</Description>
     <Sources>
       <Source Page="145">Edge of the Empire Core Rulebook</Source>
       <Source Page="158">Age of Rebellion Core Rulebook</Source>
@@ -2489,9 +2489,9 @@
   <!-- Dangerous Covenants -->
   <Talent>
     <Key>BURLY</Key>
-    <Name>Burly</Name>
+    <Name>Здоровяк</Name>
     <Description>
-      Please see page 32 of the Dangerous Covenants Sourcebook, or page 34 of the Forged in Battle Sourcebook, for details.
+      Этот персонаж уменьшает показатели «Громоздкое» (Cumbersome) «Нагрузка» любого используемого или переносимого оружия на число, равное количеству рангов в навыке «Здоровяк», до минимума в 1.
     </Description>
     <Sources>
       <Source Page="32">Dangerous Covenants</Source>
@@ -2526,9 +2526,9 @@
   </Talent>
   <Talent>
     <Key>HEAVYHITTER</Key>
-    <Name>Heavy Hitter</Name>
+    <Name>Есть Пробитие</Name>
     <Description>
-      Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.
+      Один раз за игровую сессию персонаж может потратить [TRIUMPH] на успешную проверку «Дальний бой (тяжелое оружие)» или «Артиллерия», чтобы добавить к атаке свойство «Пробитие 1» (Breach) или увеличить существующий показатель «Пробитие» (Breach) на 1.
     </Description>
     <Sources>
       <Source Page="32">Dangerous Covenants</Source>
@@ -2539,9 +2539,9 @@
   </Talent>
   <Talent>
     <Key>HEROICRES</Key>
-    <Name>Heroic Resilience</Name>
+    <Name>Героическая Стойкость</Name>
     <Description>
-      Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.
+      Сразу после успешного прохождения боевой проверки, но до подсчета урона, персонаж может потратить одно очко Судьбы (Destiny Point), чтобы увеличить свое поглащение на число, равное его уровню в навыке «Стойкость».
     </Description>
     <Sources>
       <Source Page="32">Dangerous Covenants</Source>
@@ -2585,9 +2585,9 @@
   </Talent>
   <Talent>
     <Key>RAINDEATH</Key>
-    <Name>Rain of Death</Name>
+    <Name>Дождь Смерти</Name>
     <Description>
-      Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.
+      Персонаж может выполнить маневр «Дождь смерти». Если он это сделает, то при совершении атаки в тот же ход сложность атаки не увеличится из-за свойства «Автоматический огонь» (Auto-fire).
     </Description>
     <Sources>
       <Source Page="32">Dangerous Covenants</Source>
@@ -3012,7 +3012,7 @@
     <Key>HAWKSWOOP</Key>
     <Name>Налет Мышеястреба</Name>
     <Description>
-      Персонаж может совершить действие «Налет Мышеястреба», выполнив проверку ближнего боя «Световой меч» (Ловкость) против одной цели на короткой дистанции (short range) и добавив к пулу [FORCE], не превышающие рейтинг Силы. Персонаж может потратить [FORCEPOINT] перед решением результата проверки, чтобы оказаться вблизи (engaged) с целью за быстрое действием (incidental), и может потратить [FORCEPOINT], чтобы добавить [ADVANTAGE] к результатам проверки. Если персонаж не может переместиться, чтобы вступить в бой с целью, атака автоматически промахивается.
+      Персонаж может совершить действие «Налет Мышеястреба», выполнив проверку ближнего боя «Световой меч» (Ловкость) против одной цели на короткой дистанции (short range) и добавив к пулу [FORCE], не превышающие его рейтинг Силы (Force Rating). Персонаж может потратить [FORCEPOINT] перед решением результата проверки, чтобы оказаться вблизи (engaged) с целью за быстрое действием (incidental), и может потратить [FORCEPOINT], чтобы добавить [ADVANTAGE] к результатам проверки. Если персонаж не может переместиться, чтобы вступить в бой с целью, атака автоматически промахивается.
     </Description>
     <Source Page="144">Force and Destiny Core Rulebook</Source>
     <Ranked>true</Ranked>
@@ -3361,9 +3361,9 @@
   </Talent>
   <Talent>
     <Key>PREYWEAK</Key>
-    <Name>Prey on the Weak</Name>
+    <Name>Охота На Слабых</Name>
     <Description>
-      Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.
+      За каждый ранг способности «Охота на слабых» персонаж наносит +1 урона к одному попаданию для всех успешных проверок боя против дезориентированных (disoriented) целей.
     </Description>
     <Sources>
       <Source Page="149">Force and Destiny Core Rulebook</Source>
@@ -3440,7 +3440,7 @@
     <Key>SABERSW</Key>
     <Name>Рой Клинков</Name>
     <Description>
-      Персонаж может выполнить маневр «Рой Клинков», получив 1 усталости (strain). Его следующая проверка боя «Световой меч» (Ловкость) в этом ходу получает свойство предмета «Связанный» (Linked), ранги которого равны рейтингу Силы.
+      Персонаж может выполнить маневр «Рой Клинков», получив 1 усталости (strain). Его следующая проверка боя «Световой меч» (Ловкость) в этом ходу получает свойство предмета «Связанный» (Linked), с рангом не превышающим его рейтинг Силы (Force Rating).
     </Description>
     <Source Page="151">Force and Destiny Core Rulebook</Source>
     <Ranked>false</Ranked>
@@ -4174,8 +4174,8 @@
   </Talent>
   <Talent>
     <Key>SORRYMESS</Key>
-    <Name>Sorry About the Mess</Name>
-    <Description>Please see page 33 of the Fly Casual Sourcebook, or page 43 of the Rise of the Separatists Sourcebook, for details.</Description>
+    <Name>Извините за беспорядок</Name>
+    <Description>Персонаж снижает показатель критического урона любого некорабельного оружия, которым он владеет, на 1 (до минимума в 1) против целей, которые еще не участвовали в этом столкновении.</Description>
     <Sources>
       <Source Page="33">Fly Casual</Source>
       <Source Page="43">Rise of the Separatists</Source>
@@ -5743,8 +5743,8 @@
   </Talent>
   <Talent>
     <Key>TOUGHIMP</Key>
-    <Name>Toughened (Improved)</Name>
-    <Description>Please see page 31 of the Knights of Fate Sourcebook for details.</Description>
+    <Name>Закаленный (Улучшенный)</Name>
+    <Description>Один раз в сессию персонаж может восстановить количество ран, равное рангу в «Закаленный»</Description>
     <Sources>
       <Source Page="31">Knights of Fate</Source>
     </Sources>
@@ -6256,8 +6256,8 @@
   </Talent>
   <Talent>
     <Key>RAVAGE</Key>
-    <Name>Ravage</Name>
-    <Description>Please see page 41 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Опустошение</Name>
+    <Description>Один раз за бой персонаж может получить 3 усталости (strain), чтобы добавить [FORCE], не превышающие его рейтинг Силы (Force Rating), к проверке боя, против цели вплотную (engaged). Персонаж может потратить [FORCEPOINT], чтобы добавить [SUCCESS] или [ADVANTAGE] к результатам проверки.</Description>
     <Sources>
       <Source Page="41">Rise of the Separatists</Source>
     </Sources>
@@ -6268,8 +6268,8 @@
   </Talent>
   <Talent>
     <Key>RENFORM</Key>
-    <Name>Renegade Form</Name>
-    <Description>Please see page 42 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Форма Отступника</Name>
+    <Description>Приобретая этот талант, персонаж выбирает одну характеристику. Он может использовать эту характеристику вместо Силы при проверках «Световой меч».</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
@@ -6317,8 +6317,8 @@
   </Talent>
   <Talent>
     <Key>SECRETFORCE</Key>
-    <Name>Secrets of the Force</Name>
-    <Description>Please see page 42 of the Rise of the Separatists Sourcebook for details.</Description>
+    <Name>Секреты Силы</Name>
+    <Description>«Знания (Легенды)» и «Световой меч» становятся карьерными навыками персонажа.</Description>
     <Sources>
       <Source Page="42">Rise of the Separatists</Source>
     </Sources>
