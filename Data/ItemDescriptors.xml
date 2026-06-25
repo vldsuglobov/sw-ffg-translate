@@ -1413,262 +1413,280 @@
   
   <ItemDescriptor>
     <Key>ACCURATE</Key>
-    <Name>Accurate Quality</Name>
-    <Description></Description>
+    <Name>Качество Точное (Accurate)</Name>
+    <Description>За каждый уровень этой особенности атакующий добавляет [BOOST] к своему пулу кубиков атаки при использовании этого оружия.</Description>
     <Sources>
       <Source>Edge of the Empire Core Rulebook</Source>
       <Source>Age of Rebellion Core Rulebook</Source>
       <Source>Force and Destiny Core Rulebook</Source>
     </Sources>
     <Type>Weapon</Type>
-    <ModDesc>Accurate {0}</ModDesc>
-    <QualDesc>Accurate {0}</QualDesc>
+    <ModDesc>Точное {0}</ModDesc>
+    <QualDesc>Точное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>AUTOFIRE</Key>
-    <Name>Auto-Fire Quality</Name>
-    <Description></Description>
+    <Name>Качество Автоматическая Стрельба (Auto-fire)</Name>
+    <Description>Атакующий должен увеличить сложность проверки атаки на [DIFFICULTY]. Пользователь может не использовать свойство «Автоматическая стрельба» в оружии; в этом случае он не может активировать это свойство, но и не получает вышеупомянутого штрафа.
+
+Если атака попадает, атакующий может активировать автоматическую стрельбу, потратив [ADVANTAGE][ADVANTAGE]. Автоматическая стрельба может быть активирована несколько раз. Каждый раз, когда атакующий активирует автоматическую стрельбу, он наносит дополнительный удар по цели. Каждый из этих ударов считается дополнительным ударом от этого оружия, и каждый удар наносит базовый урон плюс количество неотмененных успешных результатов проверки.
+
+Эти дополнительные удары могут быть назначены исходной цели или другим целям в пределах досягаемости оружия. Если атакующий хочет поразить несколько целей, он должен принять решение до выполнения проверки. Кроме того, если он хочет поразить несколько целей, его исходной целью всегда должна быть цель с наибольшей сложностью и наибольшей защитой (если это две отдельные цели, мастер выбирает, какая цель будет исходной). Первоначальный удар всегда должен быть нанесен по первоначальной цели. Последующие удары могут быть направлены на любую другую указанную цель.
+
+Автоматическое оружие также может наносить одно критическое ранение за каждое попадание, нанесенное в ходе атаки, в соответствии с обычной стоимостью; критическое ранение должно быть нанесено именно той цели, по которой был нанесен конкретный удар.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Auto Fire</ModDesc>
-    <QualDesc>Auto Fire</QualDesc>
+    <ModDesc>Автоматическое</ModDesc>
+    <QualDesc>Автоматическое</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>BREACH</Key>
-    <Name>Breach Quality</Name>
+    <Name>Качество Бронебойное (Breach)</Name>
     <Type>Weapon</Type>
-    <Description></Description>
-    <ModDesc>Breach {0}</ModDesc>
-    <QualDesc>Breach {0}</QualDesc>
+    <Description>Оружие с качеством «Бронебойное» игнорирует одну единицу брони (armor) за каждый показатель «Бронебойное» (то есть оно также игнорирует 10 единиц поглощения (soak) за каждый показатель «Бронебойное»).</Description>
+    <ModDesc>Бронебойное {0}</ModDesc>
+    <QualDesc>Бронебойное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>BURN</Key>
-    <Name>Burn Quality</Name>
+    <Name>Качество Ожог (Burn)</Name>
     <Type>Weapon</Type>
-    <Description></Description>
-    <ModDesc>Burn {0}</ModDesc>
-    <QualDesc>Burn {0}</QualDesc>
+    <Description>Если атака успешна, цель продолжает получать базовый урон от оружия каждый раунд в течение количества раундов, равного показателю «Ожог» оружия. Урон наносится в начале каждого хода цели.
+
+Жертва может остановить урон, перекатываясь по земле и совершая проверку Ловкости в качестве действия. Это проверка ([DIFFICULTY][DIFFICULTY]) Средней сложности навыка «Координация» на твердых поверхностях, таких как пол корабля, или проверка ([DIFFICULTY]) Легкой сложности навыка «Координация» на траве или мягкой земле. Прыжок в воду немедленно останавливает урон. В обеих ситуациях предполагается, что пламя возникло в результате обычного поджога, а не химической реакции. В последнем случае жертва мало что может сделать.</Description>
+    <ModDesc>Ожог {0}</ModDesc>
+    <QualDesc>Ожог {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>BLAST</Key>
-    <Name>Blast Quality</Name>
-    <Description></Description>
+    <Name>Качество Взрыв (Blast)</Name>
+    <Description>Если атака успешна и активируется эффект «Взрыв», каждый персонаж (друг или враг), находящийся вплотную (engaged) с первоначальной целью, получает урон, равный показателю «Взрыв» оружия (плюс дополнительное ранение за каждый успешный результат, как обычно).
+
+В относительно небольшом и замкнутом пространстве Мастер игры может решить, что все находящиеся в комнате получают урон.
+
+Если эффект «Взрыв» не активируется, боеприпас всё равно детонирует, но из-за невезения или плохой меткости стрелка (или быстрой реакции жертв) взрыв может не задеть никого в радиусе своего действия. Однако пользователь также может активировать эффект «Взрыв», если атака промахнется, потратив [ADVANTAGE][ADVANTAGE][ADVANATGE]. В этом случае первоначальная цель и каждая цель, атакующая первоначальную цель, получают урон, равный показателю «Взрыв» оружия.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Blast {0}</ModDesc>
-    <QualDesc>Blast {0}</QualDesc>
+    <ModDesc>Взрыв {0}</ModDesc>
+    <QualDesc>Взрыв {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>CONCUSSIVE</Key>
-    <Name>Concussive Quality</Name>
-    <Description></Description>
+    <Name>Качество Ударное (Concussive)</Name>
+    <Description>Цель ошеломлена (staggered) на количество раундоа, равное показателю «Ударное». Ошеломленная (staggered) цель не может совершать никаких действий (actions).</Description>
     <Type>Weapon</Type>
-    <ModDesc>Concussive {0}</ModDesc>
-    <QualDesc>Concussive {0}</QualDesc>
+    <ModDesc>Ударное {0}</ModDesc>
+    <QualDesc>Ударное {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>CORTOSIS</Key>
-    <Name>Cortosis Quality</Name>
-    <Description></Description>
-    <ModDesc>Cortosis</ModDesc>
-    <QualDesc>Cortosis</QualDesc>
+    <Name>Качество Кортозис (Cortosis)</Name>
+    <Description>Оружие со свойством «Кортозис» невосприимчиво к свойству «Раскол» (Sunder). Броня со свойством «Кортозис» игнорирует свойства «Проникающее» (Pierce) и «Бронебойное» (Breach).</Description>
+    <ModDesc>Кортозис</ModDesc>
+    <QualDesc>Кортозис</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>CUMBERSOME</Key>
-    <Name>Cumbersome Quality</Name>
-    <Description></Description>
+    <Name>Качество Громоздкое (Cumbersome)</Name>
+    <Description>Для правильного использования громоздкого оружия персонажу необходима характеристика Силы, равная или превышающая показатель Громоздкости оружия. За каждый недостаток Силы персонаж должен увеличить сложность всех проверок, проводимых при использовании оружия, на единицу.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Cumbersome {0}</ModDesc>
-    <QualDesc>Cumbersome {0}</QualDesc>
+    <ModDesc>Громоздкое {0}</ModDesc>
+    <QualDesc>Громоздкое {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>DEFENSIVE</Key>
-    <Name>Defensive Quality</Name>
-    <Description></Description>
+    <Name>Качество Защитное (Defensive)</Name>
+    <Description>Персонаж, владеющий оружием с качеством «Защитное», увеличивает свою защиту в ближнем бою на величину показателя «Защитное» этого оружия.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Defensive {0}</ModDesc>
-    <QualDesc>Defensive {0}</QualDesc>
+    <ModDesc>Защитное {0}</ModDesc>
+    <QualDesc>Защитное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>DEFLECTION</Key>
-    <Name>Deflection Quality</Name>
-    <Description></Description>
-    <ModDesc>Deflection {0}</ModDesc>
-    <QualDesc>Deflection {0}</QualDesc>
+    <Name>Качество Отражение (Deflection)</Name>
+    <Description>Персонаж, владеющий оружием с качеством «Отражение», увеличивает свою защиту в дальнем бою на величину показателя «Отражение».</Description>
+    <ModDesc>Отражение {0}</ModDesc>
+    <QualDesc>Отражение {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>DISORIENT</Key>
-    <Name>Disorient Quality</Name>
-    <Description></Description>
+    <Name>Качество Дезориентирующее (Disorient)</Name>
+    <Description>Цель дезориентирована (disorient) на количество раундов, равное покащателю «Дезориентирующее». Дезориентированные цели добавляют [SETBACK] ко всем проверкам навыков. </Description>
     <Type>Weapon</Type>
-    <ModDesc>Disorient {0}</ModDesc>
-    <QualDesc>Disorient {0}</QualDesc>
+    <ModDesc>Дезориентирующее {0}</ModDesc>
+    <QualDesc>Дезориентирующее {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>ENSNARE</Key>
-    <Name>Ensnare Quality</Name>
-    <Description></Description>
+    <Name>Качество Завхват (Ensnare)</Name>
+    <Description>При срабатывании эффекта «Захват» цель обездвиживается (immobilized) на количество раундов, равное показателю «Захват» оружия. Обездвиженная цель может попытаться совершить ([DIFFICULTY][DIFFICULTY][DIFFICULTY]) Сложную проверку навыка «Атлетика» в свой ход, чтобы освободиться от эффекта. Обездвиженная цель не может выполнять маневры.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Ensnare {0}</ModDesc>
-    <QualDesc>Ensnare {0}</QualDesc>
+    <ModDesc>Захват {0}</ModDesc>
+    <QualDesc>Захват {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>GUIDED</Key>
-    <Name>Guided Quality</Name>
-    <Description></Description>
+    <Name>Качество Самонаводящееся (Guided)</Name>
+    <Description>Если персонаж промахивается при стрельбе из самонаводящегося оружия и если эффект «Самонаводящееся» активирован, он может совершить проверку атаки в конце раунда. Сложность проверки рассчитывается путем сравнения силуэта оружия (0) с силуэтом цели; [ABILITY] равен показателю «Самонаводящееся» оружия. Если проверка успешна, оружие поражает цель, и урон наносится обычным способом.
+
+Для активации эффекта «Самонаводящееся» требуется [ADVANTAGE][ADVANTAGE][ADVANTAGE], если иное не указано в описании оружия. Помните, что эффект «Самонаводящееся» может активироваться при последующих атаках, представляя собой продолжение отслеживания цели снарядом.
+
+«Подмена цели» — это контрмера, предназначенная для борьбы с определенным типом снарядов, например, с сигнальными ракетами, предназначенными для отвлечения инфракрасных снарядов. Подмена цели напрямую повышает защиту цели от атак с эффектом «Самонаводящееся».</Description>
     <Type>Weapon</Type>
-    <ModDesc>Guided {0}</ModDesc>
-    <QualDesc>Guided {0}</QualDesc>
+    <ModDesc>Самонаводящееся {0}</ModDesc>
+    <QualDesc>Самонаводящееся {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>KNOCKDOWN</Key>
-    <Name>Knockdown Quality</Name>
-    <Description></Description>
+    <Name>Качество Опрокидывание (Knockdown)</Name>
+    <Description>При срабатывании эффекта «Опрокидывание» цель опрокидывается на землю (prone).
+
+Если не указано иное, для срабатывания эффекта «Опрокидывание» требуется [ADVANATGE][ADVANTAGE], плюс одно дополнительное [ADVANTAGE] за каждый силуэт цели сверх единицы.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Knockdown</ModDesc>
-    <QualDesc>Knockdown</QualDesc>
+    <ModDesc>Опрокидывание</ModDesc>
+    <QualDesc>Опрокидывание</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>INACCURATE</Key>
-    <Name>Inaccurate Quality</Name>
-    <Description></Description>
+    <Name>Качество Неточное (Inaccurate)</Name>
+    <Description>За каждый уровень этой особенности атакующий добавляет [SETBACK] к своему пулу кубиков атаки при использовании этого оружия.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Inaccurate {0}</ModDesc>
-    <QualDesc>Inaccurate {0}</QualDesc>
+    <ModDesc>Неточное {0}</ModDesc>
+    <QualDesc>Неточное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>INFERIOR</Key>
-    <Name>Inferior Quality</Name>
-    <Description></Description>
-    <ModDesc>Inferior</ModDesc>
-    <QualDesc>Inferior</QualDesc>
+    <Name>Качество Низкокачественное (Inferior)</Name>
+    <Description>Низкокачественное оружие автоматически генерирует [THREAT] при всех проверках, связанных с его использованием, а его базовый урон уменьшается на единицу. Низкокачественная броня имеет увеличенный на единицу вес и уменьшенную на единицу защиту. Если у неё нет защиты, уменьшите её значение поглощения урона на единицу, до минимума в ноль.</Description>
+    <ModDesc>Низкое Качество</ModDesc>
+    <QualDesc>Низкое Качество</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>ION</Key>
-    <Name>Ion Quality</Name>
-    <Description></Description>
+    <Name>Качество Ионное (Ion)</Name>
+    <Description>Урон наносится цели (обычно технике) в виде системной нагрузки (system strain). Урон по-прежнему снижается за счет брони и поглощения урона. Дроиды подверженные воздействию ионного оружия, получают урон в виде усталости (strain). По решению Мастера так же может отключить киберимпланты и/или другое оборудование</Description>
     <Type>Weapon</Type>
-    <ModDesc>Ion</ModDesc>
-    <QualDesc>Ion</QualDesc>
+    <ModDesc>Ионное</ModDesc>
+    <QualDesc>Ионное</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>LIMITEDAMMO</Key>
-    <Name>Limited Ammo Quality</Name>
-    <Description></Description>
+    <Name>Качество Боезапас (Limited Ammo)</Name>
+    <Description>Оружие с параметром «Боезапас» может быть использовано для совершения количества атак, равного его показателю «Боезапас», прежде чем его потребуется перезарядить с помощью соответствующего маневра. Кроме того, каждый выстрел расходует один из ограниченного количества патронов, которые, будучи израсходованными, необходимо приобрести или получить иным способом, прежде чем снова стрелять из оружия. Это также относится к гранатам и другому «одноразовому» оружию с параметром «Боезапас 1» (здесь пользователь не «перезаряжает» гранату, а достает другую для использования — механически они эквивалентны).</Description>
     <Type>Weapon</Type>
-    <ModDesc>Limited Ammo {0}</ModDesc>
-    <QualDesc>Limited Ammo {0}</QualDesc>
+    <ModDesc>Боезапас {0}</ModDesc>
+    <QualDesc>Боезапас {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>LINKED</Key>
-    <Name>Linked Quality</Name>
-    <Description></Description>
+    <Name>Качество Связанный (Linked)</Name>
+    <Description>При стрельбе из связанного оружия, в случае успешной атаки, оружие наносит один удар. Владелец может потратить [ADVANTAGE][ADVANTAGE], чтобы получить дополнительный удар, и может делать это количество раз, равное показателю связанности оружия. Дополнительные удары от связанного оружия могут быть нанесены только по первоначальной цели. Каждый удар наносит базовый урон оружия плюс общее количество неотмененных [SUCCESS].</Description>
     <Type>Weapon</Type>
-    <ModDesc>Linked {0}</ModDesc>
-    <QualDesc>Linked {0}</QualDesc>
+    <ModDesc>Связанный {0}</ModDesc>
+    <QualDesc>Связанный {0}</QualDesc>
     <IsBoolean>false</IsBoolean>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>PIERCE</Key>
-    <Name>Pierce Quality</Name>
-    <Description></Description>
+    <Name>Качество Проникающее (Pierce)</Name>
+    <Description>Атака этим оружием игнорирует одно очко поглощения за каждый ранг. Если у оружия больше рангов, чем общее количество очков поглощения цели, оно полностью игнорирует поглощение цели. Например, «Проникающее» 3 против поглощения 2 игнорирует 2 очка поглощения, но дополнительный ранг не оказывает дальнейшего эффекта.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Pierce {0}</ModDesc>
-    <QualDesc>Pierce {0}</QualDesc>
+    <ModDesc>Проникающее {0}</ModDesc>
+    <QualDesc>Проникающее {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>PREPARE</Key>
-    <Name>Prepare Quality</Name>
-    <Description></Description>
+    <Name>Качество Подготовка (Prepare)</Name>
+    <Description>Перед применением этого оружия пользователь должен выполнить количество подготовительных маневров, равное показателю «Подготовка» данного оружия.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Prepare {0}</ModDesc>
-    <QualDesc>Prepare {0}</QualDesc>
+    <ModDesc>Подготовка {0}</ModDesc>
+    <QualDesc>Подготовка {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>SLOWFIRING</Key>
-    <Name>Slow Firing Quality</Name>
-    <Description></Description>
+    <Name>Качество Медленная стрельба (Slow Firing)</Name>
+    <Description>Показатель «Медленная стрельба» определяет, как скоро после атаки из этого оружия можно будет снова открыть огонь. Например, тяжелому турболазеру с показателем «Медленное 2» необходимо подождать два раунда после выстрела, прежде чем можно будет открыть огонь снова.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Slow Firing {0}</ModDesc>
-    <QualDesc>Slow Firing {0}</QualDesc>
+    <ModDesc>Медленное {0}</ModDesc>
+    <QualDesc>Медленное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STAGGER</Key>
-    <Name>Stagger Quality</Name>
-    <Description></Description>
+    <Name>Качество Ошеломляющее (Stagger)</Name>
+    <Description>Цель ошеломлена (staggered) на количество раундоа, равное показателю «Ошеломляющее». Ошеломленная (staggered) цель не может совершать никаких действий (actions)</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stagger {0}</ModDesc>
-    <QualDesc>Stagger {0}</QualDesc>
+    <ModDesc>Ошеломляющее {0}</ModDesc>
+    <QualDesc>Ошеломляющее {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUN</Key>
-    <Name>Stun Quality</Name>
-    <Description></Description>
+    <Name>Качество Оглушение (Stun)</Name>
+    <Description>При активации наносит урон усталости (strain) равный показателю Оглушение</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stun {0}</ModDesc>
-    <QualDesc>Stun {0}</QualDesc>
+    <ModDesc>Оглушение {0}</ModDesc>
+    <QualDesc>Оглушение {0}</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUNDROID</Key>
-    <Name>Stun (Droid Only) Quality</Name>
-    <Description></Description>
+    <Name>Качество Оглушение против Дроидов (Stun Droid Only)y</Name>
+    <Description>При активации наносит урон усталости (strain) равный показателю Оглушение. Данное качество работает только на цель-дроида</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stun {0} (Droid Only)</ModDesc>
-    <QualDesc>Stun {0} (Droid Only)</QualDesc>
+    <ModDesc>Оглушение {0} (Антидроид)</ModDesc>
+    <QualDesc>Оглушение {0} (Антидроид)</QualDesc>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUNSETTING</Key>
-    <Name>Stun Setting Quality</Name>
-    <Description></Description>
+    <Name>Режим Оглушения (Stun Setting)</Name>
+    <Description>В качестве дополнительной опции владелец может переключить режим работы своего оружия на «Оглушение». При использовании этого режима его дальность действия уменьшается до короткого (short range) и не может быть увеличена. В режиме оглушения оружие наносит урон по усталости (strain), а не ранам. Этот урон всё ещё снижается из-за поглощения урона целью.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stun Setting</ModDesc>
-    <QualDesc>Stun Setting</QualDesc>
+    <ModDesc>Режим Оглушения</ModDesc>
+    <QualDesc>Режим Оглушения</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUNDAMAGE</Key>
-    <Name>Stun Damage Quality</Name>
-    <Description></Description>
+    <Name>Качество Нелетальное (Stun Damage)</Name>
+    <Description>Оружие наносит урон по усталости (strain), а не ранам. Этот урон всё ещё снижается из-за поглощения урона целью.</Description>
     <Type>Weapon</Type>
     <ModDesc>Stun Damage</ModDesc>
     <QualDesc>Stun Damage</QualDesc>
@@ -1677,68 +1695,70 @@
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUNDAMAGEDROID</Key>
-    <Name>Stun Damage (Droid Only) Quality</Name>
-    <Description></Description>
+    <Name>Качество Нелетальное против Дроидов (Stun Damage Droid Only)</Name>
+    <Description>Оружие наносит урон по усталости (strain), а не ранам. Этот урон всё ещё снижается из-за поглощения урона целью. Данное качество работает только на цель-дроида</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stun Damage (Droid Only)</ModDesc>
-    <QualDesc>Stun Damage (Droid Only)</QualDesc>
+    <ModDesc>Нелетальное (Антидроид)</ModDesc>
+    <QualDesc>Нелетальное (Антидроид)</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>SUNDER</Key>
-    <Name>Sunder Quality</Name>
-    <Description></Description>
+    <Name>Качество Раскол (Sunder)</Name>
+    <Description>При активации атакующий выбирает один предмет, открыто используемый целью (например, оружие, щит или предмет на поясе). Этот предмет получает один шаг повреждения: от неповержденного до незначительного, от незначительного до умеренного, от умеренного до значительного. Если целью успешного применения «Раскола» является предмет, уже получившее значительные повреждения, оно уничтожается.
+
+Для активации «Раскола» требуется один результат преимущества. При многократной активации в одной атаке каждое применение может быть применено к одному и тому же оружию, потенциально превращая оружие из неповрежденного в уничтоженное за одну атаку.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Sunder</ModDesc>
-    <QualDesc>Sunder</QualDesc>
+    <ModDesc>Раскол</ModDesc>
+    <QualDesc>Раскол</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
     <IsActiveQuality>true</IsActiveQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>SUPERIOR</Key>
-    <Name>Superior Quality</Name>
-    <Description></Description>
-    <ModDesc>Superior</ModDesc>
-    <QualDesc>Superior</QualDesc>
+    <Name>Качество Превосходное (Superior)</Name>
+    <Description>Превосходное оружие автоматически дает [ADVANTAGE] при всех проверках, связанных с его использованием, а его базовый урон увеличивается на единицу. Превосходная броня имеет уменьшенный на единицу вес и увеличенное на единицу значение поглощения урона.</Description>
+    <ModDesc>Превосходное</ModDesc>
+    <QualDesc>Превосходное</QualDesc>
     <IsBoolean>true</IsBoolean>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>TRACTOR</Key>
-    <Name>Tractor Quality</Name>
-    <Description></Description>
+    <Name>Качество Притягивающее (Tractor)</Name>
+    <Description>После попадания в цель, она не может двигаться, если пилот не пройдет успешную проверку «Пилотирование» со сложностью, равной показателю притягивания.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Tractor {0}</ModDesc>
-    <QualDesc>Tractor {0}</QualDesc>
+    <ModDesc>Притягивающее {0}</ModDesc>
+    <QualDesc>Притягивающее {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>VICIOUS</Key>
-    <Name>Vicious Quality</Name>
-    <Description></Description>
+    <Name>Качество Калечащее (Vicious)</Name>
+    <Description>Когда это оружие наносит критический урон или попадает, персонаж добавляет к результату критического попадания десятикратное значение показателя «Калечащее». Например, при показателе «Калечащее» 3 жертва добавляет +30 к результату критического урона или критического попадания.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Vicious {0}</ModDesc>
-    <QualDesc>Vicious {0}</QualDesc>
+    <ModDesc>Калечащее {0}</ModDesc>
+    <QualDesc>Калечащее {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>VICIOUSDROID</Key>
-    <Name>Vicious (Droid Only) Quality</Name>
-    <Description></Description>
+    <Name>Качество Калечащее против Дроидов (Vicious Droid Only)</Name>
+    <Description>Когда это оружие наносит критический урон или попадает, персонаж добавляет к результату критического попадания десятикратное значение показателя «Калечащее». Например, при показателе «Калечащее» 3 жертва добавляет +30 к результату критического урона или критического попадания. Данное качество работает только на цель-дроида</Description>
     <Type>Weapon</Type>
-    <ModDesc>Vicious (Droid Only) {0}</ModDesc>
-    <QualDesc>Vicious (Droid Only) {0}</QualDesc>
+    <ModDesc>Калечащее {0} (Антидроид)</ModDesc>
+    <QualDesc>Калечащее {0} (Антидроид)</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>UNWIELDY</Key>
-    <Name>Unwieldy Quality</Name>
-    <Description></Description>
+    <Name>Качество Неудобное (Unwieldy)</Name>
+    <Description>Для правильного использования неудобного оружия персонажу необходима характеристика Ловкости, равная или превышающая показатель Неудобности оружия. За каждый недостаток Ловкости персонаж должен увеличить сложность всех проверок, проводимых при использовании оружия, на единицу.</Description>
     <Type>Weapon</Type>
-    <ModDesc>Unwieldy {0}</ModDesc>
-    <QualDesc>Unwieldy {0}</QualDesc>
+    <ModDesc>Неудобное {0}</ModDesc>
+    <QualDesc>Неудобное {0}</QualDesc>
     <IsQuality>true</IsQuality>
   </ItemDescriptor>
   
@@ -1746,11 +1766,11 @@
 
   <ItemDescriptor>
     <Key>QUALADVSUB</Key>
-    <Name>Quality Takes One Less Advantage to Activate Mod</Name>
-    <Description>Quality Takes One Less [AD] to Activate</Description>
+    <Name>Качество требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Качество требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Quality Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>{1} Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Качество требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>{1} требует на {0} [AD] меньше для активации</QualDesc>
     <ChooseActiveQuality>true</ChooseActiveQuality>
   </ItemDescriptor>
 
@@ -1758,91 +1778,91 @@
 
   <ItemDescriptor>
     <Key>AUTOFIREADV</Key>
-    <Name>Autofire Takes One Less Advantage to Activate Mod</Name>
-    <Description>Autofire Takes One Less [AD] to Activate</Description>
+    <Name>Автоматическое требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Автоматическое требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Autofire Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Autofire Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Автоматическое требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Автоматическое требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>BURNADV</Key>
-    <Name>Burn Takes One Less Advantage to Activate Mod</Name>
-    <Description>Burn Takes One Less [AD] to Activate</Description>
+    <Name>Ожог требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Ожог требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Burn Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Burn Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Ожог требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Ожог требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>BLASTADV</Key>
-    <Name>Blast Takes One Less Advantage to Activate Mod</Name>
-    <Description>Blast Takes One Less [AD] to Activate</Description>
+    <Name>Взрыв требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Взрыв требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Blast Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Blast Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Взрыв требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Взрыв требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>CONCUSSIVEADV</Key>
-    <Name>Concussive Takes One Less Advantage to Activate Mod</Name>
-    <Description>Concussive Takes One Less [AD] to Activate</Description>
+    <Name>Ударное требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Ударное требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Concussive Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Concussive Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Ударное требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Ударное требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>DISORIENTADV</Key>
-    <Name>Disorient Takes One Less Advantage to Activate Mod</Name>
-    <Description>Disorient Takes One Less [AD] to Activate</Description>
+    <Name>Дезориентирующее требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Дезориентирующее требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Disorient Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Disorient Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Дезориентирующее требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Дезориентирующее требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>ENSNAREADV</Key>
-    <Name>Ensnare Takes One Less Advantage to Activate Mod</Name>
-    <Description>Ensnare Takes One Less [AD] to Activate</Description>
+    <Name>Захват требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Захват требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Ensnare Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Ensnare Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Захват требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Захват требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>GUIDEDADV</Key>
-    <Name>Guided Takes One Less Advantage to Activate Mod</Name>
-    <Description>Guided Takes One Less [AD] to Activate</Description>
+    <Name>Самонаводящееся требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Самонаводящееся требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Guided Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Guided Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Самонаводящееся требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Самонаводящееся требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>KNOCKDOWNADV</Key>
-    <Name>Knockdown Takes One Less Advantage to Activate Mod</Name>
-    <Description>Knockdown Takes One Less [AD] to Activate</Description>
+    <Name>Опрокидывание требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Опрокидывание требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Knockdown Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Knockdown Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Опрокидывание требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Опрокидывание требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>LINKEDADV</Key>
-    <Name>Linked Takes One Less Advantage to Activate Mod</Name>
-    <Description>Linked Takes One Less [AD] to Activate</Description>
+    <Name>Связанный требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Связанный требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Linked Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Linked Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Связанный требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Связанный требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>STUNADV</Key>
-    <Name>Stun Takes One Less Advantage to Activate Mod</Name>
-    <Description>Stun Takes One Less [AD] to Activate</Description>
+    <Name>Оглушение требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Оглушение требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Stun Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Stun Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Оглушение требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Оглушение требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
   <ItemDescriptor>
     <Key>SUNDERADV</Key>
-    <Name>Sunder Takes One Less Advantage to Activate Mod</Name>
-    <Description>Sunder Takes One Less [AD] to Activate</Description>
+    <Name>Раскол требует на 1 преимущество меньше для активации (Модификация)</Name>
+    <Description>Раскол требует на одно [AD] меньше для активации</Description>
     <Type>Weapon</Type>
-    <ModDesc>Sunder Takes 1 Less [AD] to Activate</ModDesc>
-    <QualDesc>Sunder Takes {0} Less [AD] to Activate</QualDesc>
+    <ModDesc>Раскол требует на 1 [AD] меньше для активации</ModDesc>
+    <QualDesc>Раскол требует на {0} [AD] меньше для активации</QualDesc>
   </ItemDescriptor>
 
 

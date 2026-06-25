@@ -2,20 +2,21 @@
 <Obligations>
   <Obligation>
     <Key>ADD</Key>
-    <Name>Addiction</Name>
+    <Name>Зависимость  (Обязательство) (Обязательство)</Name>
     <Description>
-      [H4]Addiction[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook for details.
+      [H4]Зависимость[h4]
+      У персонажа сильная зависимость, которую он должен постоянно подпитывать. Будь то физическая зависимость от стимуляторов, пыли или алкоголя, или психическая зависимость, такая как азартные игры, нарушение закона или бесценные антиквариат, персонаж тратит много времени, энергии и ресурсов на преследование или приобретение объекта своей зависимости.
 
+      Избегание этого обязательства почти немедленно приводит к синдрому отмены или ломке. Точная природа зависит от зависимости, но персонажу становится все труднее сосредоточиться даже на обыденных задачах, что часто отражается в том, что мастер добавляет от [SETBACK] до [SETBACK][SETBACK][SETBACK] к проверкам навыков.
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
   </Obligation>
   <Obligation>
     <Key>BET</Key>
-    <Name>Betrayal</Name>
+    <Name>Предательство  (Обязательство) (Обязательство)</Name>
     <Description>
-      [H4]Betrayal[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Предательство[h4]
+      Это обязательство может проявляться двумя способами: либо персонаж становится жертвой глубокого и личного предательства, либо сам предает других. Будь то простое предательство доверия или нарушение обещания, или же серьезное измена или мятеж, предательство разъедает персонажа и влияет на его повседневную жизнь. Жертва предательства может искать ответы, компенсацию или просто месть.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -24,20 +25,19 @@
   </Obligation>
   <Obligation>
     <Key>BLA</Key>
-    <Name>Blackmail</Name>
+    <Name>Шантаж (Обязательство)</Name>
     <Description>
-      [H4]Blackmail[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook for details.
-
+      [H4]Шантаж[h4]
+      Кто-то раскрыл один из грязных секретов персонажа и использует это знание в своих корыстных целях. Ситуацию усугубляет то, что шантажист обладает доказательствами, которые могут просочиться наружу: голографический фильм, банковские выписки, оружие, использованное при совершении преступления, и так далее. Чтобы сохранить секрет в безопасности, персонаж должен выполнять приказы, хотя шантажист достаточно хитер, чтобы формулировать требования максимально просто, поддерживая шантаж как можно дольше, обычно требуя деньги или услуги.
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
   </Obligation>
   <Obligation>
     <Key>BOU</Key>
-    <Name>Bounty</Name>
+    <Name>Награда (Обязательство)</Name>
     <Description>
-      [H4]Bounty[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, page 17 of the Far Horizons Sourcebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Награда[h4]
+      По какой-то причине за голову персонажа назначена награда. Это может быть законный ордер или контракт, заключенный преступниками, коллекторскими агентствами или даже кем-то, кто посчитал, что его честь была каким-то образом оскорблена. То, что он сделал, чтобы заслужить эту награду, зависит от его прошлого, а тяжесть его действий может зависеть от размера его Обязательства.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -47,10 +47,10 @@
   </Obligation>
   <Obligation>
     <Key>CRI</Key>
-    <Name>Criminal</Name>
+    <Name>Преступник (Обязательство)</Name>
     <Description>
-      [H4]Criminal[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Преступник[h4]
+      У персонажа есть судимость или он был обвинен в преступлении (возможно, даже не совершавшем его) и каким-то образом вовлечен в судебную систему. Обязательства могут быть урегулированы путем оплаты текущих судебных издержек, попыток скрыть улики или усилий по доказательству своей невиновности.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -59,10 +59,10 @@
   </Obligation>
   <Obligation>
     <Key>DEBT</Key>
-    <Name>Debt</Name>
+    <Name>Должок (Обязательство)</Name>
     <Description>
-      [H4]Debt[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook,  page 17 of the Far Horizons Sourcebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Должок[h4]
+      Персонаж должен кому-то очень много, будь то деньги или что-то другое. Возможно, у персонажа огромный игорный долг перед хаттом, он должен корпорации «Черка» за свой звездолет, должен богатой семье за ​​покровительство или имеет какое-либо другое серьезное финансовое обязательство. Что еще хуже, в зависимости от того, кто является владельцем долга, даже полное его погашение может не избавить персонажа от ответственности полностью, если персонаж может получить эти деньги, он, безусловно, сможет получить и больше.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -72,19 +72,19 @@
   </Obligation>
   <Obligation>
     <Key>DUT</Key>
-    <Name>Dutybound</Name>
+    <Name>Связанный долгом (Обязательство)</Name>
     <Description>
-      [H4]Dutybound:[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook for details.
+      [H4]Связанный долгом[h4]
+      У персонажа глубоко развито чувство долга, которое он чувствует себя обязанным исполнять, например, проходить военную службу, выполнять условия контракта или следовать какому-либо воровскому кодексу. В отличие от клятвы (см. ниже), у персонажа, связанного долгом, есть юридическая или ритуальная связь с организацией или делом, что делает крайне сложным или пагубным, если он не выполнит это обязательство.
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
   </Obligation>
   <Obligation>
     <Key>FAM</Key>
-    <Name>Family</Name>
+    <Name>Семья (Обязательство)</Name>
     <Description>
-      [H4]Family[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, page 17 of the Far Horizons Sourcebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Семья[h4]
+      У персонажа очень тесные связи с семьей, требующие много времени и внимания. Это может включать в себя уход за братьями, сестрами или родителями, помощь им, управление наследством, трастом или семейным бизнесом, а также просто посредничество между ссорящимися членами семьи.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -94,10 +94,10 @@
   </Obligation>
   <Obligation>
     <Key>FAV</Key>
-    <Name>Favor</Name>
+    <Name>Услуга (Обязательство)</Name>
     <Description>
-      [H4]Favor[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, page 17 of the Far Horizons Sourcebook, or page 17 of the Fly Casual Sourcebook, for details.
+      [H4]Услуга[h4]
+      Персонаж должен большую услугу. Возможно, чиновники закрывали глаза на его контрабанду товаров, или друг вызволил его из тюрьмы. В любом случае, услуги накапливаются, и вскоре его попросят вернуть долг или отплатить за услугу. Эта услуга может быть оказана постепенно, продлевая срок действия обязательства.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -107,29 +107,28 @@
   </Obligation>
   <Obligation>
     <Key>OATH</Key>
-    <Name>Oath</Name>
+    <Name>Клятва (Обязательство)</Name>
     <Description>
-      [H4]Oath[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook for details.
+      [H4]Клятва[h4]
+      Персонаж дал какую-либо клятву, которая определяет его мысли и действия, формируя его моральное мировоззрение. Это может быть клятва божеству, образу жизни (например, Кодексу джедаев) или готовности к самопожертвованию ради блага какой-либо группы или дела. В любом случае, клятва должна быть серьезной и в некотором смысле осложнять жизнь персонажа. Это личное и глубокое обязательство, возможно, без действительно достижимой конечной цели. Персонажи, которые не выполняют эту клятву, сталкиваются с внутренней и моральной борьбой.
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
   </Obligation>
   <Obligation>
     <Key>OBS</Key>
-    <Name>Obsession</Name>
+    <Name>Одержимость (Обязательство)</Name>
     <Description>
-      [H4]Obsession[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook for details.
-
+      [H4]Одержимость[h4]
+      У персонажа есть нездоровая навязчивая идея, которая мешает его жизни, будь то знаменитость, регион, политическое движение, культурная икона или какой-либо другой аспект общества или жизни. Он должен следовать ей, возможно, в ущерб своему здоровью, финансам или благополучию. Персонаж с такой Навязчивой идеей, как правило, хорошо ладит с другими, разделяющими его интересы, но вызывает жалость, насмешку или даже немного страха у тех, кто его не понимает.
     </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
   </Obligation>
   <Obligation>
     <Key>RESP</Key>
-    <Name>Responsibility</Name>
+    <Name>Ответственность (Обязательство)</Name>
     <Description>
-      [H4]Responsibility[h4]
-      Please see page 39 of the Edge of the Empire Core Rulebook, or page 17 of the Far Horizons Sourcebook, for details.
+      [H4]Ответственность[h4]
+      Персонаж, испытывающий чувство ответственности, ощущает сильную привязанность или связь с человеком, местом или вещью (ответственность перед родственниками относится к семейным обязательствам, описанным выше). Это может включать в себя сильную связь с наставником, сильное желание заботиться о сиротах в данном месте или заботу о нуждах представителей недостаточно представленных меньшинств.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -138,25 +137,27 @@
   </Obligation>
   <Obligation>
     <Key>SPON</Key>
-    <Name>Sponsorship</Name>
+    <Name>Спонсорство (Обязательство)</Name>
     <Description>
-      [H4]Sponsorship[h4]
-      Please see page 19 of Enter the Unknown Sourcebook for details.
+      [H4]Спонсорство[h4]
+      Это представляет собой легитимную фракцию, которая предоставила значительные ресурсы в руки персонажа (или команды) для достижения определенной цели. Для многих исследователей это наиболее распространенное обязательство, которое они возьмут на себя. Это может быть торговый консорциум, спонсирующий торговца для налаживания торговли с новой планетой или цивилизацией, или имперское агентство, спонсирующее разведчика для исследования недавно открытой звезды и ее планет.
+
+      Археологов часто спонсируют академии или другие научно-ориентированные организации для их экспедиций, а охотников на крупную дичь вполне могут спонсировать природоохранные группы для сокращения численности определенной популяции животных... или спонсировать менее сомнительные фирмы для полного истребления определенной формы жизни.
     </Description>
     <Source Page="19">Enter the Unknown</Source>
   </Obligation>
   <Obligation>
     <Key>FERV</Key>
-    <Name>Fervor</Name>
+    <Name>Рвение (Обязательство)</Name>
     <Description>
-      [H4]Fervor[h4]
-      Please see page 19 of Enter the Unknown Sourcebook for details.
+      [H4]Рвение[h4]
+      Персонаж обладает мощным стремлением действовать, основанным на религиозных или духовных убеждениях. В качестве Обязательства, Рвение означает, что он не может сопротивляться действиям в соответствии со своими убеждениями и учениями. У него даже могут быть те, кто поддерживает его каким-либо образом (что объясняет ресурсы, которые он потенциально получает благодаря Обязательству), еще больше побуждая его следовать «Пути», который они все почитают. Рассмотрим археолога, который ищет храмы, посвященные затерянному богу, или охотника на крупную дичь, который искренне верит, что его божественное предназначение — искоренить «монстров» по ​​всей галактике.
     </Description>
     <Source Page="19">Enter the Unknown</Source>
   </Obligation>
   <Obligation>
     <Key>ADRENALINE</Key>
-    <Name>Adrenaline Rush</Name>
+    <Name>Adrenaline Rush (Обязательство)</Name>
     <Description>
       [H4]Adrenaline Rush[h4]
       Please see page 17 of Dangerous Covenants Sourcebook for details.
@@ -165,7 +166,7 @@
   </Obligation>
   <Obligation>
     <Key>COLLATERAL</Key>
-    <Name>Collateral Accountability</Name>
+    <Name>Collateral Accountability (Обязательство)</Name>
     <Description>
       [H4]Collateral Accountability[h4]
       Please see page 17 of Dangerous Covenants Sourcebook for details.
@@ -174,7 +175,7 @@
   </Obligation>
   <Obligation>
     <Key>SCORE</Key>
-    <Name>A Score to Settle</Name>
+    <Name>A Score to Settle (Обязательство)</Name>
     <Description>
       [H4]A Score to Settle[h4]
       Please see page 17 of Dangerous Covenants Sourcebook for details.
@@ -183,7 +184,7 @@
   </Obligation>
   <Obligation>
     <Key>PRICENAME</Key>
-    <Name>The Price of a Name</Name>
+    <Name>The Price of a Name (Обязательство)</Name>
     <Description>
       [H4]The Price of a Name[h4]
       Please see page 17 of Dangerous Covenants Sourcebook for details.
@@ -192,7 +193,7 @@
   </Obligation>
   <Obligation>
     <Key>DISGRACED</Key>
-    <Name>Disgraced</Name>
+    <Name>Disgraced (Обязательство)</Name>
     <Description>
       [H4]Disgraced[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -201,7 +202,7 @@
   </Obligation>
   <Obligation>
     <Key>PHILAND</Key>
-    <Name>Philanderer</Name>
+    <Name>Philanderer (Обязательство)</Name>
     <Description>
       [H4]Philanderer[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -210,7 +211,7 @@
   </Obligation>
   <Obligation>
     <Key>EXILED</Key>
-    <Name>Exiled</Name>
+    <Name>Exiled (Обязательство)</Name>
     <Description>
       [H4]Exiled[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -219,7 +220,7 @@
   </Obligation>
   <Obligation>
     <Key>CONTRACTED</Key>
-    <Name>Contracted</Name>
+    <Name>Contracted (Обязательство)</Name>
     <Description>
       [H4]Contracted[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -228,7 +229,7 @@
   </Obligation>
   <Obligation>
     <Key>WITNESS</Key>
-    <Name>Witness Protection</Name>
+    <Name>Witness Protection (Обязательство)</Name>
     <Description>
       [H4]Witness Protection[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -237,7 +238,7 @@
   </Obligation>
   <Obligation>
     <Key>PACIFIST</Key>
-    <Name>Pacifist</Name>
+    <Name>Pacifist (Обязательство)</Name>
     <Description>
       [H4]Pacifist[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -246,7 +247,7 @@
   </Obligation>
   <Obligation>
     <Key>FRONTIER</Key>
-    <Name>Frontier Justice</Name>
+    <Name>Frontier Justice (Обязательство)</Name>
     <Description>
       [H4]Frontier Justice[h4]
       Please see page 17 of the Far Horizons Sourcebook for details.
@@ -255,7 +256,7 @@
   </Obligation>
   <Obligation>
     <Key>BASE</Key>
-    <Name>Base of Operation</Name>
+    <Name>Base of Operation (Обязательство)</Name>
     <Description>
       [H4]Base of Operation[h4]
       Please see page 82 of the Far Horizons Sourcebook for details.
@@ -264,7 +265,7 @@
   </Obligation>
   <Obligation>
     <Key>ANTAG</Key>
-    <Name>Antagonist</Name>
+    <Name>Antagonist (Обязательство)</Name>
     <Description>
       [H4]Antagonist[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -273,7 +274,7 @@
   </Obligation>
   <Obligation>
     <Key>BADREP</Key>
-    <Name>Bad Reputation</Name>
+    <Name>Bad Reputation (Обязательство)</Name>
     <Description>
       [H4]Bad Reputation[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -282,7 +283,7 @@
   </Obligation>
   <Obligation>
     <Key>NOTORIETY</Key>
-    <Name>Notoriety</Name>
+    <Name>Notoriety (Обязательство)</Name>
     <Description>
       [H4]Notoriety[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -291,7 +292,7 @@
   </Obligation>
   <Obligation>
     <Key>HIGHRISK</Key>
-    <Name>High Risk</Name>
+    <Name>High Risk (Обязательство)</Name>
     <Description>
       [H4]High Risk[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -300,7 +301,7 @@
   </Obligation>
   <Obligation>
     <Key>SERVITUDE</Key>
-    <Name>Servitude</Name>
+    <Name>Servitude (Обязательство)</Name>
     <Description>
       [H4]Servitude[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -309,7 +310,7 @@
   </Obligation>
   <Obligation>
     <Key>UNDERCONTRACT</Key>
-    <Name>Under Contract</Name>
+    <Name>Under Contract (Обязательство)</Name>
     <Description>
       [H4]Under Contract[h4]
       Please see page 17 of the Fly Casual Sourcebook for details.
@@ -318,7 +319,7 @@
   </Obligation>
   <Obligation>
     <Key>CREW</Key>
-    <Name>Crew</Name>
+    <Name>Crew (Обязательство)</Name>
     <Description>
       [H4]Crew[h4]
       Please see page 18 of the Special Modifications Sourcebook for details.
@@ -327,7 +328,7 @@
   </Obligation>
   <Obligation>
     <Key>CONTRACT</Key>
-    <Name>Contract</Name>
+    <Name>Contract (Обязательство)</Name>
     <Description>
       [H4]Contract[h4]
       Please see page 18 of the Special Modifications Sourcebook, or page 19 of the No Disintegrations Sourcebook, for details.
@@ -339,7 +340,7 @@
   </Obligation>
   <Obligation>
     <Key>FAILEDREP</Key>
-    <Name>Failed Installation/Repair</Name>
+    <Name>Failed Installation/Repair (Обязательство)</Name>
     <Description>
       [H4]Failed Installation/Repair[h4]
       Please see page 18 of the Special Modifications Sourcebook for details.
@@ -348,7 +349,7 @@
   </Obligation>
   <Obligation>
     <Key>UNFINBUS</Key>
-    <Name>Unfinished Business</Name>
+    <Name>Unfinished Business (Обязательство)</Name>
     <Description>
       [H4]Unfinished Business[h4]
       Please see page 18 of the Special Modifications Sourcebook for details.
@@ -360,7 +361,7 @@
 
   <Obligation>
     <Key>THRILLSEEK</Key>
-    <Name>Thrill Seeker</Name>
+    <Name>Thrill Seeker (Обязательство)</Name>
     <Description>
       [H4]Thrill Seeker[h4]
       Please see page 19 of the No Disintegrations Sourcebook for details.
@@ -369,7 +370,7 @@
   </Obligation>
   <Obligation>
     <Key>VIGILANTE</Key>
-    <Name>Vigilante</Name>
+    <Name>Vigilante (Обязательство)</Name>
     <Description>
       [H4]Vigilante[h4]
       Please see page 19 of the No Disintegrations Sourcebook for details.
@@ -378,7 +379,7 @@
   </Obligation>
   <Obligation>
     <Key>RULEBREAKER</Key>
-    <Name>Rule Breaker</Name>
+    <Name>Rule Breaker (Обязательство)</Name>
     <Description>
       [H4]Rule Breaker[h4]
       Please see page 19 of the No Disintegrations Sourcebook for details.
@@ -387,7 +388,7 @@
   </Obligation>
   <Obligation>
     <Key>KEEPERFAITH</Key>
-    <Name>Keeper of the Faith</Name>
+    <Name>Keeper of the Faith (Обязательство)</Name>
     <Description>
       [H4]Keeper of the Faith[h4]
       Please see page 19 of the No Disintegrations Sourcebook for details.
@@ -396,7 +397,7 @@
   </Obligation>
   <Obligation>
     <Key>FAME</Key>
-    <Name>Fame</Name>
+    <Name>Fame (Обязательство)</Name>
     <Description>
       [H4]Fame[h4]
       Please see page 19 of the No Disintegrations Sourcebook for details.

@@ -2,115 +2,115 @@
 <Duties>
   <Duty>
     <Key>COMBATVICTORY</Key>
-    <Name>Combat Victory</Name>
+    <Name>Победа на поле боя (Долг)</Name>
     <Description>
-      [H4]Combat Victory[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Победа на поле боя[h4]
+      Главный герой стремится показать, что Альянс может противостоять имперским силам в любом сражении. Он хочет вступить в бой с имперской армией — с лучшими её силами, когда это возможно, — и обеспечить Альянсу больше побед, чтобы тот мог хвастаться перед галактикой как доказательство своей способности в конечном итоге одержать победу. Это означает смелые рейды, превосходную тактику и приобретение максимально возможной огневой мощи
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>COUNTERINTELLIGENCE</Key>
-    <Name>Counter Intelligence</Name>
+    <Name>Контрразведка (Долг)</Name>
     <Description>
-      [H4]Counter Intelligence[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Контрразведка[h4]
+      Главный герой знает, что выживание Альянса зависит от его способности скрываться от Империи и избегать полного уничтожения от её подавляющего военного превосходства. С этой целью он хочет выслеживать и уничтожать вражеских агентов и угрозы, передавать ложную информацию имперским разведывательным сетям и скрывать от наблюдения и донесения перемещения всех активов Альянса.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>INTELLIGENCE</Key>
-    <Name>Intelligence</Name>
+    <Name>Разведка (Долг)</Name>
     <Description>
-      [H4]Intelligence[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Разведка[h4]
+      Главный герой знает, что каждая победа зависит от того, насколько хорошо он знает военную мощь Империи и другие её ресурсы. Он одержим желанием собрать все потенциально полезные данные, стремясь обнаружить жизненно важные и уязвимые цели, на которые могут нанести удар силы повстанцев. Он хочет знать не только о планах имперских военных фракций, но и о состоянии технологических исследований, экономической политике и других аспектах мощи Империи.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>INTERNALSECURITY</Key>
-    <Name>Internal Security</Name>
+    <Name>Внутренняя безопасность (Долг)</Name>
     <Description>
-      [H4]Internal Security[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Внутренняя безопасность[h4]
+      Самая опасная угроза для Альянса исходит из его собственных рядов. Любой солдат-повстанец, оперативник или союзник может представлять собой коварную угрозу, готовую в критический момент предпринять действия, чтобы обрушить целые операции, поставив под угрозу жизни и имущество. Зная, что бдительность по отношению к этим угрозам — это истинная форма преданности делу Альянса, персонаж игрока следит за любыми признаками предательства.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>PERSONNEL</Key>
-    <Name>Personnel</Name>
+    <Name>Персонал (Долг)</Name>
     <Description>
-      [H4]Personnel[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Персонал[h4]
+      Люди Альянса — это самые важные и жизненно необходимые активы, и персонаж игрока это понимает. Он предан обеспечению их безопасности, благополучия и способности к успеху. Никто не должен оставаться в стороне, самые успешные миссии могут не достигать всех целей, но они тем не менее успешны, когда никто не погибает.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>POLITICALSUPPORT</Key>
-    <Name>Political Support</Name>
+    <Name>Политическая поддержка (Долг)</Name>
     <Description>
-      [H4]Political Support[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Политическая поддержка[h4]
+      Каждый бластер, истребитель и термический детонатор в галактике бесполезны без политической воли, чтобы по-настоящему бросить вызов и свергнуть Палпатина и его Новый Порядок. Персонаж игрока прекрасно это понимает и преисполнен решимости добиться того, чтобы как можно больше фракций, систем и секторов перешли на сторону — и на помощь — Альянса против Империи.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>RECRUITING</Key>
-    <Name>Recruiting</Name>
+    <Name>Вербовка (Долг)</Name>
     <Description>
-      [H4]Recruiting[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Вербовка[h4]
+      Каждое столкновение с Империей — это война на истощение, и это война, которую Восстание просто не может выиграть. Тем не менее, необходимо найти больше людей для службы, и они нужны во всех сферах. Альянсу нужны не только солдаты и пилоты, но и техники, инженеры, механики, ученые, врачи, специалисты по взлому и практически все остальные работники. Этот персонаж игрока понимает риски вербовки, а также потребности. и постоянно ищет союзников, которые одновременно талантливы и заслуживают доверия.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>RESOURCEACQUISITION</Key>
-    <Name>Resource Acquisition</Name>
+    <Name>Добыча ресурсов (Долг)</Name>
     <Description>
-      [H4]Resource Acquisition[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Добыча ресурсов[h4]
+      Запасов никогда не бывает достаточно, чтобы полностью обеспечить тех, кто сражается против гигантской Империи, и этот персонаж игрока это прекрасно знает. Он полон решимости искать новые источники сырья, еды, одежды, оружия, брони и снаряжения всех видов. Один запасной ящик с аптечками может спасти немало жизней, а горстка коммуникаторов может означать разницу между успехом и провалом миссии. Он будет торговать, выпрашивать, занимать и красть все что угодно ради дела.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>SABOTAGE</Key>
-    <Name>Sabotage</Name>
+    <Name>Саботаж (Долг)</Name>
     <Description>
-      [H4]Sabotage[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Саботаж[h4]
+      Крупнейшая и самая мощная военная сила в истории галактики также наиболее уязвима для актов разрушения и лишения ресурсов. Персонаж сосредоточен на срыве имперских операций любыми возможными способами, будь то производство оружия, передвижение войск, поставки припасов, банковские системы или любая другая ключевая операция, чтобы заставить Империю действовать медленнее и менее эффективно. По-настоящему эффектные акты разрушения также подрывают волю населения поддерживать Империю, или, по крайней мере, так часто считает персонаж игрока (хотя Альянс прямо запрещает реальные акты терроризма).
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>SPACESUPERIORITY</Key>
-    <Name>Space Superiority</Name>
+    <Name>Превосходство в космосе (Долг)</Name>
     <Description>
-      [H4]Space Superiority[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Превосходство в космосе[h4]
+      Как персонаж игрока, ориентированный на победу в бою, относится к конфликтам войск, так и этот персонаж игрока относится к боевым столкновениям и морским сражениям. Для него война в конечном итоге решится в звёздах, и то, чего Альянсу не хватает в численности, он с лихвой компенсирует качеством и упорством своих пилотов. Каждое космическое сражение — это возможность показать остальной галактике, что Альянс не только может выиграть войну, но и обречен на победу.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>TECHPROCUREMENT</Key>
-    <Name>Tech Procurement</Name>
+    <Name>Получение технологий (Долг)</Name>
     <Description>
-      [H4]Tech Procurement[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Получение технологий[h4]
+      Нет более плодотворного и эффективного времени для технологических разработок, чем война, и эта война не исключение. Этот персонаж игрока видит истинную возможность для победы Альянса в руках ученых, инженеров и техников. Они не только могут максимально эффективно используют существующие машины и ресурсы, но могут проектировать и разрабатывать новые корабли, оружие, медицинские технологии и оборудование, которые могут обеспечить жизненно важное преимущество, необходимое для выживания против могущества Империи. По мнению этого персонажа, кража лучших разработок Империи — это важнейший способ уравнять шансы.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>SUPPORT</Key>
-    <Name>Support</Name>
+    <Name>Поддержка (Долг)</Name>
     <Description>
-      [H4]Support[h4]
-      Please see page 47 of the Age of Rebellion Core Rulebook for details.
+      [H4]Поддержка[h4]
+      В одиночку агенты Альянса не имеют шансов против объединенной мощи Галактической Империи. Только работая вместе, они могут надеяться на победу в этой гражданской войне. Этот персонаж предан делу помощи своим товарищам-повстанцам в выполнении их Долга, оказывая им любую необходимую помощь. Хотя он может не получать столько же наград или признания, сколько люди, которым он помогает, у персонажа гораздо больше возможностей, чем у его товарищей, выполнить свой Долг перед Восстанием.
     </Description>
     <Source Page="47">Age of Rebellion Core Rulebook</Source>
   </Duty>
   <Duty>
     <Key>AIRSUP</Key>
-    <Name>Air Superiority</Name>
+    <Name>Air Superiority (Долг)</Name>
     <Description>
       [H4]Air Superiority[h4]
       Please see page 19 of the Stay on Target Sourcebook for details.
@@ -119,7 +119,7 @@
   </Duty>
   <Duty>
     <Key>GROUNDSUP</Key>
-    <Name>Ground Superiority</Name>
+    <Name>Ground Superiority (Долг)</Name>
     <Description>
       [H4]Ground Superiority[h4]
       Please see page 19 of the Stay on Target Sourcebook for details.
@@ -128,7 +128,7 @@
   </Duty>
   <Duty>
     <Key>PLACHUNT</Key>
-    <Name>Placard Hunter</Name>
+    <Name>Placard Hunter (Долг)</Name>
     <Description>
       [H4]Placard Hunter[h4]
       Please see page 19 of the Stay on Target Sourcebook, or page 17 of the Forged in Battle Sourcebook, for details.
@@ -140,7 +140,7 @@
   </Duty>
   <Duty>
     <Key>TECHSUPERIORITY</Key>
-    <Name>Tech Superiority</Name>
+    <Name>Tech Superiority (Долг)</Name>
     <Description>
       [H4]Tech Superiority[h4]
       Please see page 19 of the Stay on Target Sourcebook for details.
@@ -149,7 +149,7 @@
   </Duty>
   <Duty>
     <Key>COMMFAC</Key>
-    <Name>Communication Facilitation</Name>
+    <Name>Communication Facilitation (Долг)</Name>
     <Description>
       [H4]Communication Facilitation[h4]
       Please see page 17 of the Desperate Allies Sourcebook for details.
@@ -158,7 +158,7 @@
   </Duty>
   <Duty>
     <Key>OPPLAN</Key>
-    <Name>Operation Planning</Name>
+    <Name>Operation Planning (Долг)</Name>
     <Description>
       [H4]Operation Planning[h4]
       Please see page 17 of the Desperate Allies Sourcebook for details.
@@ -167,7 +167,7 @@
   </Duty>
   <Duty>
     <Key>REBELBASE</Key>
-    <Name>Rebel Base</Name>
+    <Name>Rebel Base (Долг)</Name>
     <Description>
       [H4]Rebel Base[h4]
       Please see page 87 of the Desperate Allies Sourcebook for details.
@@ -176,7 +176,7 @@
   </Duty>
   <Duty>
     <Key>CAMAR</Key>
-    <Name>Camaraderie</Name>
+    <Name>Camaraderie (Долг)</Name>
     <Description>
       [H4]Camaraderie[h4]
       See page 17 of the Lead by Example Sourcebook for details.
@@ -185,7 +185,7 @@
   </Duty>
   <Duty>
     <Key>ENEMYDEMOR</Key>
-    <Name>Enemy Demoralization</Name>
+    <Name>Enemy Demoralization (Долг)</Name>
     <Description>
       [H4]Enemy Demoralization[h4]
       See page 17 of the Lead by Example Sourcebook for details.
@@ -194,7 +194,7 @@
   </Duty>
   <Duty>
     <Key>LOSSPREV</Key>
-    <Name>Loss Prevention</Name>
+    <Name>Loss Prevention (Долг)</Name>
     <Description>
       [H4]Loss Prevention[h4]
       See page 17 of the Lead by Example Sourcebook for details.
@@ -203,7 +203,7 @@
   </Duty>
   <Duty>
     <Key>CLEARSKIES</Key>
-    <Name>Clear Skies</Name>
+    <Name>Clear Skies (Долг)</Name>
     <Description>
       [H4]Clear Skies[h4]
       See page 17 of the Forged in Battle Sourcebook for details.
@@ -212,7 +212,7 @@
   </Duty>
   <Duty>
     <Key>MORALE</Key>
-    <Name>Morale</Name>
+    <Name>Morale (Долг)</Name>
     <Description>
       [H4]Morale[h4]
       See page 17 of the Forged in Battle Sourcebook for details.
@@ -221,7 +221,7 @@
   </Duty>
   <Duty>
     <Key>PSYCHWAR</Key>
-    <Name>Psychological Warfare</Name>
+    <Name>Psychological Warfare (Долг)</Name>
     <Description>
       [H4]Psychological Warfare[h4]
       See page 17 of the Forged in Battle Sourcebook, and page 17 of the Cyphers and Masks Sourcebook, for details.
@@ -233,7 +233,7 @@
   </Duty>
   <Duty>
     <Key>CHEMBIO</Key>
-    <Name>Chemical/Biological Analysis</Name>
+    <Name>Chemical/Biological Analysis (Долг)</Name>
     <Description>
       [H4]Chemical/Biological Analysis[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -242,7 +242,7 @@
   </Duty>
   <Duty>
     <Key>CIVOUT</Key>
-    <Name>Civilian Outreach</Name>
+    <Name>Civilian Outreach (Долг)</Name>
     <Description>
       [H4]Civilian Outreach[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -251,7 +251,7 @@
   </Duty>
   <Duty>
     <Key>DISREL</Key>
-    <Name>Disaster Relief</Name>
+    <Name>Disaster Relief (Долг)</Name>
     <Description>
       [H4]Disaster Relief[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -260,7 +260,7 @@
   </Duty>
   <Duty>
     <Key>ENVMANIP</Key>
-    <Name>Environmental Manipulation</Name>
+    <Name>Environmental Manipulation (Долг)</Name>
     <Description>
       [H4]Environmental Manipulation[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -269,7 +269,7 @@
   </Duty>
   <Duty>
     <Key>FIELDTRAIN</Key>
-    <Name>Field Training</Name>
+    <Name>Field Training (Долг)</Name>
     <Description>
       [H4]Field Training[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -278,7 +278,7 @@
   </Duty>
   <Duty>
     <Key>MUNITIONS</Key>
-    <Name>Munitions</Name>
+    <Name>Munitions (Долг)</Name>
     <Description>
       [H4]Munitions[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -287,7 +287,7 @@
   </Duty>
   <Duty>
     <Key>RANDD</Key>
-    <Name>Research and Development</Name>
+    <Name>Research and Development (Долг)</Name>
     <Description>
       [H4]Research and Development[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -296,7 +296,7 @@
   </Duty>
   <Duty>
     <Key>SURVEYENEMY</Key>
-    <Name>Surveying the Enemy</Name>
+    <Name>Surveying the Enemy (Долг)</Name>
     <Description>
       [H4]Surveying the Enemy[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -305,7 +305,7 @@
   </Duty>
   <Duty>
     <Key>SIEGEENG</Key>
-    <Name>Siege Engineering</Name>
+    <Name>Siege Engineering (Долг)</Name>
     <Description>
       [H4]Siege Engineering[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -314,7 +314,7 @@
   </Duty>
   <Duty>
     <Key>TESTING</Key>
-    <Name>Testing</Name>
+    <Name>Testing (Долг)</Name>
     <Description>
       [H4]Testing[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -323,7 +323,7 @@
   </Duty>
   <Duty>
     <Key>TRANSPORT</Key>
-    <Name>Transportation</Name>
+    <Name>Transportation (Долг)</Name>
     <Description>
       [H4]Transportation[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -332,7 +332,7 @@
   </Duty>
   <Duty>
     <Key>RESCUEREC</Key>
-    <Name>Rescue and Recovery/Evac</Name>
+    <Name>Rescue and Recovery/Evac (Долг)</Name>
     <Description>
       [H4]Rescue and Recovery/Evac[h4]
       See page 17 of the Fully Operational Sourcebook for details.
@@ -341,7 +341,7 @@
   </Duty>
   <Duty>
     <Key>COMM</Key>
-    <Name>Communications</Name>
+    <Name>Communications (Долг)</Name>
     <Description>
       [H4]Communications[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -350,7 +350,7 @@
   </Duty>
   <Duty>
     <Key>ANTIISB</Key>
-    <Name>Anti-ISB Efforts</Name>
+    <Name>Anti-ISB Efforts (Долг)</Name>
     <Description>
       [H4]Anti-ISB Efforts[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -359,7 +359,7 @@
   </Duty>
   <Duty>
     <Key>COUNTERMEAS</Key>
-    <Name>Countermeasures</Name>
+    <Name>Countermeasures (Долг)</Name>
     <Description>
       [H4]Countermeasures[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -368,7 +368,7 @@
   </Duty>
   <Duty>
     <Key>DOUBLEAGENT</Key>
-    <Name>Double Agent Recruitment</Name>
+    <Name>Double Agent Recruitment (Долг)</Name>
     <Description>
       [H4]Double Agent Recruitment[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -377,7 +377,7 @@
   </Duty>
   <Duty>
     <Key>DROIDRETASK</Key>
-    <Name>Droid Retasking</Name>
+    <Name>Droid Retasking (Долг)</Name>
     <Description>
       [H4]Droid Retasking[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -386,7 +386,7 @@
   </Duty>
   <Duty>
     <Key>INTERORESIST</Key>
-    <Name>Interrogation Resistance</Name>
+    <Name>Interrogation Resistance (Долг)</Name>
     <Description>
       [H4]Interrogation Resistance[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -395,7 +395,7 @@
   </Duty>
   <Duty>
     <Key>LEGENDCRAFT</Key>
-    <Name>Legend Crafting</Name>
+    <Name>Legend Crafting (Долг)</Name>
     <Description>
       [H4]Legend Crafting[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -404,7 +404,7 @@
   </Duty>
   <Duty>
     <Key>TACTINSIGHT</Key>
-    <Name>Tactical Insight</Name>
+    <Name>Tactical Insight (Долг)</Name>
     <Description>
       [H4]Tactical Insight[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.
@@ -413,7 +413,7 @@
   </Duty>
   <Duty>
     <Key>WETWORK</Key>
-    <Name>Wetwork</Name>
+    <Name>Wetwork (Долг)</Name>
     <Description>
       [H4]Wetwork[h4]
       See page 17 of the Cyphers and Masks Sourcebook for details.

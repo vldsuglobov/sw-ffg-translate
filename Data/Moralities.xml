@@ -2,10 +2,10 @@
 <Moralities>
   <Morality>
     <Key>BRAVERY</Key>
-    <Name>Bravery</Name>
+    <Name>Храбрость</Name>
     <Description>
-      [H4]Bravery (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Храбрость (Сила)[h4]
+      Храбрость персонажа весьма примечательна. Будь то противостояние нападающему ранкору или бросок в горящее здание, чтобы спасти невинных, он всегда готов рисковать, чтобы помочь другим
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -39,10 +39,10 @@
   </Morality>
   <Morality>
     <Key>LOVE</Key>
-    <Name>Love</Name>
+    <Name>Любовь</Name>
     <Description>
-      [H4]Love (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Любовь (Сила)[h4]
+      У персонажа открытое сердце. Хотя он может питать особую привязанность к своим товарищам или любимой, он, как правило, искренне симпатизирует большинству людей, которых встречает. Его любовь к другим делает его обаятельным, приветливым и чрезвычайно терпимым.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -64,10 +64,10 @@
   </Morality>
   <Morality>
     <Key>CAUTION</Key>
-    <Name>Caution</Name>
+    <Name>Осторожность</Name>
     <Description>
-      [H4]Caution (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Осторожность (Сила)[h4]
+       Персонаж обладает похвальной осмотрительностью, всегда готов подумать, прежде чем бросаться в новую ситуацию. Его дальновидность, возможно, неоднократно спасала его товарищей от опасных ситуаций.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -95,7 +95,7 @@
     <Key>CONSISTENCY</Key>
     <Name>Consistency</Name>
     <Description>
-      [H4]Consistency (Strength)[h4]
+      [H4]Consistency (Сила)[h4]
       Please see page 17 of the Keeping the Peace sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -126,10 +126,10 @@
   </Morality>
   <Morality>
     <Key>ENTHUSIASM</Key>
-    <Name>Enthusiasm</Name>
+    <Name>Энтузиазм</Name>
     <Description>
-      [H4]Enthusiasm (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Энтузиазм (Сила)[h4]
+      Персонаж всегда готов попробовать что-то новое и подходит ко всем своим задачам, даже к самым обыденным, с энтузиазмом. Он не склонен слишком много думать о ситуации, чтобы не упустить прекрасную новую возможность.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -166,7 +166,7 @@
     <Key>EMPATHY</Key>
     <Name>Empathy</Name>
     <Description>
-      [H4]Empathy (Strength)[h4]
+      [H4]Empathy (Сила)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -198,10 +198,10 @@
   </Morality>
   <Morality>
     <Key>COMPASSION</Key>
-    <Name>Compassion</Name>
+    <Name>Сострадание</Name>
     <Description>
-      [H4]Compassion (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Сострадание (Сила)[h4]
+      Персонаж сочувствует трудностям, с которыми сталкиваются другие, и хочет помочь тем, кого встречает. Его сострадание может привести к самопожертвованию ради помощи тем, кто в ней нуждается.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -219,10 +219,10 @@
   </Morality>
   <Morality>
     <Key>MERCY</Key>
-    <Name>Mercy</Name>
+    <Name>Милосердие</Name>
     <Description>
-      [H4]Mercy (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Милосердие (Сила)[h4]
+      Персонаж проявляет милосердие к своим врагам, относясь к ним справедливо и честно. Он может пощадить беззащитных, поможет беспомощному врагу и, как правило, не злоупотребляет своим положением.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -258,7 +258,7 @@
     <Key>DEDICATION</Key>
     <Name>Dedication</Name>
     <Description>
-      [H4]Dedication (Strength)[h4]
+      [H4]Dedication (Сила)[h4]
       Please see page 17 of the Keeping the Peace Sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -287,7 +287,7 @@
     <Key>ASSERTIVENESS</Key>
     <Name>Assertiveness</Name>
     <Description>
-      [H4]Assertiveness (Strength)[h4]
+      [H4]Assertiveness (Сила)[h4]
       Please see page 17 of the Savage Spirits Sourcebook, or page 16 of the Knights of Fate Sourcebook, for details.
     </Description>
     <Sources>
@@ -321,10 +321,10 @@
   </Morality>
   <Morality>
     <Key>CURIOSITY</Key>
-    <Name>Curiosity</Name>
+    <Name>Любопытство</Name>
     <Description>
-      [H4]Curiosity (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Любопытство (Сила)[h4]
+      Персонаж стремится узнавать новое, искать и открывать новую информацию и расширять свои знания и понимание того, что его интересует.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -351,10 +351,10 @@
   </Morality>
   <Morality>
     <Key>PRIDE</Key>
-    <Name>Pride</Name>
+    <Name>Гордость</Name>
     <Description>
-      [H4]Pride (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Гордость (Сила)[h4]
+      Гордость может быть сильной эмоцией и может подтолкнуть персонажа к впечатляющим личным достижениям. Он стремится быть лучшим и получать удовольствие от своих навыков.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -372,10 +372,10 @@
   </Morality>
   <Morality>
     <Key>INDEPENDENCE</Key>
-    <Name>Independence</Name>
+    <Name>Независимость</Name>
     <Description>
-      [H4]Independence (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Независимость (Сила)[h4]
+      Персонаж верит в то, что нужно полагаться на себя. Он не рассчитывает на других в выполнении задач; вместо этого он гарантирует, что сможет справиться с любой ситуацией, с которой столкнется. Он отказывается быть обузой для других.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -405,10 +405,10 @@
   </Morality>
   <Morality>
     <Key>AMBITION</Key>
-    <Name>Ambition</Name>
+    <Name>Амбиции</Name>
     <Description>
-      [H4]Ambition (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Амбиции (Сила)[h4]
+      Амбициозный персонаж ставит перед собой высокую цель, а затем стремится её достичь. Чем сложнее задача, тем охотнее персонаж берётся за неё, и тем большего триумфа он достигает, когда наконец добивается успеха.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -442,10 +442,10 @@
   </Morality>
   <Morality>
     <Key>JUSTICE</Key>
-    <Name>Justice</Name>
+    <Name>Справедливость</Name>
     <Description>
-      [H4]Justice (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Справедливость (Сила)[h4]
+      Персонаж стремится к справедливым и обдуманным действиям в своей жизни и во взаимодействии с другими. Он пытается каждый раз делать объективно правильный выбор, зная, что справедливость с большей вероятностью гарантирует положительные результаты, чем сочувствие или другие эмоциональные проявления.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -471,10 +471,10 @@
   </Morality>
   <Morality>
     <Key>DISCIPLINE</Key>
-    <Name>Discipline</Name>
+    <Name>Дисциплина</Name>
     <Description>
-      [H4]Discipline (Strength)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Дисциплина (Сила)[h4]
+      Строгая умственная и физическая дисциплина естественна для персонажа. Он не делает выборы опрометчиво, и каждое действие точно и обдуманно. Те, кто думает, что могут подтолкнуть персонажа к совершению глупых поступков, глубоко ошибаются.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Strength</Type>
@@ -510,7 +510,7 @@
     <Key>FRUGAL</Key>
     <Name>Frugality</Name>
     <Description>
-      [H4]Frugality (Strength)[h4]
+      [H4]Frugality (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -543,7 +543,7 @@
     <Key>WONDER</Key>
     <Name>Wonder</Name>
     <Description>
-      [H4]Wonder (Strength)[h4]
+      [H4]Wonder (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -576,7 +576,7 @@
     <Key>RIGHT</Key>
     <Name>Righteousness</Name>
     <Description>
-      [H4]Righteousness (Strength)[h4]
+      [H4]Righteousness (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -609,7 +609,7 @@
     <Key>MODESTY</Key>
     <Name>Modesty</Name>
     <Description>
-      [H4]Modesty (Strength)[h4]
+      [H4]Modesty (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -638,7 +638,7 @@
     <Key>TRUST</Key>
     <Name>Trust</Name>
     <Description>
-      [H4]Trust (Strength)[h4]
+      [H4]Trust (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -671,7 +671,7 @@
     <Key>MALLEAB</Key>
     <Name>Malleability</Name>
     <Description>
-      [H4]Malleability (Strength)[h4]
+      [H4]Malleability (Сила)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -704,7 +704,7 @@
     <Key>REASON</Key>
     <Name>Reason</Name>
     <Description>
-      [H4]Reason (Strength)[h4]
+      [H4]Reason (Сила)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -737,7 +737,7 @@
     <Key>CLEVER</Key>
     <Name>Cleverness</Name>
     <Description>
-      [H4]Cleverness (Strength)[h4]
+      [H4]Cleverness (Сила)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -770,7 +770,7 @@
     <Key>PATIENT</Key>
     <Name>Patience</Name>
     <Description>
-      [H4]Patience (Strength)[h4]
+      [H4]Patience (Сила)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -803,7 +803,7 @@
     <Key>CHARITY</Key>
     <Name>Charity</Name>
     <Description>
-      [H4]Charity (Strength)[h4]
+      [H4]Charity (Сила)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -836,7 +836,7 @@
     <Key>CERTAINTY</Key>
     <Name>Certainty</Name>
     <Description>
-      [H4]Certainty (Strength)[h4]
+      [H4]Certainty (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -869,7 +869,7 @@
     <Key>CLARITY</Key>
     <Name>Clarity</Name>
     <Description>
-      [H4]Clarity (Strength)[h4]
+      [H4]Clarity (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -902,7 +902,7 @@
     <Key>HUMILITY</Key>
     <Name>Humility</Name>
     <Description>
-      [H4]Humility (Strength)[h4]
+      [H4]Humility (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -935,7 +935,7 @@
     <Key>WELLNESS</Key>
     <Name>Wellness</Name>
     <Description>
-      [H4]Wellness (Strength)[h4]
+      [H4]Wellness (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -968,7 +968,7 @@
     <Key>JOY</Key>
     <Name>Joy</Name>
     <Description>
-      [H4]Joy (Strength)[h4]
+      [H4]Joy (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1001,7 +1001,7 @@
     <Key>FONDNESS</Key>
     <Name>Fondness</Name>
     <Description>
-      [H4]Fondness (Strength)[h4]
+      [H4]Fondness (Сила)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1034,7 +1034,7 @@
     <Key>CONFIDENCE</Key>
     <Name>Confidence</Name>
     <Description>
-      [H4]Confidence (Strength)[h4]
+      [H4]Confidence (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1063,7 +1063,7 @@
     <Key>CAMARADERIE</Key>
     <Name>Camaraderie</Name>
     <Description>
-      [H4]Camaraderie (Strength)[h4]
+      [H4]Camaraderie (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1092,7 +1092,7 @@
     <Key>CONVICTION</Key>
     <Name>Conviction</Name>
     <Description>
-      [H4]Conviction (Strength)[h4]
+      [H4]Conviction (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1121,7 +1121,7 @@
     <Key>HONOR</Key>
     <Name>Honor</Name>
     <Description>
-      [H4]Honor (Strength)[h4]
+      [H4]Honor (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1151,7 +1151,7 @@
     <Key>CONSIDERATION</Key>
     <Name>Consideration</Name>
     <Description>
-      [H4]Consideration (Strength)[h4]
+      [H4]Consideration (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1180,7 +1180,7 @@
     <Key>SYMPATHY</Key>
     <Name>Sympathy</Name>
     <Description>
-      [H4]Sympathy (Strength)[h4]
+      [H4]Sympathy (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1209,7 +1209,7 @@
     <Key>IDEALISM</Key>
     <Name>Idealism</Name>
     <Description>
-      [H4]Idealism (Strength)[h4]
+      [H4]Idealism (Сила)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1241,120 +1241,120 @@
   <!-- Weaknesses -->
   <Morality>
     <Key>ANGER</Key>
-    <Name>Anger</Name>
+    <Name>Гнев</Name>
     <Description>
-      [H4]Anger (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Гнев (Слабость)[h4]
+      Однако вспыльчивость легко может привести к пылкому гневу. Персонаж быстро выходит из себя, и то, с чем он не может справиться лицом к лицу, часто приводит его в ярость.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>JEALOUSY</Key>
-    <Name>Jealousy</Name>
+    <Name>Ревность</Name>
     <Description>
-      [H4]Jealousy (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Ревноть (Слабость)[h4]
+      Любовь, если она не дарована бескорыстно, может быстро перерасти в ревность. Личность персонажа склонна к зависти, если его любовь не взаимна, или иногда он просто завидует достижениям или имуществу других.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>FEAR</Key>
-    <Name>Fear</Name>
+    <Name>Страх</Name>
     <Description>
-      [H4]Fear (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Страх (Слабость)[h4]
+      Грань между осторожностью и страхом очень тонкая. Иногда персонаж слишком много времени тратит на беспокойство о потенциальных проблемах ситуации, чтобы вообще действовать в этой ситуации. В других случаях его осторожность заставляет его бежать, когда возникает опасность, хотя более смелые действия могут принести реальную пользу.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>RECKLESSNESS</Key>
-    <Name>Recklessness</Name>
+    <Name>Безрассудство</Name>
     <Description>
-      [H4]Recklessness (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Безрассудство (Слабость)[h4]
+      Конечно, немного размышлений может многое сделать для того, чтобы уберечь кого-то от серьезной ошибки, о которой этот персонаж может с горечью узнать не раз. Безрассудное поведение может привести его в опасные ситуации или сделать жертвой более расчетливых личностей.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>HATRED</Key>
-    <Name>Hatred</Name>
+    <Name>Ненависть</Name>
     <Description>
-      [H4]Hatred (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Ненависть (Слабость)[h4]
+      Галактика может быть жестоким и бессердечным местом, и сострадание может быстро перерасти в ненависть к тем, к отдельным лицам или ситуациям, которые причиняют страдания другим. Когда разум персонажа бурлит кипящей ненавистью, эта ненависть может угасать слишком медленно.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>APATHY</Key>
-    <Name>Weakness</Name>
+    <Name>Слабость</Name>
     <Description>
-      [H4]Weakness (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Слабость (Слабость)[h4]
+      Существует тонкая грань между проявлением милосердия к своим врагам и позволением злу разрастаться, потому что человек не хочет с ним взаимодействовать. Персонаж может позволять плохим вещам происходить просто потому, что с ними слишком трудно справиться.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>OBSESSION</Key>
-    <Name>Obsession</Name>
+    <Name>Навязчивая идея</Name>
     <Description>
-      [H4]Obsession (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Навязчивая идея (Слабость)[h4]
+      Иногда интерес к чему-либо может перерасти в навязчивую идею, если не будет уравновешен разумом. Персонаж может впасть в навязчивое состояние, одержимый желанием найти информацию, достичь цели или даже победить соперника, и он может игнорировать все остальное, пока успех не станет его уделом.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>ARROGANCE</Key>
-    <Name>Arrogance</Name>
+    <Name>Высокомерие</Name>
     <Description>
-      [H4]Arrogance (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Высокомерие (Слабость)[h4]
+      Гордость, среди всех эмоций, пожалуй, легче всего поддается негативным проявлениям. Высокомерие отражает гордость, но удовлетворение от собственных достижений сменяется презрением к неудачам других. Недостаточно просто преуспеть; персонаж также ожидает, что все остальные потерпят неудачу.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>COLDNESS</Key>
-    <Name>Coldness</Name>
+    <Name>Холодность</Name>
     <Description>
-      [H4]Coldness (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Холодность (Слабость)[h4]
+      Самостоятельность может перерасти в изоляцию, если не быть осторожным. Холодный персонаж не просто желает полагаться только на себя, но и проявляет полное безразличие ко всем остальным. Если они не могут помочь себе, зачем ему им помогать?
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>GREED</Key>
-    <Name>Greed</Name>
+    <Name>Жадность</Name>
     <Description>
-      [H4]Greed (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Жадность (Слабость)[h4]
+      Амбициозный персонаж настолько бескорыстен, насколько бескорыстны его цели. Те, кто стремится к мирским удовольствиям, будь то власть, богатство или личный комфорт, могут быстро обнаружить, что их амбиции превращаются в простую жадность.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>CRUELTY</Key>
-    <Name>Cruelty</Name>
+    <Name>Жестокость</Name>
     <Description>
-      [H4]Cruelty (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Жестокость (Слабость)[h4]
+      Слишком часто жестокие люди используют правосудие, чтобы оправдать свои действия. Если человек удержится от того, чтобы смягчить справедливость сочувствием и пониманием, он может причинить большой вред другим и чувствовать себя оправданным. В конце концов, он может начать получать удовольствие от страданий других, даже обманывая себя, думая, что делает «справедливый» выбор.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
   </Morality>
   <Morality>
     <Key>OBSTINATENESS</Key>
-    <Name>Obstinance</Name>
+    <Name>Упрямство</Name>
     <Description>
-      [H4]Obstinance (Weakness)[h4]
-      Please see page 50 of the Force and Destiny Core Rulebook for details.
+      [H4]Упрямство (Слабость)[h4]
+      Дисциплинированные люди могут попасть в ловушку простого упрямства, если не будут осторожны. Упрямый человек часто отказывается рассматривать какой-либо другой вариант действий, кроме выбранного им самим, не желая признавать, что кто-то другой мог придумать лучший вариант.
     </Description>
     <Source Page="50">Force and Destiny Core Rulebook</Source>
     <Type>Weakness</Type>
@@ -1363,7 +1363,7 @@
     <Key>INDECISION</Key>
     <Name>Indecision</Name>
     <Description>
-      [H4]Indecision (Weakness)[h4]
+      [H4]Indecision (Слабость)[h4]
       Please see page 17 of the Keeping the Peace Sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -1373,7 +1373,7 @@
     <Key>NAIVETE</Key>
     <Name>Naïveté</Name>
     <Description>
-      [H4]Naïveté (Weakness)[h4]
+      [H4]Naïveté (Слабость)[h4]
       Please see page 17 of the Keeping the Peace Sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -1383,7 +1383,7 @@
     <Key>IMPATIENCE</Key>
     <Name>Impatience</Name>
     <Description>
-      [H4]Impatience (Weakness)[h4]
+      [H4]Impatience (Слабость)[h4]
       Please see page 17 of the Keeping the Peace Sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -1393,7 +1393,7 @@
     <Key>INTOLERANCE</Key>
     <Name>Intolerance</Name>
     <Description>
-      [H4]Intolerance (Weakness)[h4]
+      [H4]Intolerance (Слабость)[h4]
       Please see page 17 of the Keeping the Peace Sourcebook for details.
     </Description>
     <Source Page="17">Keeping the Peace</Source>
@@ -1403,7 +1403,7 @@
     <Key>DISARRAY</Key>
     <Name>Disarray</Name>
     <Description>
-      [H4]Disarray (Weakness)[h4]
+      [H4]Disarray (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1413,7 +1413,7 @@
     <Key>VENGEANCE</Key>
     <Name>Vengeance</Name>
     <Description>
-      [H4]Vengeance (Weakness)[h4]
+      [H4]Vengeance (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1423,7 +1423,7 @@
     <Key>OBSTINACY</Key>
     <Name>Obstinacy</Name>
     <Description>
-      [H4]Obstinacy (Weakness)[h4]
+      [H4]Obstinacy (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1433,7 +1433,7 @@
     <Key>DISDAIN</Key>
     <Name>Disdain</Name>
     <Description>
-      [H4]Disdain (Weakness)[h4]
+      [H4]Disdain (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1443,7 +1443,7 @@
     <Key>COLDHEART</Key>
     <Name>Cold-Heartedness</Name>
     <Description>
-      [H4]Cold-heartedness (Weakness)[h4]
+      [H4]Cold-heartedness (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1453,7 +1453,7 @@
     <Key>MERCILESSNESS</Key>
     <Name>Mercilessness</Name>
     <Description>
-      [H4]Mercilessness (Weakness)[h4]
+      [H4]Mercilessness (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1463,7 +1463,7 @@
     <Key>CLOSEDMIND</Key>
     <Name>Closed-mindedness</Name>
     <Description>
-      [H4]Closed-mindedness (Weakness)[h4]
+      [H4]Closed-mindedness (Слабость)[h4]
       Please see page 17 of the Savage Spirits Sourcebook for details.
     </Description>
     <Source Page="17">Savage Spirits</Source>
@@ -1473,7 +1473,7 @@
     <Key>DEFIANCE</Key>
     <Name>Defiance</Name>
     <Description>
-      [H4]Defiance (Weakness)[h4]
+      [H4]Defiance (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1483,7 +1483,7 @@
     <Key>CONDEMN</Key>
     <Name>Condemnation</Name>
     <Description>
-      [H4]Condemnation (Weakness)[h4]
+      [H4]Condemnation (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1493,7 +1493,7 @@
     <Key>ALIENATION</Key>
     <Name>Alienation</Name>
     <Description>
-      [H4]Alienation (Weakness)[h4]
+      [H4]Alienation (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1503,7 +1503,7 @@
     <Key>WEARINESS</Key>
     <Name>Weariness</Name>
     <Description>
-      [H4]Weariness (Weakness)[h4]
+      [H4]Weariness (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1513,7 +1513,7 @@
     <Key>SPITE</Key>
     <Name>Spite</Name>
     <Description>
-      [H4]Spite (Weakness)[h4]
+      [H4]Spite (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1523,7 +1523,7 @@
     <Key>VANITY</Key>
     <Name>Vanity</Name>
     <Description>
-      [H4]Vanity (Weakness)[h4]
+      [H4]Vanity (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook, and page 16 of the Knights of Fate Sourcebook, for details.
     </Description>
     <Sources>
@@ -1536,7 +1536,7 @@
     <Key>GUARDED</Key>
     <Name>Guardedness</Name>
     <Description>
-      [H4]Guardedness (Weakness)[h4]
+      [H4]Guardedness (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1546,7 +1546,7 @@
     <Key>DOGMATIC</Key>
     <Name>Dogmatic</Name>
     <Description>
-      [H4]Dogmatic (Weakness)[h4]
+      [H4]Dogmatic (Слабость)[h4]
       Please see page 17 of the Endless Vigil Sourcebook for details.
     </Description>
     <Source Page="17">Endless Vigil</Source>
@@ -1556,7 +1556,7 @@
     <Key>APATHYW</Key>
     <Name>Apathy</Name>
     <Description>
-      [H4]Apathy (Weakness)[h4]
+      [H4]Apathy (Слабость)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -1566,7 +1566,7 @@
     <Key>SOPH</Key>
     <Name>Sophism</Name>
     <Description>
-      [H4]Sophism (Weakness)[h4]
+      [H4]Sophism (Слабость)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -1576,7 +1576,7 @@
     <Key>CONDES</Key>
     <Name>Condescension</Name>
     <Description>
-      [H4]Condescension (Weakness)[h4]
+      [H4]Condescension (Слабость)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -1586,7 +1586,7 @@
     <Key>MARTYR</Key>
     <Name>Martyrdom</Name>
     <Description>
-      [H4]Martyrdom (Weakness)[h4]
+      [H4]Martyrdom (Слабость)[h4]
       Please see page 15 of the Disciples of Harmony Sourcebook for details.
     </Description>
     <Source Page="15">Disciples of Harmony</Source>
@@ -1596,7 +1596,7 @@
     <Key>SORROW</Key>
     <Name>Sorrow</Name>
     <Description>
-      [H4]Sorrow (Weakness)[h4]
+      [H4]Sorrow (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1606,7 +1606,7 @@
     <Key>EGOISM</Key>
     <Name>Egoism</Name>
     <Description>
-      [H4]Egoism (Weakness)[h4]
+      [H4]Egoism (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1616,7 +1616,7 @@
     <Key>CONFUSION</Key>
     <Name>Confusion</Name>
     <Description>
-      [H4]Confusion (Weakness)[h4]
+      [H4]Confusion (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1626,7 +1626,7 @@
     <Key>WORTHLESSNESS</Key>
     <Name>Worthlessness</Name>
     <Description>
-      [H4]Worthlessness (Weakness)[h4]
+      [H4]Worthlessness (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1636,7 +1636,7 @@
     <Key>RIGID</Key>
     <Name>Rigid</Name>
     <Description>
-      [H4]Rigid (Weakness)[h4]
+      [H4]Rigid (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1646,7 +1646,7 @@
     <Key>ANTIPATHY</Key>
     <Name>Antipathy</Name>
     <Description>
-      [H4]Antipathy (Weakness)[h4]
+      [H4]Antipathy (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1656,7 +1656,7 @@
     <Key>DEMANDING</Key>
     <Name>Demanding</Name>
     <Description>
-      [H4]Demanding (Weakness)[h4]
+      [H4]Demanding (Слабость)[h4]
       Please see page 17 of the Unlimited Power Sourcebook for details.
     </Description>
     <Source Page="17">Unlimited Power</Source>
@@ -1666,7 +1666,7 @@
     <Key>REPRESSION</Key>
     <Name>Repression</Name>
     <Description>
-      [H4]Repression (Weakness)[h4]
+      [H4]Repression (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1676,7 +1676,7 @@
     <Key>CONFORMITY</Key>
     <Name>Conformity</Name>
     <Description>
-      [H4]Conformity (Weakness)[h4]
+      [H4]Conformity (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1686,7 +1686,7 @@
     <Key>JUDGING</Key>
     <Name>Judging</Name>
     <Description>
-      [H4]Judging (Weakness)[h4]
+      [H4]Judging (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1696,7 +1696,7 @@
     <Key>HESITANCY</Key>
     <Name>Hesitancy</Name>
     <Description>
-      [H4]Hesitancy (Weakness)[h4]
+      [H4]Hesitancy (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1706,7 +1706,7 @@
     <Key>DESPERATION</Key>
     <Name>Desperation</Name>
     <Description>
-      [H4]Desperation (Weakness)[h4]
+      [H4]Desperation (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
@@ -1716,7 +1716,7 @@
     <Key>NAIVETY</Key>
     <Name>Naivety</Name>
     <Description>
-      [H4]Naivety (Weakness)[h4]
+      [H4]Naivety (Слабость)[h4]
       Please see page 16 of the Knights of Fate Sourcebook for details.
     </Description>
     <Source Page="16">Knights of Fate</Source>
